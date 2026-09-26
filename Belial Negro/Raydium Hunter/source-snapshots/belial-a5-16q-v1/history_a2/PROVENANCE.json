@@ -1,0 +1,64 @@
+{
+  "schema": "belial_a2_provenance_v1",
+  "date": "2026-09-25",
+  "source_archive": "BELIAL_A1_90M_PACOTE.zip",
+  "source_sha256": "bc0dbd2e999ae1890941904e4f238cace4b18208b86bc926474712d93e1050ae",
+  "result_archive": "BELIAL_A1_90M_RESULTADO_20260925T125338941511Z.zip",
+  "result_sha256": "9e23a2dc6750c2a5ce122a6abe3c6d7aa5ede00c8607f1fb2afafb16d4956653",
+  "duration_minutes": 90,
+  "native_build_this_environment": false,
+  "native_build_proof_from_A1_is_not_A2_proof": true,
+  "core12": 12,
+  "expansion12": 12,
+  "old_weights_overwritten": false,
+  "signal_rules_changed": false,
+  "label_revision": "A2_OBSERVED_PATH_SWAP_PLUS_VERIFIED_POOL_SNAPSHOT_V1",
+  "legacy_manifest_sha256": "75806fba58ac5b474f753794e2784bb6d578105a2461f4c01402976488e5a653",
+  "native_contracts": {
+    "Cargo.lock": {
+      "a1_sha256": "6dcacb639b1d1adda7699035da96e095e50f72d6b27bfbb72cf5260d278b1cee",
+      "a2_sha256": "6dcacb639b1d1adda7699035da96e095e50f72d6b27bfbb72cf5260d278b1cee",
+      "same_bytes": true
+    },
+    "Cargo.toml": {
+      "a1_sha256": "4ebaddb64744391167d2c0e0590550c1414ea5c0c9762b2b55623d02ab672e76",
+      "a2_sha256": "4ebaddb64744391167d2c0e0590550c1414ea5c0c9762b2b55623d02ab672e76",
+      "same_bytes": true
+    },
+    "tests/protocol_cases.jsonl": {
+      "a1_sha256": "c39b2fe58cdf903526cfc38a42635e251275248c2c4a405563b72adaf6a65603",
+      "a2_sha256": "c39b2fe58cdf903526cfc38a42635e251275248c2c4a405563b72adaf6a65603",
+      "same_bytes": true
+    },
+    "src/m2_core.rs": {
+      "a1_sha256": "3219fb00d0d654cde050624bd23947d5f344ecd13996f07f409a57537ca6fb94",
+      "a2_sha256": "3219fb00d0d654cde050624bd23947d5f344ecd13996f07f409a57537ca6fb94",
+      "same_bytes": true
+    },
+    "src/raydium_protocols.rs": {
+      "a1_sha256": "6e1521b747d4066e41eff0cecf82547f9acf9ebd4ba35fc53d58ae766e8774e0",
+      "a2_sha256": "6e1521b747d4066e41eff0cecf82547f9acf9ebd4ba35fc53d58ae766e8774e0",
+      "same_bytes": true
+    },
+    "src/main.rs": {
+      "a1_sha256": "ced75b9da2114de0dce289c21e9d8a45fdfc212fa6464f2553604ab7b5331bf3",
+      "a2_sha256": "56aece73539dc04153520016f73a3be24dfd5fcf2a69ba7844b11c7e0c471335",
+      "same_bytes": false
+    },
+    "src/token_programs.rs": {
+      "a1_sha256": "4661e320caba33dde2071c1874b2da2aaf1c9c1e4b7a6269b87b931ce7c9301b",
+      "a2_sha256": "4661e320caba33dde2071c1874b2da2aaf1c9c1e4b7a6269b87b931ce7c9301b",
+      "same_bytes": true
+    },
+    "src/bin/belial-spot-raw.rs": {
+      "a1_sha256": "569a28fea2070cbf1c9d14ed2691e98b8be421853d1adba8d00a754b07ed8813",
+      "a2_sha256": "465e32779060ec149ecf95681636139389bd298d1b8d56e15c0f377c2dbab5f9",
+      "same_bytes": false
+    },
+    "src/bin/belial-perp-feed.rs": {
+      "a1_sha256": "133323fb3afbec45e397a21f522ba1b029d1db52f817c85e22ba4c10ac698d3a",
+      "a2_sha256": "133323fb3afbec45e397a21f522ba1b029d1db52f817c85e22ba4c10ac698d3a",
+      "same_bytes": true
+    }
+  }
+}

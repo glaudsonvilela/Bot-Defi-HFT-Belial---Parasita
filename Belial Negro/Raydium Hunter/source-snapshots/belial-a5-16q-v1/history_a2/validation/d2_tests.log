@@ -1,0 +1,9 @@
+test_countdown (test_dashboard_ultra.T.test_countdown) ... ok
+test_event_driven_microsecond_contract (test_dashboard_ultra.T.test_event_driven_microsecond_contract) ... ok
+test_partial_tail (test_dashboard_ultra.T.test_partial_tail) ... ok
+test_pct (test_dashboard_ultra.T.test_pct) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK

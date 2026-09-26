@@ -1,52 +1,18 @@
-# Bot Belial — Estado atual
+# Bot Belial - Estado atual
 
-## Continuidade
+## Linha atual
 
-Continuação direta do projeto **Belial 0.0.5**.
+**BELIAL_A5_16Q bootstrap concluido localmente.**
 
-Raiz operacional local:
-
-```text
-/mnt/sherlock-ssd/Bot Belial/Belial Negro/Raydium Hunter
-```
-
-## Segurança operacional
-
-- PAPER / SHADOW somente.
-- Nenhuma ordem financeira real nesta fase.
-- Contratos/testes congelados não são relaxados para fazer instalação passar.
-- Backups, hashes, instaladores e evidências locais são preservados.
-
-## A4 FIX4
-
-O A4 permanece com **24 ativos**.
-
-O FIX4 fecha especificamente a regressão observada no FIX3:
+Base congelada:
 
 ```text
-esperado: ['src/main.rs']
-FIX3:     ['src/main.rs', 'src/raydium_protocols.rs']
-FIX4:     ['src/main.rs']
+bd554ed fix(a4): track canonical FIX4 validation members
 ```
 
-`engine_a4/src/raydium_protocols.rs` é restaurado byte-a-byte de
-`engine_a2/src/raydium_protocols.rs`.
+A4 FIX4 permanece preservado e separado.
 
-Gates locais do pacote FIX4:
-
-- suítes offline: PASS;
-- grupo A4: PASS;
-- Rust native test/build: PASS;
-- release imutável: `belial-a4-90m-v1-fix4`;
-- ordens: false.
-
-A captura de mercado de 90 minutos não é declarada por este checkpoint.
-
-## Próxima linha
-
-A próxima linha é **BELIAL_A5_16Q**, isolada do A4.
-
-Universo:
+## A5 16Q
 
 ```text
 FARTCOIN BOME WIF POPCAT
@@ -55,11 +21,17 @@ PUMP USELESS GRASS PYTH
 RENDER KMNO MEW MPLX
 ```
 
-Direção:
+- 16 ativos;
+- CORE12 + FOCUS4;
+- 90 minutos preservados;
+- PAPER / SHADOW;
+- ordens=false;
+- thresholds/sizing/exit policies nao alterados;
+- namespace `a5/` separado;
+- engine `engine_a5/` separado;
+- testes `tests_a5/` separados;
+- captura A5 de 90 minutos ainda nao iniciada.
 
-- reduzir fan-out para 16 pools;
-- melhorar freshness e estabilidade;
-- impedir desaparecimento visual de preço sem inventar cotação;
-- terminal Bloomberg F1/F2/F3/F4 com caminho visual em Rust;
-- N2 fast path;
-- sensores externos somente SHADOW inicialmente.
+## Proximo gate
+
+Checkpoint Git do bootstrap A5, depois sessao `BELIAL_A5_16Q_90M`.
