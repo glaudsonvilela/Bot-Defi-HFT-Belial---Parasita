@@ -1,0 +1,57 @@
+DASHBOARD_URL=http://127.0.0.1:39601/
+test_crossed_book (test_books_paper.BookTests.test_crossed_book) ... ok
+test_depth_weighted_vwap (test_books_paper.BookTests.test_depth_weighted_vwap) ... ok
+test_duplicate_snapshot_does_not_refresh (test_books_paper.BookTests.test_duplicate_snapshot_does_not_refresh) ... ok
+test_gap_quarantines (test_books_paper.BookTests.test_gap_quarantines) ... ok
+test_insufficient_depth_never_fabricates (test_books_paper.BookTests.test_insufficient_depth_never_fabricates) ... ok
+test_invalid_size (test_books_paper.BookTests.test_invalid_size) ... ok
+test_li_delta_and_zero_remove (test_books_paper.BookTests.test_li_delta_and_zero_remove) ... ok
+test_min_step_invalid (test_books_paper.BookTests.test_min_step_invalid) ... ok
+test_multiplier_normalizes_quantity_and_price (test_books_paper.BookTests.test_multiplier_normalizes_quantity_and_price) ... ok
+test_nonfinite_price (test_books_paper.BookTests.test_nonfinite_price) ... ok
+test_old_source_new_receive_still_stale (test_books_paper.BookTests.test_old_source_new_receive_still_stale) ... ok
+test_snapshot_after_reconnect (test_books_paper.BookTests.test_snapshot_after_reconnect) ... ok
+test_snapshot_replaces (test_books_paper.BookTests.test_snapshot_replaces) ... ok
+test_step_floor_not_round_up (test_books_paper.BookTests.test_step_floor_not_round_up) ... ok
+test_ticker_does_not_execute_or_refresh_depth (test_books_paper.BookTests.test_ticker_does_not_execute_or_refresh_depth) ... ok
+test_timestamp_future (test_books_paper.BookTests.test_timestamp_future) ... ok
+test_alias_multiplier (test_books_paper.MetadataTests.test_alias_multiplier) ... ok
+test_duplicate_symbol_rejected (test_books_paper.MetadataTests.test_duplicate_symbol_rejected) ... ok
+test_hl_delisted_excluded (test_books_paper.MetadataTests.test_hl_delisted_excluded) ... ok
+test_lighter_spot_not_perp (test_books_paper.MetadataTests.test_lighter_spot_not_perp) ... ok
+test_unknown_schema_fails (test_books_paper.MetadataTests.test_unknown_schema_fails) ... ok
+test_capital_is_bounded_per_scenario (test_books_paper.PaperTests.test_capital_is_bounded_per_scenario) ... ok
+test_cost_gate (test_books_paper.PaperTests.test_cost_gate) ... ok
+test_entry_cancelled_when_connection_changed (test_books_paper.PaperTests.test_entry_cancelled_when_connection_changed) ... ok
+test_episode_dedup (test_books_paper.PaperTests.test_episode_dedup) ... ok
+test_expired_exit_keeps_exit_intent (test_books_paper.PaperTests.test_expired_exit_keeps_exit_intent) ... ok
+test_funding_crossing_unknown_not_zero (test_books_paper.PaperTests.test_funding_crossing_unknown_not_zero) ... ok
+test_funding_future_not_applied (test_books_paper.PaperTests.test_funding_future_not_applied) ... ok
+test_future_signal_rejected (test_books_paper.PaperTests.test_future_signal_rejected) ... ok
+test_lighter_delay_and_route_selection_not_hindsight (test_books_paper.PaperTests.test_lighter_delay_and_route_selection_not_hindsight) ... ok
+test_missing_index_funding_remains_unknown (test_books_paper.PaperTests.test_missing_index_funding_remains_unknown) ... ok
+test_missing_new_book_cannot_fill (test_books_paper.PaperTests.test_missing_new_book_cannot_fill) ... ok
+test_no_close_on_session_end (test_books_paper.PaperTests.test_no_close_on_session_end) ... ok
+test_no_entry_before_latency (test_books_paper.PaperTests.test_no_entry_before_latency) ... ok
+test_no_trade_from_non_episode (test_books_paper.PaperTests.test_no_trade_from_non_episode) ... ok
+test_order_expiry_not_fake_fill (test_books_paper.PaperTests.test_order_expiry_not_fake_fill) ... ok
+test_policies_not_summed (test_books_paper.PaperTests.test_policies_not_summed) ... ok
+test_positive_funding_credits_short_once (test_books_paper.PaperTests.test_positive_funding_credits_short_once) ... ok
+test_roundtrip_fees_on_each_actual_notional (test_books_paper.PaperTests.test_roundtrip_fees_on_each_actual_notional) ... ok
+test_spread_not_subtracted_twice (test_books_paper.PaperTests.test_spread_not_subtracted_twice) ... ok
+test_stale_close_now_is_null (test_books_paper.PaperTests.test_stale_close_now_is_null) ... ok
+test_stale_signal_rejected (test_books_paper.PaperTests.test_stale_signal_rejected) ... ok
+test_stop_uses_perp_ask_not_spot_reference (test_books_paper.PaperTests.test_stop_uses_perp_ask_not_spot_reference) ... ok
+test_unsafe_config_refused (test_books_paper.PaperTests.test_unsafe_config_refused) ... ok
+test_http_loopback_get_only (test_service.ServiceTests.test_http_loopback_get_only) ... ok
+test_journal_roundtrip_and_compressed_raw (test_service.ServiceTests.test_journal_roundtrip_and_compressed_raw) ... ok
+test_service_end_to_end_fixture_no_exchange_connection (test_service.ServiceTests.test_service_end_to_end_fixture_no_exchange_connection)
+Real subprocess + pipe + parsing + PAPER + audit + final HTML; synthetic data only. ... ok
+test_sse_preserves_event_type_and_json (test_service.ServiceTests.test_sse_preserves_event_type_and_json) ... ok
+test_tail_partial_record_then_finish (test_service.ServiceTests.test_tail_partial_record_then_finish) ... ok
+test_tail_truncation_rejected (test_service.ServiceTests.test_tail_truncation_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 50 tests in 3.561s
+
+OK

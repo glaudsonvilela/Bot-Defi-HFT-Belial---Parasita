@@ -1,0 +1,46 @@
+{
+  "ok": true,
+  "groups": {
+    "mp12": {
+      "tests": 49,
+      "passed": true,
+      "skips": 0,
+      "log_sha256": "9d17115f2f57099b67b74afb80af8319cdcf3c98531e470fe1636dc93bf0ec0b"
+    },
+    "n2_mp12": {
+      "tests": 22,
+      "passed": true,
+      "skips": 0,
+      "log_sha256": "6cb8a79ef898198c0cf61b31b2f5f7c39f50f5c620a29a6ba45cd3353603e485"
+    },
+    "d2": {
+      "tests": 4,
+      "passed": true,
+      "skips": 0,
+      "log_sha256": "a96041862faea0fe8628019c108d272977344ab55136a4f627ca09e847515f6a"
+    },
+    "runner": {
+      "tests": 287,
+      "passed": true,
+      "skips": 0,
+      "log_sha256": "3ebba7a1e23071d1f9bded5efceb0037fe4ccbd52411ba01d45192ce3b6c5f98"
+    },
+    "perp": {
+      "tests": 50,
+      "passed": true,
+      "skips": 0,
+      "log_sha256": "8d347e97bf78860ffcf8c24c1689ce6ce4bf32379edd41ba317ec2246eda14b0"
+    },
+    "a1": {
+      "tests": 88,
+      "passed": true,
+      "skips": 0,
+      "log_sha256": "96d7c1bb0f89ffe24d40ace6eede40c47beb565519189ed3e5d099ba8d3a7188"
+    }
+  },
+  "total": 500,
+  "python_files_parsed": 79,
+  "native_rust_executed": false,
+  "gpu_executed": false,
+  "external_market_test": false
+}

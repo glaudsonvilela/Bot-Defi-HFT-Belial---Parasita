@@ -1,0 +1,9 @@
+{
+  "base_commit": "31040a0ae01ac93597095fa9af6c73772e5fa60c",
+  "release": "belial-a6-wide-2h-v1",
+  "package_sha256": "1bc0d89880bda7bde487782da1e4eaf43da83c2dfbbe59440335481cad134bb3",
+  "installer_sha256": "89777958f7150d70ba14901a9c31f92ae14a97e7ad433580c836e9a6c04c0b21",
+  "orders": false,
+  "native_gpu_validation": "EXECUTED_ON_PC_BEFORE_CAPTURE",
+  "capture_completed": false
+}

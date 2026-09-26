@@ -1,0 +1,40 @@
+{
+  "schema": "belial_t3_fix1_pool_diagnostics_v1",
+  "identity": "PINNED_MAINNET_MINT",
+  "required_pools": 12,
+  "scan_started": false,
+  "resolved": {
+    "BONK": {
+      "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "pool": "HVNwzt7Pxfu76KHCMQPTLuTCLTm6WnQ1esLv4eizseSv",
+      "onchain_verified": false
+    },
+    "USELESS": {
+      "mint": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+      "pool": "GxoRF3A1iMXhHTGvxAnT8b3Bk8Qqen41fmG5k2pT7K3Y",
+      "onchain_verified": false
+    },
+    "PYTH": {
+      "mint": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+      "pool": "59VtDHQrcDKswbaStjTsjNiqLngjX72UHFqChnpAb93p",
+      "onchain_verified": false
+    }
+  },
+  "failures": [
+    {
+      "symbol": "PENGU",
+      "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "error": "PENGU:NO_COMPATIBLE_LEGACY_AMM_V4_TOKEN_SOL_POOL"
+    },
+    {
+      "symbol": "PUMP",
+      "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "error": "PUMP:NO_COMPATIBLE_LEGACY_AMM_V4_TOKEN_SOL_POOL"
+    },
+    {
+      "symbol": "GRASS",
+      "mint": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+      "error": "GRASS:NO_COMPATIBLE_LEGACY_AMM_V4_TOKEN_SOL_POOL"
+    }
+  ]
+}
