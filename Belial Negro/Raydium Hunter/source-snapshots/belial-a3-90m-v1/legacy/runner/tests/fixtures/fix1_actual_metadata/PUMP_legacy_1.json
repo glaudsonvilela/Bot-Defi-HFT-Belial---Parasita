@@ -1,0 +1,12 @@
+{
+  "url": "https://api-v3.raydium.io/pools/info/mint?mint1=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn&mint2=So11111111111111111111111111111111111111112&poolType=standard&poolSortField=liquidity&sortType=desc&pageSize=100&page=1",
+  "response": {
+    "id": "5e25ba76-f664-42ae-9001-5f68f5657492",
+    "success": true,
+    "data": {
+      "count": 0,
+      "data": [],
+      "hasNextPage": false
+    }
+  }
+}

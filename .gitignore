@@ -1,0 +1,50 @@
+# Belial — dados locais e artefatos de compilação
+target/
+target-*/
+**/target/
+**/target-*/
+
+# Runtime / laboratório / evidência bruta
+runtime/
+**/runtime/
+evidence/
+**/evidence/
+.belial-backups/
+**/.belial-backups/
+
+# Caches
+cache/
+**/cache/
+__pycache__/
+**/__pycache__/
+*.pyc
+node_modules/
+**/node_modules/
+.venv/
+venv/
+
+# Segredos
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+*credentials*
+*secret*
+
+# Dados locais / temporários
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.tmp
+.DS_Store
+
+# Binários e dumps comuns
+*.so
+*.dylib
+*.dll
+*.exe
+*.core
+core.*

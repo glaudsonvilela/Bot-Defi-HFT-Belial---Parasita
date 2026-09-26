@@ -1,0 +1,419 @@
+{
+  "url": "https://api-v3.raydium.io/pools/info/list-v2?size=100&mint1=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk&mint2=So11111111111111111111111111111111111111112&poolType=Standard&sortField=liquidity&sortType=desc",
+  "response": {
+    "id": "0792dec1-8c8e-4a86-8a2f-b480a4988ecf",
+    "success": true,
+    "data": {
+      "data": [
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "Q2sPHPdUWFMg7M7wwrQKLrn619cAucfRsmhVJffodSp",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk.png",
+            "symbol": "USELESS",
+            "name": "USELESS COIN",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "D4FPEruKEHrG5TenZ2mpDGEfu1iUvTiqBxvpU8HLBvC2",
+            "index": 0,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 2500,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 417.282105804166,
+          "mintAmountA": 24305.165121113,
+          "mintAmountB": 10142110.483656,
+          "feeRate": 0.0025,
+          "openTime": "1746886997",
+          "tvl": 5661165.3,
+          "day": {
+            "volume": 2439514.937112065,
+            "volumeQuote": 8427674.619488496,
+            "volumeFee": 6098.787342780166,
+            "apr": 39.32,
+            "feeApr": 39.32,
+            "priceMin": 372.3656612,
+            "priceMax": 423.0235436546356,
+            "rewardApr": [
+              0
+            ]
+          },
+          "week": {
+            "volume": 28175954.825171504,
+            "volumeQuote": 98231412.60663104,
+            "volumeFee": 70439.88706292876,
+            "apr": 37.33,
+            "feeApr": 37.33,
+            "priceMin": 332.0760364430383,
+            "priceMax": 473.98500756349983,
+            "rewardApr": [
+              0
+            ]
+          },
+          "month": {
+            "volume": 189026281.48118082,
+            "volumeQuote": 969804443.2729568,
+            "volumeFee": 472565.70370295213,
+            "apr": 100.17,
+            "feeApr": 100.17,
+            "priceMin": 311.3490807419329,
+            "priceMax": 1763.2707191083284,
+            "rewardApr": [
+              0
+            ]
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultPoolInfos": "Ecosystem",
+          "rewardDefaultInfos": [
+            {
+              "mint": {
+                "chainId": 101,
+                "address": "BTYyqCZ75oiQwa7Qz7URjasLNKh3wbMNKCf6SKPcjups",
+                "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                "logoURI": "https://img-v1.raydium.io/icon/BTYyqCZ75oiQwa7Qz7URjasLNKh3wbMNKCf6SKPcjups.png",
+                "symbol": "BLB",
+                "name": "Bro Liquidity Bandits",
+                "decimals": 6,
+                "tags": [],
+                "extensions": {}
+              },
+              "perSecond": "102880",
+              "startTime": "1752465556",
+              "endTime": "1760241556"
+            }
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 2,
+          "lpMint": {
+            "chainId": 101,
+            "address": "5rASbyrUYh4eVmZpgN6MxVY2w83dC4PFg9U9WYc9HW7g",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 1552.441289494369,
+          "lpAmount": 3646.621187207,
+          "burnPercent": 98.33,
+          "launchMigratePool": true,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        },
+        {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "GxoRF3A1iMXhHTGvxAnT8b3Bk8Qqen41fmG5k2pT7K3Y",
+          "mintA": {
+            "chainId": 101,
+            "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk.png",
+            "symbol": "USELESS",
+            "name": "USELESS COIN",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 0.002394526782111894,
+          "mintAmountA": 92.158509,
+          "mintAmountB": 0.220676018,
+          "feeRate": 0.0025,
+          "openTime": "1755328630",
+          "tvl": 52.24,
+          "day": {
+            "volume": 8.43047266860405,
+            "volumeQuote": 0.07320465525226849,
+            "volumeFee": 0.021076181671510135,
+            "apr": 14.73,
+            "feeApr": 14.73,
+            "priceMin": 0.002379678066684961,
+            "priceMax": 0.002668052157738704,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 107.25934712253343,
+            "volumeQuote": 0.9426702581386573,
+            "volumeFee": 0.2681483678063336,
+            "apr": 15.4,
+            "feeApr": 15.4,
+            "priceMin": 0.0021316304047827327,
+            "priceMax": 0.0029917640174256053,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 500.79902937709704,
+            "volumeQuote": 4.7932753660000005,
+            "volumeFee": 1.2519975734427427,
+            "apr": 28.76,
+            "feeApr": 28.76,
+            "priceMin": 0.0005742830832640123,
+            "priceMax": 0.003198438986218016,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "5hFv1FBsbZG5hjYQNxBdmvPFCX1nqxcLQDUJnfkmwbA9",
+          "lpMint": {
+            "chainId": 101,
+            "address": "Ep7jtZys4ngwRp27csPzp8U5ij54MMMsLXeWXNuWb57M",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 0.709967998787711,
+          "lpAmount": 73.585162,
+          "burnPercent": 1.35,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        },
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "5QM3EFuKMPq3XPehgv7FzHYxvd2ecWcYDqMDTVk8VJ9Q",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk.png",
+            "symbol": "USELESS",
+            "name": "USELESS COIN",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "C7Cx2pMLtjybS3mDKSfsBj4zQ3PRZGkKt7RCYTTbCSx2",
+            "index": 3,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 40000,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 582.0436661172283,
+          "mintAmountA": 0.008746507,
+          "mintAmountB": 5.090849,
+          "feeRate": 0.04,
+          "openTime": "1746898671",
+          "tvl": 1.84,
+          "day": {
+            "volume": 0.03406570681325266,
+            "volumeQuote": 0.12320080078703705,
+            "volumeFee": 0.0013626282725301064,
+            "apr": 27.06,
+            "feeApr": 27.06,
+            "priceMin": 399.8575737265416,
+            "priceMax": 426.43119007332206,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 0.2974166592463386,
+            "volumeQuote": 1.0584090411111111,
+            "volumeFee": 0.011896666369853544,
+            "apr": 19.42,
+            "feeApr": 19.42,
+            "priceMin": 340.3959708232025,
+            "priceMax": 462.8260566327242,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 1.863697987013666,
+            "volumeQuote": 9.258664,
+            "volumeFee": 0.07454791948054663,
+            "apr": 48.67,
+            "feeApr": 48.67,
+            "priceMin": 315.1473676758619,
+            "priceMax": 1742.3799582463466,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "lpMint": {
+            "chainId": 101,
+            "address": "FeBPAoXJTreHbEquvFfiy7aYu7juufFkYH81Y4iFbbfX",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 18380600.03983341,
+          "lpAmount": 1e-07,
+          "burnPercent": 100,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        },
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "5dvUhE5LkHWFq4bhZRBTp1F4s216RcVFDmTKwAsVmLPL",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk.png",
+            "symbol": "USELESS",
+            "name": "USELESS COIN",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "G95xxie3XbkCqtE39GgQ9Ggc7xBC8Uceve7HFDEFApkc",
+            "index": 1,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 10000,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 313.89379264277875,
+          "mintAmountA": 0.00020959,
+          "mintAmountB": 0.065789,
+          "feeRate": 0.01,
+          "openTime": "1751556134",
+          "tvl": 0.03,
+          "day": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": -1,
+            "priceMax": -1,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 4.2716275510307225e-05,
+            "volumeQuote": 0.00017277822916666666,
+            "volumeFee": 4.271627551030724e-07,
+            "apr": 0.04,
+            "feeApr": 0.04,
+            "priceMin": 411.30604288499023,
+            "priceMax": 411.30604288499023,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 0.0037905906071288714,
+            "volumeQuote": 0.01905,
+            "volumeFee": 3.790590607128873e-05,
+            "apr": 1.36,
+            "feeApr": 1.36,
+            "priceMin": 0.02797979797979798,
+            "priceMax": 636.9075011504832,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "lpMint": {
+            "chainId": 101,
+            "address": "7dazHTQe6WTnSErLbHk7wmsq9m49tmJcRN3tqAcnbdnb",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 334142.2668110859,
+          "lpAmount": 1e-07,
+          "burnPercent": 100,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        }
+      ]
+    }
+  }
+}

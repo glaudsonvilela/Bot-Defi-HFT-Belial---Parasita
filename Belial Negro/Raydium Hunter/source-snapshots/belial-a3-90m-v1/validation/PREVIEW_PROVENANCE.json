@@ -1,0 +1,17 @@
+{
+  "historical_session": "m2-a2-20260925T161435123378Z",
+  "is_a3_live_capture": false,
+  "fictional_trades": false,
+  "source_files": {
+    "n2__COMPLETE.json": "dd737c61a065d4bf8fbc00c208fe53f93f27820e1a95ef87157db88cccf4e21f",
+    "paper__books.json": "a07a0a98fd261e0f239efb2c69d3d0c456f53216a1eba9c4e889b4be8120d4a7",
+    "n2__status.json": "c63b22b9c94ff8a995039dc3d5ad4006bf42a6963117f355ea6e02f5a3131138",
+    "SUMMARY.json": "dd11fb78ef2a4ef234cd9c0136d362a5a6373e031305f40817b5ebc3482a2ccd",
+    "SESSION.json": "7a695508990aa6608c3d511ba362554ac0ce200cfbda02c4bf45680b9ef6e696",
+    "PLATFORM.json": "afaad3f9cbcfd48da54706428f19d4f96d97b3f62792494eef1623d7f6f325c1",
+    "build__RESULTS.json": "e5936184ac82db1f8ac166eed20f970ae73a7a617922658f008a2c35d628cd4a",
+    "paper__state.json": "5802e7a004f6a40d1cae69379ce0c3b8a56c3abf16560ccf72e0c159a9217a7c"
+  },
+  "n2_historical_failure_preserved": true,
+  "purpose": "Read-only preview of implemented A3 renderer on supplied A2 archive"
+}

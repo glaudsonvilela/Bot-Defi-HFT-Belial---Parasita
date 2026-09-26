@@ -1,0 +1,47 @@
+{
+  "schema": "belial_t3_canonical_mints_v1",
+  "network": "solana-mainnet-beta",
+  "checked_date": "2026-09-25",
+  "policy": "PINNED_IDENTITY_THEN_ONCHAIN_VALIDATION_NOT_SYMBOL_LOOKUP",
+  "tokens": {
+    "BONK": {
+      "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "sources": [
+        "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts",
+        "https://raw.githubusercontent.com/jup-ag/token-list/main/validated-tokens.csv"
+      ]
+    },
+    "PENGU": {
+      "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "sources": [
+        "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts"
+      ]
+    },
+    "PUMP": {
+      "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "sources": [
+        "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts"
+      ]
+    },
+    "USELESS": {
+      "mint": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+      "sources": [
+        "https://jup.ag/tokens/Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk"
+      ]
+    },
+    "GRASS": {
+      "mint": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+      "sources": [
+        "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/assets/Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs/info.json",
+        "https://jup.ag/tokens/Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs"
+      ]
+    },
+    "PYTH": {
+      "mint": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+      "sources": [
+        "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts"
+      ]
+    }
+  },
+  "note": "Source addresses were checked in public primary sources. This is not a live RPC validation or proof of pool availability."
+}

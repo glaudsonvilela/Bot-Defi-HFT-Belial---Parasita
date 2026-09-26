@@ -1,0 +1,62 @@
+{
+  "groups": {
+    "mp12": {
+      "tests": 49,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    },
+    "n2_mp12": {
+      "tests": 22,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    },
+    "d2": {
+      "tests": 4,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    },
+    "runner": {
+      "tests": 287,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    },
+    "perp": {
+      "tests": 50,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    },
+    "a1": {
+      "tests": 88,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    },
+    "a2": {
+      "tests": 97,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    },
+    "n2_a2": {
+      "tests": 22,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    },
+    "labels_a2": {
+      "tests": 21,
+      "returncode": 0,
+      "passed": true,
+      "skips": 0
+    }
+  },
+  "tests": 640,
+  "passed": true,
+  "native_executed": false,
+  "external_market": false
+}

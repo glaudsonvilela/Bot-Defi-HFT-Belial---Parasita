@@ -1,0 +1,16 @@
+{
+  "version": "BELIAL_A3_90M",
+  "date": "2026-09-25",
+  "source_package": "BELIAL_A2_90M_PACOTE.zip",
+  "source_sha256": "a50a54b4a32792102d6907b805066a264daea047aa177e510205239435a02763",
+  "scope": "PAPER_ONLY_AGENT_LIFECYCLE_WS_MULTIPLEX_TERMINAL",
+  "strategy_thresholds_changed": false,
+  "native_sources_changed": false,
+  "native_compilation_performed_here": false,
+  "gpu_executed_here": false,
+  "orders_enabled": false,
+  "requested_candidates": 24,
+  "capture_minutes": 90,
+  "prediction_target": "TOKEN_WSOL_OBSERVED_PATH_NOT_PERP_PNL",
+  "new_signal_engine_feedback": false
+}

@@ -1,0 +1,77 @@
+{
+  "gpu_executed_here": false,
+  "groups": {
+    "a1": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 88
+    },
+    "a2": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 97
+    },
+    "a3": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 140
+    },
+    "a4": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 159
+    },
+    "d2": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 4
+    },
+    "labels_a2": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 21
+    },
+    "mp12": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 49
+    },
+    "n2_a2": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 22
+    },
+    "n2_mp12": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 22
+    },
+    "perp": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 50
+    },
+    "runner": {
+      "passed": true,
+      "returncode": 0,
+      "skips": 0,
+      "tests": 287
+    }
+  },
+  "native_rust_executed_here": false,
+  "ok": true,
+  "public_market_executed_here": false,
+  "real_orders": false,
+  "schema": "belial_a4_test_results_v1",
+  "tests": 939
+}

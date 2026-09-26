@@ -1,0 +1,108 @@
+{
+  "schema": "belial_a2_universe_v1",
+  "date_checked": "2026-09-25",
+  "core12": [
+    "FARTCOIN",
+    "BOME",
+    "WIF",
+    "POPCAT",
+    "RAY",
+    "JUP",
+    "BONK",
+    "PENGU",
+    "PUMP",
+    "USELESS",
+    "GRASS",
+    "PYTH"
+  ],
+  "expansion12": [
+    {
+      "symbol": "JTO",
+      "mint": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+      "decimals": 9,
+      "source": "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "RENDER",
+      "mint": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+      "decimals": 8,
+      "source": "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "W",
+      "mint": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "decimals": 6,
+      "source": "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "TNSR",
+      "mint": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+      "decimals": 9,
+      "source": "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "DRIFT",
+      "mint": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+      "decimals": 6,
+      "source": "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "TRUMP",
+      "mint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "decimals": 6,
+      "source": "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "MELANIA",
+      "mint": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+      "decimals": 6,
+      "source": "https://raw.githubusercontent.com/drift-labs/protocol-v2/master/sdk/src/constants/spotMarkets.ts",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "ORCA",
+      "mint": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+      "decimals": 6,
+      "source": "https://raw.githubusercontent.com/jup-ag/token-list/main/validated-tokens.csv",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "HNT",
+      "mint": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+      "decimals": 8,
+      "source": "https://raw.githubusercontent.com/jup-ag/token-list/main/validated-tokens.csv",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "MEW",
+      "mint": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+      "decimals": 5,
+      "source": "https://raw.githubusercontent.com/jup-ag/token-list/main/validated-tokens.csv",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "MPLX",
+      "mint": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+      "decimals": 6,
+      "source": "https://raw.githubusercontent.com/jup-ag/token-list/main/validated-tokens.csv",
+      "cohort": "EXPANSION12"
+    },
+    {
+      "symbol": "KMNO",
+      "mint": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "decimals": 6,
+      "source": "https://kamino.com/docs/build/portfolio/get-portfolio-source-data-for-a-wallet",
+      "cohort": "EXPANSION12"
+    }
+  ],
+  "selection": "Pinned research candidates, not verified live listings or investment recommendations. Perp and on-chain pool qualification happen at runtime. No substitution.",
+  "requested_assets": 24,
+  "quote": "WSOL",
+  "orders": false
+}

@@ -1,0 +1,6 @@
+{
+  "python_files": 120,
+  "python_ast_parse": true,
+  "javascript_node_check": true,
+  "rust_compilation": false
+}

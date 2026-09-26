@@ -1,0 +1,76 @@
+{
+  "schema": "belial_a3_validation_v1",
+  "ok": true,
+  "python_tests": 780,
+  "groups": {
+    "mp12": {
+      "tests": 49,
+      "seconds": 0.012,
+      "passed": true,
+      "skips": 0
+    },
+    "n2_mp12": {
+      "tests": 22,
+      "seconds": 0.011,
+      "passed": true,
+      "skips": 0
+    },
+    "d2": {
+      "tests": 4,
+      "seconds": 0.001,
+      "passed": true,
+      "skips": 0
+    },
+    "runner": {
+      "tests": 287,
+      "seconds": 2.609,
+      "passed": true,
+      "skips": 0
+    },
+    "perp": {
+      "tests": 50,
+      "seconds": 3.53,
+      "passed": true,
+      "skips": 0
+    },
+    "a1": {
+      "tests": 88,
+      "seconds": 13.801,
+      "passed": true,
+      "skips": 0
+    },
+    "a2": {
+      "tests": 97,
+      "seconds": 11.68,
+      "passed": true,
+      "skips": 0
+    },
+    "n2_a2": {
+      "tests": 22,
+      "seconds": 0.016,
+      "passed": true,
+      "skips": 0
+    },
+    "labels_a2": {
+      "tests": 21,
+      "seconds": 0.014,
+      "passed": true,
+      "skips": 0
+    },
+    "a3": {
+      "tests": 140,
+      "seconds": 32.396,
+      "passed": true,
+      "skips": 0
+    }
+  },
+  "browser_checks": 36,
+  "preserved_files": 157,
+  "preserved_engine_a2_files": 9,
+  "native_rust_executed": false,
+  "gpu_executed": false,
+  "public_market_executed": false,
+  "synthetic_process_tests": true,
+  "browser_navigation_blocked_by_environment": true,
+  "http_sse_loopback_tests_separate": true
+}

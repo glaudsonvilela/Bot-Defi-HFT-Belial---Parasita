@@ -1,0 +1,690 @@
+{
+  "url": "https://api-v3.raydium.io/pools/info/list-v2?size=100&mint1=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv&mint2=So11111111111111111111111111111111111111112&poolType=Standard&sortField=liquidity&sortType=desc",
+  "response": {
+    "id": "10d77231-07d1-43cd-984c-66c9c2958d42",
+    "success": true,
+    "data": {
+      "data": [
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "Ha4SGpJP9mBNcmvYDFCJD7bGbmHTx6mpzcC9XuqsikHJ",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+            "symbol": "PENGU",
+            "name": "Pudgy Penguins",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "G95xxie3XbkCqtE39GgQ9Ggc7xBC8Uceve7HFDEFApkc",
+            "index": 1,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 10000,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 12179.795938460531,
+          "mintAmountA": 86.626166822,
+          "mintAmountB": 1055089.034823,
+          "feeRate": 0.01,
+          "openTime": "1734442304",
+          "tvl": 20178.33,
+          "day": {
+            "volume": 1437.3343940147392,
+            "volumeQuote": 145761.4566653938,
+            "volumeFee": 14.373343940147391,
+            "apr": 26,
+            "feeApr": 26,
+            "priceMin": 11313.444427431345,
+            "priceMax": 12304.428685201334,
+            "rewardApr": [
+              0
+            ]
+          },
+          "week": {
+            "volume": 12121.265027443664,
+            "volumeQuote": 1321255.1999776317,
+            "volumeFee": 121.21265027443661,
+            "apr": 18.02,
+            "feeApr": 18.02,
+            "priceMin": 10551.30468,
+            "priceMax": 14612.6068226619,
+            "rewardApr": [
+              0
+            ]
+          },
+          "month": {
+            "volume": 33865.17907544572,
+            "volumeQuote": 4219754.001066,
+            "volumeFee": 338.6517907544571,
+            "apr": 20.14,
+            "feeApr": 20.14,
+            "priceMin": 10551.30468,
+            "priceMax": 15488.11257163501,
+            "rewardApr": [
+              0
+            ]
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultPoolInfos": "Ecosystem",
+          "rewardDefaultInfos": [
+            {
+              "mint": {
+                "chainId": 101,
+                "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+                "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                "logoURI": "https://img-v1.raydium.io/icon/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+                "symbol": "PENGU",
+                "name": "Pudgy Penguins",
+                "decimals": 6,
+                "tags": [],
+                "extensions": {}
+              },
+              "perSecond": "614",
+              "startTime": "1734543660",
+              "endTime": "1735148460"
+            }
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 3,
+          "lpMint": {
+            "chainId": 101,
+            "address": "5VfBXNKd1JyBbiEMAjWJmDUEtRBxL7q3qpWFjoVHpcWb",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 91.18130645834847,
+          "lpAmount": 221.298928466,
+          "burnPercent": 0.05,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        },
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "A38GwDi771vbkbYEfBCXmcSNj7RrCW23V36mTa36mNZq",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+            "symbol": "PENGU",
+            "name": "Pudgy Penguins",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "D4FPEruKEHrG5TenZ2mpDGEfu1iUvTiqBxvpU8HLBvC2",
+            "index": 0,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 2500,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 12091.429985862007,
+          "mintAmountA": 11.243892256,
+          "mintAmountB": 135954.735982,
+          "feeRate": 0.0025,
+          "openTime": "1734447459",
+          "tvl": 2619.93,
+          "day": {
+            "volume": 332.3423481440966,
+            "volumeQuote": 33864.4064028058,
+            "volumeFee": 0.8308558703602413,
+            "apr": 11.58,
+            "feeApr": 11.58,
+            "priceMin": 11338.279672997953,
+            "priceMax": 12288.992744992418,
+            "rewardApr": [
+              0
+            ]
+          },
+          "week": {
+            "volume": 2545.7082226417324,
+            "volumeQuote": 276913.7022550904,
+            "volumeFee": 6.364270556604329,
+            "apr": 7.29,
+            "feeApr": 7.29,
+            "priceMin": 10552.445125936536,
+            "priceMax": 14524.119530387828,
+            "rewardApr": [
+              0
+            ]
+          },
+          "month": {
+            "volume": 4994.093424307675,
+            "volumeQuote": 572995.607572,
+            "volumeFee": 12.485233560769183,
+            "apr": 5.72,
+            "feeApr": 5.72,
+            "priceMin": 10552.445125936536,
+            "priceMax": 14524.119530387828,
+            "rewardApr": [
+              0
+            ]
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultPoolInfos": "Ecosystem",
+          "rewardDefaultInfos": [
+            {
+              "mint": {
+                "chainId": 101,
+                "address": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg",
+                "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                "logoURI": "https://img-v1.raydium.io/icon/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg.png",
+                "symbol": "Rizzmas",
+                "name": "Rizzmas",
+                "decimals": 6,
+                "tags": [],
+                "extensions": {}
+              },
+              "perSecond": "16",
+              "startTime": "1743472440",
+              "endTime": "1744077240"
+            }
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 1,
+          "lpMint": {
+            "chainId": 101,
+            "address": "EzuAzavHstKBbXx2RCzBY5otVL25LJSuCsgkToqVZTA3",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 91.03533744378264,
+          "lpAmount": 28.779308188,
+          "burnPercent": 0.76,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        },
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "2ux1qsjpAHFV7ZmRXpjfjM5uwr5a5AHpMxTdTonASRZ5",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+            "symbol": "PENGU",
+            "name": "Pudgy Penguins",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "C7Cx2pMLtjybS3mDKSfsBj4zQ3PRZGkKt7RCYTTbCSx2",
+            "index": 3,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 40000,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 11769.665908401466,
+          "mintAmountA": 4.657073799,
+          "mintAmountB": 54812.202725,
+          "feeRate": 0.04,
+          "openTime": "1734439665",
+          "tvl": 1081.95,
+          "day": {
+            "volume": 6.266653208816688,
+            "volumeQuote": 648.4190146111574,
+            "volumeFee": 0.25066612835266755,
+            "apr": 8.46,
+            "feeApr": 8.46,
+            "priceMin": 12016.14478622198,
+            "priceMax": 12284.083430211644,
+            "rewardApr": [
+              0,
+              0
+            ]
+          },
+          "week": {
+            "volume": 81.00133976722584,
+            "volumeQuote": 8357.750487605555,
+            "volumeFee": 3.2400535906890338,
+            "apr": 8.98,
+            "feeApr": 8.98,
+            "priceMin": 10592.941536862563,
+            "priceMax": 14504.369431032525,
+            "rewardApr": [
+              0,
+              0
+            ]
+          },
+          "month": {
+            "volume": 145.94599067210788,
+            "volumeQuote": 16253.958043,
+            "volumeFee": 5.837839626884316,
+            "apr": 6.47,
+            "feeApr": 6.47,
+            "priceMin": 10592.941536862563,
+            "priceMax": 14504.369431032525,
+            "rewardApr": [
+              0,
+              0
+            ]
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultPoolInfos": "Ecosystem",
+          "rewardDefaultInfos": [
+            {
+              "mint": {
+                "chainId": 101,
+                "address": "86u2hA1qS54m7cPfCWn3YmKbRMQseKUecTNJu36zX75b",
+                "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                "logoURI": "https://img-v1.raydium.io/icon/86u2hA1qS54m7cPfCWn3YmKbRMQseKUecTNJu36zX75b.png",
+                "symbol": "MC Ride",
+                "name": "Magic Carpet",
+                "decimals": 6,
+                "tags": [],
+                "extensions": {}
+              },
+              "perSecond": "45687",
+              "startTime": "1737554940",
+              "endTime": "1739196540"
+            },
+            {
+              "mint": {
+                "chainId": 101,
+                "address": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+                "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                "logoURI": "https://img-v1.raydium.io/icon/3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN.png",
+                "symbol": "MOTHER",
+                "name": "MOTHER IGGY",
+                "decimals": 6,
+                "tags": [],
+                "extensions": {}
+              },
+              "perSecond": "27",
+              "startTime": "1736322644",
+              "endTime": "1737964244"
+            }
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 1,
+          "lpMint": {
+            "chainId": 101,
+            "address": "CCtcWHfSAvkT5pjKBokvejdFK15t1v5RLQetdfA3qeAP",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 38084.55873695349,
+          "lpAmount": 0.028409112,
+          "burnPercent": 10.1,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        },
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "F3GPU4B9eEftnanTzq5X9Dx4UNDZcp2v7JN3uCyg8m3m",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+            "symbol": "PENGU",
+            "name": "Pudgy Penguins",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "2fGXL8uhqxJ4tpgtosHZXT4zcQap6j62z3bMDxdkMvy5",
+            "index": 2,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 20000,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 6501.357107930482,
+          "mintAmountA": 0.001447932,
+          "mintAmountB": 9.413523,
+          "feeRate": 0.02,
+          "openTime": "1734440806",
+          "tvl": 1.73,
+          "day": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": -1,
+            "priceMax": -1,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 0.0006938498296917847,
+            "volumeQuote": 0.07364400000000002,
+            "volumeFee": 1.3876996593835697e-05,
+            "apr": 0.02,
+            "feeApr": 0.02,
+            "priceMin": 11644.15322580645,
+            "priceMax": 12831.4447592068,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 0.0017917700913431926,
+            "volumeQuote": 0.20458800000000005,
+            "volumeFee": 3.5835401826863855e-05,
+            "apr": 0.02,
+            "feeApr": 0.02,
+            "priceMin": 10405.555555555557,
+            "priceMax": 14180.929095354522,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "lpMint": {
+            "chainId": 101,
+            "address": "ikp7W2RF2vgBgwgqGZa8bQwVDPQU7HgFcSm6GX4JnBy",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 17348605.149664577,
+          "lpAmount": 1e-07,
+          "burnPercent": 100,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        },
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "4pYEoYP6pTN9hJCW4iKCqgWpJqQ2xw5rDEjrSPNv8bdk",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+            "symbol": "PENGU",
+            "name": "Pudgy Penguins",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "B5u5x9S5pyaJdonf7bXUiEnBfEXsJWhNxXfLGAbRFtg2",
+            "index": 6,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 15000,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 4976.014038308206,
+          "mintAmountA": 0.001211542,
+          "mintAmountB": 6.02865,
+          "feeRate": 0.015,
+          "openTime": "1752919453",
+          "tvl": 0.19,
+          "day": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0,
+            "priceMax": 0,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0,
+            "priceMax": 0,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0,
+            "priceMax": 0,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "lpMint": {
+            "chainId": 101,
+            "address": "DibrwWD8nTxzyTGTMHo6GN6agrV85hvtz8rNnChtvCHu",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 1884175.227380584,
+          "lpAmount": 1e-07,
+          "burnPercent": 100,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        },
+        {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "9721SPhsCFSt6qCnpA7hJshUURY5jQuJKJgE15FbqP4x",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+            "symbol": "PENGU",
+            "name": "Pudgy Penguins",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "BgxH5ifebqHDuiADWKhLjXGP5hWZeZLoCdmeWJLkRqLP",
+            "index": 5,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 3000,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500,
+            "showWithUI": true
+          },
+          "price": 1163.3965979074612,
+          "mintAmountA": 4.3679e-05,
+          "mintAmountB": 0.050816,
+          "feeRate": 0.003,
+          "openTime": "1755571808",
+          "tvl": 0.01,
+          "day": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": -1,
+            "priceMax": -1,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 1.785294932666259e-05,
+            "volumeQuote": 0.001801,
+            "volumeFee": 5.355884797998777e-08,
+            "apr": 0.02,
+            "feeApr": 0.02,
+            "priceMin": 11111.111111111111,
+            "priceMax": 11973.91304347826,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 4.493173632950047e-05,
+            "volumeQuote": 0.004961,
+            "volumeFee": 1.3479520898850145e-07,
+            "apr": 0.02,
+            "feeApr": 0.02,
+            "priceMin": 10769.23076923077,
+            "priceMax": 13750,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "lpMint": {
+            "chainId": 101,
+            "address": "F156aRWkA1LJLRQ8LaAGope1SirZm9kgW9dfmtk2EVLc",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 68644.27886383368,
+          "lpAmount": 1e-07,
+          "burnPercent": 100,
+          "launchMigratePool": false,
+          "tips": [],
+          "feeOn": "Both",
+          "hasDynamicFee": false
+        }
+      ]
+    }
+  }
+}
