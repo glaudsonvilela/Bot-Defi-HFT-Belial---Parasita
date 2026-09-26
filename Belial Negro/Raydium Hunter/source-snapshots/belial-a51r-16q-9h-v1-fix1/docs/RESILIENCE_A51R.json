@@ -1,0 +1,16 @@
+{
+  "base_commit": "4b67576f49f391b7847f18fb4b7c2ecd0f370ff8",
+  "base_manifest_sha256": "8306faec3bc65cdd0b91aabe5883803fd937c3d46a7d712489d495c0a0baced4",
+  "base_snapshot": "belial-a51-16q-9h-v1",
+  "exit_policy_changed": false,
+  "orders": false,
+  "power_reboot_auto_resume": true,
+  "primary_gap_restart_ms": 180000,
+  "recovery": "SEGMENTED_SAFE_NO_GAP_FILL",
+  "rust_changed": false,
+  "satellites_changed": false,
+  "schema": "belial_a51r_resilience_v1",
+  "sizing_changed": false,
+  "strategy_changed": false,
+  "thresholds_changed": false
+}

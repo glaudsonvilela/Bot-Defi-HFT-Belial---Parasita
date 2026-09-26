@@ -1,0 +1,54 @@
+test_atomic_changes_json (test_common.IOTest.test_atomic_changes_json) ... ok
+test_bad_journal_filename_refused (test_common.IOTest.test_bad_journal_filename_refused) ... ok
+test_exact_members (test_common.IOTest.test_exact_members) ... ok
+test_journal_appends_only (test_common.IOTest.test_journal_appends_only) ... ok
+test_long_line_fails (test_common.IOTest.test_long_line_fails) ... ok
+test_manifest_hash (test_common.IOTest.test_manifest_hash) ... ok
+test_manifest_mismatch (test_common.IOTest.test_manifest_mismatch) ... ok
+test_manifest_path (test_common.IOTest.test_manifest_path) ... ok
+test_new_json_refuses_overwrite (test_common.IOTest.test_new_json_refuses_overwrite) ... ok
+test_parent_symlink_refused (test_common.IOTest.test_parent_symlink_refused) ... ok
+test_partial_line_not_consumed (test_common.IOTest.test_partial_line_not_consumed) ... ok
+test_reader_limit (test_common.IOTest.test_reader_limit) ... ok
+test_reader_rotate (test_common.IOTest.test_reader_rotate) ... ok
+test_reader_truncate (test_common.IOTest.test_reader_truncate) ... ok
+test_symlink_refused (test_common.IOTest.test_symlink_refused) ... ok
+test_zip_crc_and_hash (test_common.IOTest.test_zip_crc_and_hash) ... ok
+test_zip_never_overwrites (test_common.IOTest.test_zip_never_overwrites) ... ok
+test_absorption_blocks (test_tail.TailTest.test_absorption_blocks) ... ok
+test_actual_reference_stop (test_tail.TailTest.test_actual_reference_stop) ... ok
+test_bome_not_opened (test_tail.TailTest.test_bome_not_opened) ... ok
+test_clock_regression_refused (test_tail.TailTest.test_clock_regression_refused) ... ok
+test_cost_separated_once (test_tail.TailTest.test_cost_separated_once) ... ok
+test_duplicate_exit (test_tail.TailTest.test_duplicate_exit) ... ok
+test_duplicate_fee_configuration_refused (test_tail.TailTest.test_duplicate_fee_configuration_refused) ... ok
+test_duplicate_mark (test_tail.TailTest.test_duplicate_mark) ... ok
+test_entry_three_alternatives (test_tail.TailTest.test_entry_three_alternatives) ... ok
+test_expired_confirmation (test_tail.TailTest.test_expired_confirmation) ... ok
+test_expired_input_not_new_arm (test_tail.TailTest.test_expired_input_not_new_arm) ... ok
+test_finite_no_json_nan (test_tail.TailTest.test_finite_no_json_nan) ... ok
+test_future_mark_not_used (test_tail.TailTest.test_future_mark_not_used) ... ok
+test_hard_stop_reference_not_swap_side (test_tail.TailTest.test_hard_stop_reference_not_swap_side) ... ok
+test_invalid_mark_censored (test_tail.TailTest.test_invalid_mark_censored) ... ok
+test_missing_absorption_not_zero (test_tail.TailTest.test_missing_absorption_not_zero) ... ok
+test_missing_reference_does_not_confirm (test_tail.TailTest.test_missing_reference_does_not_confirm) ... ok
+test_no_backdating_when_poll_late (test_tail.TailTest.test_no_backdating_when_poll_late) ... ok
+test_no_entry_before_confirmation (test_tail.TailTest.test_no_entry_before_confirmation) ... ok
+test_no_entry_before_latency (test_tail.TailTest.test_no_entry_before_latency) ... ok
+test_no_force_close_at_snapshot (test_tail.TailTest.test_no_force_close_at_snapshot) ... ok
+test_no_negative_move_rejects (test_tail.TailTest.test_no_negative_move_rejects) ... ok
+test_policies_exact (test_tail.TailTest.test_policies_exact) ... ok
+test_reference_mismatch_fails (test_tail.TailTest.test_reference_mismatch_fails) ... ok
+test_support_does_not_double_positions (test_tail.TailTest.test_support_does_not_double_positions) ... ok
+test_timeout_fresh_reference (test_tail.TailTest.test_timeout_fresh_reference) ... ok
+test_timeout_no_new_swap (test_tail.TailTest.test_timeout_no_new_swap) ... ok
+test_timeout_wait_not_retroactive (test_tail.TailTest.test_timeout_wait_not_retroactive) ... ok
+test_trail (test_tail.TailTest.test_trail) ... ok
+test_unknown_execution_not_zero (test_tail.TailTest.test_unknown_execution_not_zero) ... ok
+test_wif_not_opened (test_tail.TailTest.test_wif_not_opened) ... ok
+test_wrong_pool_rejected (test_tail.TailTest.test_wrong_pool_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 49 tests in 0.015s
+
+OK

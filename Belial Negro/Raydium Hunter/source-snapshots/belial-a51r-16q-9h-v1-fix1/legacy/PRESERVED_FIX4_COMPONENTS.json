@@ -1,0 +1,123 @@
+{
+  "baseline": "BELIAL_R5D_T3_90M_MP12_FIX3",
+  "baseline_zip_sha256": "a6705f87f0bd1fdfc040d43cf0b54b932bc7d2430dc10f8872ecd4074f6c8ed0",
+  "preserved": {
+    "mp12/EXPECTED_N1.json": "83c4efbbae09c8f4643e8fb5602b3cfd0f106d7abb0ff5d0eb6f420b06e1233a",
+    "mp12/tests/test_tail.py": "8ca7866ae83a427e0f846f52d9353b0bc6c0fb8a1e66329e40c8f60bb08831d8",
+    "mp12/tests/test_common.py": "f9b66beae429ec569f5a7055d01cb99c7b6b74b16a9760877cb62757973fbca0",
+    "mp12/tools/m1_contract.py": "5e040f64f2c6915195fd409d5cf65cdcd6dd1c555cabb75b0afcf4d1293b787d",
+    "mp12/tools/n1_bridge.py": "c35647e10e099971b2306530e90ed72eedc24f99242d6280e98b3efdd60695a1",
+    "mp12/tools/tail.py": "49106431ea985587bd4a2fcc1903b9272d1567c3a4816f04fc4011e102c76ad5",
+    "mp12/tools/common.py": "362b4479ee19debbf8450a04d328d8c65576e1fc4e46de9fe55e66f501cf352d",
+    "mp12/engine/Cargo.lock": "6dcacb639b1d1adda7699035da96e095e50f72d6b27bfbb72cf5260d278b1cee",
+    "mp12/engine/Cargo.toml": "4ebaddb64744391167d2c0e0590550c1414ea5c0c9762b2b55623d02ab672e76",
+    "mp12/engine/tests/protocol_cases.jsonl": "c39b2fe58cdf903526cfc38a42635e251275248c2c4a405563b72adaf6a65603",
+    "mp12/engine/src/m2_core.rs": "3219fb00d0d654cde050624bd23947d5f344ecd13996f07f409a57537ca6fb94",
+    "mp12/engine/src/bin/belial-perp-feed.rs": "13c1fcbce23300868e36e8bc6ee2a647f40ece70fa48ade62c9c2fbc5c37546d",
+    "n2_mp12/CONFIG_N2.json": "845b6f4356091f0b565a941fe9a3ff9bee01796ba0caa8821e3278c9d9eacb39",
+    "n2_mp12/tests/test_features.py": "2a7df39c7bc6acd2685afed52769733c1e8f1c5dfb0fab50a348cdfcbbd542c8",
+    "n2_mp12/tests/test_observer.py": "d59db9fb6923bf9ae92eb317683317aaaecc028796f96108ea798a3178671f02",
+    "n2_mp12/tests/test_long_horizons.py": "32c5e8932831436a42ba7b7077f5a5b4bfa6ac06c61e2b306b6009d9c8aaa156",
+    "n2_mp12/tests/test_contract.py": "fbb13857132c25d0ee5293063e61ad4b51223a46750935998748e17db2f51068",
+    "n2_mp12/tools/observer.py": "cd42014fbd82a5059fddac68826a3f259fea993864d5f7080430190dcb95a150",
+    "n2_mp12/tools/validate_gpu.py": "61cd4a7659662bbfa2dce66df16a39bba8b5cd130afb22f8203e5791ce20b1c8",
+    "n2_mp12/tools/control.py": "5f8b8056d226bc74614a078445accfc25cdefd504699b846b952d45cad5e0722",
+    "n2_mp12/tools/features.py": "d389b3ece4b0a1a6b5568c2f500b53c1deb166579d66501b1d0a58f8996e0e66",
+    "n2_mp12/tools/d1_patch.py": "d7442d01964d65c8b586f5427ae559f4cfcd07f2d08140fe86d91f4c2d7e0694",
+    "n2_mp12/tools/opencl_core.py": "b862d345ee80c08296866adfc00328631af30e585d68ec056b1a4129a0397c4b",
+    "n2_mp12/tools/common.py": "1ebd5ddf9bb347e26a47ba323adbc85b0e8bbb2cb79545017151bc550202a135",
+    "n2_mp12/tools/install.py": "3e061592aa655205451dde0b8f3f829f912d815a123dfa8b361fa34f022fcb77",
+    "n2_mp12/tools/live.py": "07010e5503bb78b23287be3cc8f578420abb90e52329e44d6519ad81cb6502fe",
+    "d2/tests/test_dashboard_ultra.py": "05e3ca0556b89c59ec35b6d13f5aa3802529f1bc0f58e2d4c718ac1d576fb091",
+    "d2/tools/dashboard_ultra.py": "0a0e63fd975827f98b87edabda11d7e8a495662e188d29c72d11f4860dfe3487",
+    "runner/CANONICAL_MINTS.json": "f4c631cd4a6f8656457f11b87c9537a1c4b2a0c719ab91fb875ce35058286b02",
+    "runner/tests/test_rpc_integration_fix3.py": "9968cf0161e4ae96d6203a66a4bbf3bf911e54b0c90495c5b63b1ed3bcc2167c",
+    "runner/tests/test_shadow_and_contract.py": "6e82d8a6f415f12e1005a036ba3765524ab81185b27620241ba13efe5209357e",
+    "runner/tests/test_runner_contract.py": "285fa4aaaef685caa184f023da89762bf3efd8f350b4d67168f2b63226f9e1a0",
+    "runner/tests/protocol_fixtures.py": "8e0572c3af991dc043c1b6025acf792dfe390843d78f88209fee92377bb59feb",
+    "runner/tests/test_rpc_fix3.py": "35b6a0745beab1c59fb84f07fc83190a4aad642bd5ae897d0a84525314faf583",
+    "runner/tests/test_rust_contract.py": "0ebad7b09f1908b28f247c20da73c25fdd780f3d1365b62a427ed593d12fbb78",
+    "runner/tests/test_preflight.py": "972cf35cc2aba57a99bc6d587cb6188ce95332792e06331825fa50f89d78f1bf",
+    "runner/tests/test_qualification_fix2.py": "c61054ab5c135aa67f20c8aa08670f2a1bcf91011e62e807f31235bfd8f1e803",
+    "runner/tools/qualify_protocols.py": "af2002d7cc7a9986055832f8904b8bad6f1945d72f5c5af5467fcd334dd55410",
+    "runner/tools/rpc_selection.py": "026b4e393cf9c88d546640be1cff3a7d1084cb965ed63240fa76fb28b6643aa5",
+    "runner/tools/rpc_ws_probe.py": "8ed8c123b42dc69f1405e79f1abd399a94da303e82485b013046a111c521a659",
+    "runner/tools/mp12_contract.py": "dcebb32cca4a8a3ea596603f41a3a2dd96d6ea9eb085bd9085c154d41549ecea",
+    "runner/tools/session_config.py": "d7ba14137dad7f177a1b2d7a8bae75fffe22aa605bd4e3d3d518e5736e7f1cb5",
+    "runner/tools/rpc_transport.py": "4c5e57f9601704a5d50d77417a862ff5a238e204e61a9000e10c0dd15949d1ef",
+    "runner/tools/shadow_compare.py": "093d48bc9b7c727cad172a7053912f483c32ed0fe0f19b62de3cfdef0b52c2f2",
+    "runner/tests/fixtures/fix1_actual_metadata/PUMP_FAILED.json": "2e7dde6c1551fad6077b671569af37ddac819fcb723bb6d9fb45ca285fb1a8e3",
+    "runner/tests/fixtures/fix1_actual_metadata/PENGU_FAILED.json": "170a9da3fc29657568f2b0f070028674b0ee723068be46f3eab9579099d0425d",
+    "runner/tests/fixtures/fix1_actual_metadata/GRASS_FAILED.json": "cb0c519120bb7923faab254e36a0ddc0ee15b19595df38d3649deafc85d5b578",
+    "runner/tests/fixtures/fix1_actual_metadata/PYTH_list-v2_1.json": "43d5197ec9aab0ef05b734dbac196e081b82fdea74e3cc2318385d624d40a35c",
+    "runner/tests/fixtures/fix1_actual_metadata/BONK_list-v2_1.json": "273502765a26709601b17c8d0671204b9079faff8367fa99f63ef936373becf2",
+    "runner/tests/fixtures/fix1_actual_metadata/RESOLUTION_SUMMARY.json": "c35efddf85e867b708f6487de42fc137b6a6f515cae5dae0b6553caebde3eca6",
+    "runner/tests/fixtures/fix1_actual_metadata/PUMP_list-v2_1.json": "fa63c95da22ffa802d37defa0c8d4366826dedef1c74e3751d7957880ab9cdaf",
+    "runner/tests/fixtures/fix1_actual_metadata/GRASS_list-v2_1.json": "ee72e0526b0d9e2084798957ab2231e7b39219e50793526090c7e3044d08cc92",
+    "runner/tests/fixtures/fix1_actual_metadata/PROVENANCE.json": "ea5ac2662286d7649d323d9b43846df3a8585d0c8b41dbba03289b40825af30b",
+    "runner/tests/fixtures/fix1_actual_metadata/PUMP_legacy_1.json": "d4f290c76cb899a78faa2953adbff2449427fd1a5c31351bb8142743d0576350",
+    "runner/tests/fixtures/fix1_actual_metadata/PENGU_legacy_1.json": "c9af36fbe6dc5401d0e8f9d73e86ea14d66d0b639f870fd1f6afb393635bef11",
+    "runner/tests/fixtures/fix1_actual_metadata/PENGU_list-v2_1.json": "df0461157e39e70e5e9c27d7389020c17e48d29108e3ca25235367f86be23ccf",
+    "runner/tests/fixtures/fix1_actual_metadata/GRASS_legacy_1.json": "aa527b7444fc6e6c6107f1134ab41fcdcac6534430b38b17f2b63433ce266043",
+    "runner/tests/fixtures/fix1_actual_metadata/USELESS_list-v2_1.json": "6ff34bb3f700d7405d8ece012a0c765f4a4167c9f12c187de22d0f2c48d4e6a7",
+    "perp/CONFIG_PAPER.json": "6f814d58c26d6d7ffc6de85dd86c12b0a3bfb52890617f559a7dd18e6f6ba6a1",
+    "perp/tests/test_service.py": "1e7d541802b80031d56f43393490fa0f9cc06a06e1677d2a75bbecb61642769d",
+    "perp/tests/test_books_paper.py": "07f1b58c6f6abd7fcdc454d955eaebba45318a1cffa4b5bf2a5341a7e26ba2bd",
+    "perp/tools/books.py": "4bb33ff97d600323e504e53b86172b04a83e766aab5132e484db0b0ac278efe5",
+    "perp/tools/serve.py": "bae151d10420d748b6e42599750d080d270be6f1297bf865c9674b8ddf96a652",
+    "perp/tools/paper.py": "39358029366d4914dc55aac5785eabbf7c4b752744e7fe965dfc221efa6cb1b9",
+    "perp/tools/markets.py": "5fab987ce27f37b623d09a23021327eb0d23df63c7094aee06301a5ecad5ef9c",
+    "perp/web/dashboard.html": "45354b15b51be17362c023ee7efce5a0f82bf3baf7589c79af05fd94bd88fa8f"
+  },
+  "changed": {
+    "mp12/engine/src/main.rs": {
+      "before": "9cb946237b057310c6125ded6ccda78123aa60c5c2dee91ad8ef86d431a304c3",
+      "after": "12294b2ac25823742bc0ce25a3298b34538ce7a8d0fce48449489b1c1ad8efb8"
+    },
+    "mp12/engine/src/raydium_protocols.rs": {
+      "before": "3e01681ec626231816ec2820704883324a436df287bd15df45cd7b7e4369b1c5",
+      "after": "6e1521b747d4066e41eff0cecf82547f9acf9ebd4ba35fc53d58ae766e8774e0"
+    },
+    "runner/tests/test_preflight_fix1.py": {
+      "before": "5075a1ebf73fd575ed680652caa1d3e57ed89938df173b7b67bcc20282839894",
+      "after": "6634bf66694182ba59556919f81c68de631877d19aa1e0a06403db9cf6d78c1a"
+    },
+    "runner/tests/test_session_90m.py": {
+      "before": "545a321e92cb84f8f06fb908585e8d619724b462d0a0fc6e6cd97117cfd03765",
+      "after": "a7706c074e18985c322beb96addc4d099b17e3e2232580288131a13e523429d2"
+    },
+    "runner/tests/test_protocol_fix2.py": {
+      "before": "9dc40c10a1f20e231d562ccfa95b4c36a845030dd0a31d5f455d958dde291a3c",
+      "after": "cc8ad87cd7a4f5d51d51eaf01dff48e0dc6845027553c76bae1f663b51317cb0"
+    },
+    "runner/tools/install_and_run.py": {
+      "before": "8c4d3e59cb8fa2a4f71f70e9795af5486d64b288f5ae78d4b516c6274d52be5f",
+      "after": "f25aafe6c56e033c4568015c47d627f071af2cbbcb2dcb24b0938ca9046b58bb"
+    },
+    "runner/tools/run90m.py": {
+      "before": "2546d8b2cc3f9c7ef54dd6001a4ab86cb75cc7b339dc6dbd0142eea1f155bece",
+      "after": "0ba9625642d40d4d85188eb8608692d8d5ce868dc6c727f95d151fa66d225b89"
+    },
+    "runner/tools/protocol_reference.py": {
+      "before": "5f36c1345b06f94d3dcfe274e06d699a1012c8906e571a680d3cf049aa433761",
+      "after": "c6289f715b9a5dc60adb6ae192d5c6415828c83413486d5ab08f20da8b3c4c9d"
+    },
+    "runner/tools/preflight_pools.py": {
+      "before": "4446d2d527804ace298bf5a82a7282e4683b71cdf2dd102daf5584c5f219b7cd",
+      "after": "bef7fbac8e772f02c63c71edb4f69b570eff1b6d750e74d43b7ed0c0a38730e4"
+    }
+  },
+  "added": {
+    "mp12/engine/src/token_programs.rs": "4661e320caba33dde2071c1874b2da2aaf1c9c1e4b7a6269b87b931ce7c9301b",
+    "runner/tests/test_token_capabilities_fix4.py": "d8e5b44ff8410a16b3886421d745778293c1e3ef6ebf7b2e7309f24544c6f19f",
+    "runner/tools/token_capabilities.py": "4b2610b0529aa18248e354dfaac65b0e0cce289a58d66a6f7e7b7cbb6e9fef3a",
+    "runner/tools/audit_saved_tokens.py": "c84af29c6316679bfff58fb720d6e56a8539c1bacc90c24dbbfbd3998ec28663"
+  },
+  "removed": {},
+  "scope": "operational component files, excluding prior validation and __pycache__",
+  "notes": [
+    "Mint/vault token ABI and preflight deliberately changed together.",
+    "Version-only assertions updated to isolated FIX4 paths; original baselines archived unchanged.",
+    "Rust compilation and live RPC remain unexecuted in this container."
+  ]
+}

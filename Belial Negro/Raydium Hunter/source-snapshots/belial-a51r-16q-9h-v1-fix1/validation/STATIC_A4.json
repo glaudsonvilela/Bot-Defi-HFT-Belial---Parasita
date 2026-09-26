@@ -1,0 +1,6 @@
+{
+  "schema": "belial_a4_static_validation_v1",
+  "python_files_ast_ok": 190,
+  "javascript_checks": [],
+  "native_rust_compiled_here": false
+}

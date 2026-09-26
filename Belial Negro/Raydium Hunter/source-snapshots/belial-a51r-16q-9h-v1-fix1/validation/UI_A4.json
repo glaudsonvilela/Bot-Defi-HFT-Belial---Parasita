@@ -1,0 +1,14 @@
+{
+  "schema": "belial_a4_ui_static_v1",
+  "scripts": 1,
+  "node_available": true,
+  "node_check": [
+    {
+      "index": 0,
+      "returncode": 0,
+      "stderr": ""
+    }
+  ],
+  "contains_states": true,
+  "uses_dashboard_sse_as_market_transport": false
+}

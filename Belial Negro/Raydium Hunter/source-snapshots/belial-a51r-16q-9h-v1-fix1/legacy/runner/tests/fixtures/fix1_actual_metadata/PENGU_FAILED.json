@@ -1,0 +1,30 @@
+{
+  "symbol": "PENGU",
+  "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+  "error": "NO_COMPATIBLE_LEGACY_AMM_V4_TOKEN_SOL_POOL",
+  "attempts": [
+    {
+      "endpoint": "https://api-v3.raydium.io/pools/info/list-v2?size=100&mint1=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv&mint2=So11111111111111111111111111111111111111112&poolType=Standard&sortField=liquidity&sortType=desc",
+      "style": "list-v2",
+      "page": 1,
+      "response_rows": 6,
+      "compatible_rows": 0,
+      "programs_seen": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "response_json_sha256": "e86a21d450734d521c3c67abfeecc13be3ed01ccced352d54108caa3da7c3b27"
+    },
+    {
+      "endpoint": "https://api-v3.raydium.io/pools/info/mint?mint1=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv&mint2=So11111111111111111111111111111111111111112&poolType=standard&poolSortField=liquidity&sortType=desc&pageSize=100&page=1",
+      "style": "legacy",
+      "page": 1,
+      "response_rows": 6,
+      "compatible_rows": 0,
+      "programs_seen": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "response_json_sha256": "6183a328fca350d792adee4cdc938e55fc000a934891ccbfce1e93f651cca472"
+    }
+  ],
+  "scan_started": false
+}

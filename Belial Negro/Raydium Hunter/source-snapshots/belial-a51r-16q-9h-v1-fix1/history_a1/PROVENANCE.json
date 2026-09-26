@@ -1,0 +1,54 @@
+{
+  "schema": "belial_a1_provenance_v1",
+  "base_file": "BELIAL_R5D_T3_90M_MP12_FIX4_PACOTE.zip",
+  "base_sha256": "ecefad6d84e78791c4ec943574696b3cee7f96bd4427d2afcd6c2c0f346e8715",
+  "preserved_legacy_files": 81,
+  "architecture_spec_sha256": "62b55cb637d83fcad3b9fc6c9e2f316d5243cdf754aa11ce82f641fc3d65d7eb",
+  "native_components": {
+    "Cargo.lock": {
+      "sha256": "6dcacb639b1d1adda7699035da96e095e50f72d6b27bfbb72cf5260d278b1cee",
+      "base_sha256": "6dcacb639b1d1adda7699035da96e095e50f72d6b27bfbb72cf5260d278b1cee",
+      "unchanged": true
+    },
+    "Cargo.toml": {
+      "sha256": "4ebaddb64744391167d2c0e0590550c1414ea5c0c9762b2b55623d02ab672e76",
+      "base_sha256": "4ebaddb64744391167d2c0e0590550c1414ea5c0c9762b2b55623d02ab672e76",
+      "unchanged": true
+    },
+    "src/bin/belial-perp-feed.rs": {
+      "sha256": "133323fb3afbec45e397a21f522ba1b029d1db52f817c85e22ba4c10ac698d3a",
+      "base_sha256": "13c1fcbce23300868e36e8bc6ee2a647f40ece70fa48ade62c9c2fbc5c37546d",
+      "unchanged": false
+    },
+    "src/bin/belial-spot-raw.rs": {
+      "sha256": "569a28fea2070cbf1c9d14ed2691e98b8be421853d1adba8d00a754b07ed8813",
+      "base_sha256": null,
+      "unchanged": false
+    },
+    "src/m2_core.rs": {
+      "sha256": "3219fb00d0d654cde050624bd23947d5f344ecd13996f07f409a57537ca6fb94",
+      "base_sha256": "3219fb00d0d654cde050624bd23947d5f344ecd13996f07f409a57537ca6fb94",
+      "unchanged": true
+    },
+    "src/main.rs": {
+      "sha256": "ced75b9da2114de0dce289c21e9d8a45fdfc212fa6464f2553604ab7b5331bf3",
+      "base_sha256": "12294b2ac25823742bc0ce25a3298b34538ce7a8d0fce48449489b1c1ad8efb8",
+      "unchanged": false
+    },
+    "src/raydium_protocols.rs": {
+      "sha256": "6e1521b747d4066e41eff0cecf82547f9acf9ebd4ba35fc53d58ae766e8774e0",
+      "base_sha256": "6e1521b747d4066e41eff0cecf82547f9acf9ebd4ba35fc53d58ae766e8774e0",
+      "unchanged": true
+    },
+    "src/token_programs.rs": {
+      "sha256": "4661e320caba33dde2071c1874b2da2aaf1c9c1e4b7a6269b87b931ce7c9301b",
+      "base_sha256": "4661e320caba33dde2071c1874b2da2aaf1c9c1e4b7a6269b87b931ce7c9301b",
+      "unchanged": true
+    },
+    "tests/protocol_cases.jsonl": {
+      "sha256": "c39b2fe58cdf903526cfc38a42635e251275248c2c4a405563b72adaf6a65603",
+      "base_sha256": "c39b2fe58cdf903526cfc38a42635e251275248c2c4a405563b72adaf6a65603",
+      "unchanged": true
+    }
+  }
+}

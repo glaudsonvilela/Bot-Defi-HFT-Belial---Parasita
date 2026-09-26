@@ -1,0 +1,9 @@
+{
+  "base_commit": "8cb7dcb98e50dc102816999c2d5f558876758166",
+  "base_package_byte_identical": true,
+  "input_copy_created": false,
+  "orders": false,
+  "post_run_audit": "bounded_memory_streaming",
+  "runtime_patch": "resume_guard.deferred_salvage",
+  "schema": "belial_a51r_recovery_fix1_v1"
+}
