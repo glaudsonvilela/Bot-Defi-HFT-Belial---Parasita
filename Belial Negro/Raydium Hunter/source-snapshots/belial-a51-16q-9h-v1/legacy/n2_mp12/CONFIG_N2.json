@@ -1,0 +1,362 @@
+{
+  "backend": "OPENCL_1_2_CTYPES_NO_EXTRA_PACKAGES",
+  "base_dimension": 64,
+  "base_feature_names": [
+    "sell_quote_log",
+    "sell_reserve_fraction",
+    "cluster_size",
+    "cluster_wallets",
+    "cluster_quote_log",
+    "impact_score",
+    "absorption",
+    "actor_latency",
+    "inventory_exit_pct",
+    "observed_inventory_pool_pct",
+    "leader_quality",
+    "leader_samples_log",
+    "pre_return_30s",
+    "pre_sell_pressure_30s",
+    "regime_bull",
+    "regime_mixed",
+    "regime_bear",
+    "signal_age",
+    "observed_vs_reference_spread",
+    "trigger_quote_reserve",
+    "cluster_quote_reserve",
+    "reference_age",
+    "same_wallet_hint",
+    "multi_wallet_hint",
+    "swap_count_1s",
+    "quote_total_1s",
+    "sell_imbalance_1s",
+    "reference_return_1s",
+    "abs_return_1s",
+    "max_quote_reserve_1s",
+    "swap_count_3s",
+    "quote_total_3s",
+    "sell_imbalance_3s",
+    "reference_return_3s",
+    "abs_return_3s",
+    "max_quote_reserve_3s",
+    "swap_count_5s",
+    "quote_total_5s",
+    "sell_imbalance_5s",
+    "reference_return_5s",
+    "abs_return_5s",
+    "max_quote_reserve_5s",
+    "swap_count_10s",
+    "quote_total_10s",
+    "sell_imbalance_10s",
+    "reference_return_10s",
+    "abs_return_10s",
+    "max_quote_reserve_10s",
+    "swap_count_30s",
+    "quote_total_30s",
+    "sell_imbalance_30s",
+    "reference_return_30s",
+    "abs_return_30s",
+    "max_quote_reserve_30s",
+    "swap_count_60s",
+    "quote_total_60s",
+    "sell_imbalance_60s",
+    "reference_return_60s",
+    "abs_return_60s",
+    "max_quote_reserve_60s",
+    "window_1s_empty",
+    "window_5s_empty",
+    "window_30s_empty",
+    "last_interarrival"
+  ],
+  "expansion": "deterministic_hashed_pairwise_and_nonlinear_interactions_on_gpu",
+  "gpu_benchmark": {
+    "iterations": 40,
+    "minimum_live_stage": [
+      8192,
+      32
+    ],
+    "p95_kernel_ms_limit": 20.0,
+    "stages": [
+      [
+        8192,
+        32
+      ]
+    ],
+    "synthetic_batch": 128
+  },
+  "heads": [
+    {
+      "id": "SHORT_10BP_10S",
+      "direction": "favorable",
+      "threshold_bps": 10,
+      "horizon_ms": 10000
+    },
+    {
+      "id": "SHORT_20BP_10S",
+      "direction": "favorable",
+      "threshold_bps": 20,
+      "horizon_ms": 10000
+    },
+    {
+      "id": "SHORT_30BP_10S",
+      "direction": "favorable",
+      "threshold_bps": 30,
+      "horizon_ms": 10000
+    },
+    {
+      "id": "SHORT_10BP_30S",
+      "direction": "favorable",
+      "threshold_bps": 10,
+      "horizon_ms": 30000
+    },
+    {
+      "id": "SHORT_20BP_30S",
+      "direction": "favorable",
+      "threshold_bps": 20,
+      "horizon_ms": 30000
+    },
+    {
+      "id": "SHORT_30BP_30S",
+      "direction": "favorable",
+      "threshold_bps": 30,
+      "horizon_ms": 30000
+    },
+    {
+      "id": "SHORT_50BP_30S",
+      "direction": "favorable",
+      "threshold_bps": 50,
+      "horizon_ms": 30000
+    },
+    {
+      "id": "SHORT_15BP_60S",
+      "direction": "favorable",
+      "threshold_bps": 15,
+      "horizon_ms": 60000
+    },
+    {
+      "id": "SHORT_25BP_60S",
+      "direction": "favorable",
+      "threshold_bps": 25,
+      "horizon_ms": 60000
+    },
+    {
+      "id": "SHORT_50BP_60S",
+      "direction": "favorable",
+      "threshold_bps": 50,
+      "horizon_ms": 60000
+    },
+    {
+      "id": "SHORT_75BP_60S",
+      "direction": "favorable",
+      "threshold_bps": 75,
+      "horizon_ms": 60000
+    },
+    {
+      "id": "SHORT_15BP_120S",
+      "direction": "favorable",
+      "threshold_bps": 15,
+      "horizon_ms": 120000
+    },
+    {
+      "id": "SHORT_25BP_120S",
+      "direction": "favorable",
+      "threshold_bps": 25,
+      "horizon_ms": 120000
+    },
+    {
+      "id": "SHORT_50BP_120S",
+      "direction": "favorable",
+      "threshold_bps": 50,
+      "horizon_ms": 120000
+    },
+    {
+      "id": "SHORT_75BP_120S",
+      "direction": "favorable",
+      "threshold_bps": 75,
+      "horizon_ms": 120000
+    },
+    {
+      "id": "SHORT_15BP_300S",
+      "direction": "favorable",
+      "threshold_bps": 15,
+      "horizon_ms": 300000
+    },
+    {
+      "id": "SHORT_25BP_300S",
+      "direction": "favorable",
+      "threshold_bps": 25,
+      "horizon_ms": 300000
+    },
+    {
+      "id": "SHORT_50BP_300S",
+      "direction": "favorable",
+      "threshold_bps": 50,
+      "horizon_ms": 300000
+    },
+    {
+      "id": "SHORT_75BP_300S",
+      "direction": "favorable",
+      "threshold_bps": 75,
+      "horizon_ms": 300000
+    },
+    {
+      "id": "SHORT_100BP_300S",
+      "direction": "favorable",
+      "threshold_bps": 100,
+      "horizon_ms": 300000
+    },
+    {
+      "id": "SHORT_25BP_600S",
+      "direction": "favorable",
+      "threshold_bps": 25,
+      "horizon_ms": 600000
+    },
+    {
+      "id": "SHORT_50BP_600S",
+      "direction": "favorable",
+      "threshold_bps": 50,
+      "horizon_ms": 600000
+    },
+    {
+      "id": "SHORT_75BP_600S",
+      "direction": "favorable",
+      "threshold_bps": 75,
+      "horizon_ms": 600000
+    },
+    {
+      "id": "SHORT_100BP_600S",
+      "direction": "favorable",
+      "threshold_bps": 100,
+      "horizon_ms": 600000
+    },
+    {
+      "id": "SHORT_150BP_600S",
+      "direction": "favorable",
+      "threshold_bps": 150,
+      "horizon_ms": 600000
+    },
+    {
+      "id": "SHORT_25BP_900S",
+      "direction": "favorable",
+      "threshold_bps": 25,
+      "horizon_ms": 900000
+    },
+    {
+      "id": "SHORT_50BP_900S",
+      "direction": "favorable",
+      "threshold_bps": 50,
+      "horizon_ms": 900000
+    },
+    {
+      "id": "SHORT_75BP_900S",
+      "direction": "favorable",
+      "threshold_bps": 75,
+      "horizon_ms": 900000
+    },
+    {
+      "id": "SHORT_100BP_900S",
+      "direction": "favorable",
+      "threshold_bps": 100,
+      "horizon_ms": 900000
+    },
+    {
+      "id": "SHORT_50BP_1800S",
+      "direction": "favorable",
+      "threshold_bps": 50,
+      "horizon_ms": 1800000
+    },
+    {
+      "id": "SHORT_75BP_1800S",
+      "direction": "favorable",
+      "threshold_bps": 75,
+      "horizon_ms": 1800000
+    },
+    {
+      "id": "ADVERSE_100BP_1800S",
+      "direction": "adverse",
+      "threshold_bps": 100,
+      "horizon_ms": 1800000
+    }
+  ],
+  "known_user_gpu": "GeForce GTX 1060 3GB",
+  "learning": {
+    "algorithm": "LOGISTIC_SGD_L2",
+    "baseline": "per_pool_per_head_beta_1_1_same_primary_valid_samples",
+    "intercept_penalty": false,
+    "l2": 0.001,
+    "learning_rate": 0.03,
+    "primary_sampling": "per_pool_per_head_nonoverlap_equal_to_head_horizon",
+    "schedule": "0.03/sqrt(1+updates/2000)",
+    "weight_clip_abs": 20.0
+  },
+  "limits": {
+    "history_rows_per_pool": 65536,
+    "history_window_ms": 2040000,
+    "max_line_bytes": 131072,
+    "max_pending": 8192,
+    "nice": 12,
+    "poll_seconds": 0.01,
+    "rlimit_as_mib": null,
+    "summary_seconds": 1.0
+  },
+  "max_dimension": 8192,
+  "mode": "PROSPECTIVE_SHADOW_GPU_NUMERIC_MP12",
+  "pool_roles": {
+    "BOME": "OBSERVE_AND_LEARN",
+    "FARTCOIN": "TAIL_HUNTER",
+    "JUP": "SHADOW_COMPARE",
+    "POPCAT": "SHADOW_COMPARE",
+    "RAY": "SHADOW_CONTROL",
+    "WIF": "OBSERVE_AND_LEARN",
+    "BONK": "SHADOW_COMPARE",
+    "PENGU": "SHADOW_COMPARE",
+    "PUMP": "SHADOW_COMPARE",
+    "USELESS": "SHADOW_COMPARE",
+    "GRASS": "SHADOW_COMPARE",
+    "PYTH": "SHADOW_COMPARE"
+  },
+  "pools": [
+    "FARTCOIN",
+    "BOME",
+    "WIF",
+    "POPCAT",
+    "RAY",
+    "JUP",
+    "BONK",
+    "PENGU",
+    "PUMP",
+    "USELESS",
+    "GRASS",
+    "PYTH"
+  ],
+  "preferred_vendor": "NVIDIA",
+  "quality": {
+    "max_observation_gap_ms": 30000,
+    "max_reference_age_ms": 30000,
+    "max_signal_age_ms": 30000,
+    "min_post_start_observations": 2,
+    "missing_is_null_not_negative": true
+  },
+  "safety": {
+    "approved_for_decisions": false,
+    "collector_priority_over_n2": true,
+    "live_weights_seeded_from_replay": false,
+    "original_evidence_modified": false,
+    "paper_only": true,
+    "signal_engine_feedback": false,
+    "transactions_submitted": false
+  },
+  "schema": "belial_r5d_n2_gpu_mp12_v1",
+  "state": {
+    "checkpoint_seconds": 3600,
+    "replay_after_checkpoint": true,
+    "training_journal_append_only": true
+  },
+  "target_contract": {
+    "version": "T3_H32_V1",
+    "price_basis": "TOKEN_PER_SOL_SENSOR_NOT_PERP_USD",
+    "longest_horizon_seconds": 1800,
+    "incomplete_horizon": "CENSORED_NULL",
+    "late_after_30min_in_60min_test": "CENSORED_NULL",
+    "calibrated_for_economic_decisions": false
+  }
+}

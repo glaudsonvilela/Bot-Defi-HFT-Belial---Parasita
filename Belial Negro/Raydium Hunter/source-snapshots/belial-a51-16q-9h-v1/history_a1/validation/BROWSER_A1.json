@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "external_market": false,
+  "tests": [
+    {
+      "viewport": [
+        1540,
+        1180
+      ],
+      "js_errors": [],
+      "rows": 12,
+      "horizontal_overflow": false,
+      "clock_90m_passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "js_errors": [],
+      "rows": 12,
+      "horizontal_overflow": false,
+      "clock_90m_passed": true
+    }
+  ]
+}

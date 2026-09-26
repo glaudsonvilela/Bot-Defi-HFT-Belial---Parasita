@@ -1,0 +1,27 @@
+test_benchmark_levels (test_contract.T.test_benchmark_levels) ... ok
+test_mp12_pools (test_contract.T.test_mp12_pools) ... ok
+test_n2_attaches_only_explicit_t3_mp12_session (test_contract.T.test_n2_attaches_only_explicit_t3_mp12_session) ... ok
+test_opencl_handle_normalization (test_contract.T.test_opencl_handle_normalization) ... ok
+test_opencl_kernel_limits (test_contract.T.test_opencl_kernel_limits) ... ok
+test_opencl_loader_falls_back_to_nvidia_impl (test_contract.T.test_opencl_loader_falls_back_to_nvidia_impl) ... ok
+test_safety (test_contract.T.test_safety) ... ok
+test_base_names (test_features.T.test_base_names) ... ok
+test_dimension_and_bounds (test_features.T.test_dimension_and_bounds) ... ok
+test_expand_deterministic (test_features.T.test_expand_deterministic) ... ok
+test_old_reference_rejected (test_features.T.test_old_reference_rejected) ... ok
+test_31_favorable_one_adverse_and_history (test_long_horizons.LongHorizons.test_31_favorable_one_adverse_and_history) ... ok
+test_backlog_reader_not_caught_up_until_drained (test_long_horizons.LongHorizons.test_backlog_reader_not_caught_up_until_drained) ... ok
+test_every_new_pool_can_forecast (test_long_horizons.LongHorizons.test_every_new_pool_can_forecast) ... ok
+test_final_status_preserved_for_only_session_runner (test_long_horizons.LongHorizons.test_final_status_preserved_for_only_session_runner) ... ok
+test_late_drop_negative_at_300_positive_at_1800 (test_long_horizons.LongHorizons.test_late_drop_negative_at_300_positive_at_1800) ... ok
+test_late_sample_is_censored_not_negative (test_long_horizons.LongHorizons.test_late_sample_is_censored_not_negative) ... ok
+test_live_advances_only_after_backlog_drained (test_long_horizons.LongHorizons.test_live_advances_only_after_backlog_drained) ... ok
+test_gap_censors_and_does_not_train (test_observer.T.test_gap_censors_and_does_not_train) ... ok
+test_heads_contract (test_observer.T.test_heads_contract) ... ok
+test_prediction_and_short_label (test_observer.T.test_prediction_and_short_label) ... ok
+test_primary_is_per_head_horizon (test_observer.T.test_primary_is_per_head_horizon) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.017s
+
+OK

@@ -1,0 +1,856 @@
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=OK; issues=0
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_BLOCKED=BONK; reason=NO_POOL
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_BLOCKED=PENGU; reason=NO_POOL
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_BLOCKED=PUMP; reason=NO_POOL
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_BLOCKED=USELESS; reason=NO_POOL
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_BLOCKED=GRASS; reason=NO_POOL
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_BLOCKED=PYTH; reason=NO_POOL
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=BLOCKED; issues=1
+FIX4_CAPABILITY=BOME; status=BLOCKED; issues=1
+FIX4_CAPABILITY=WIF; status=BLOCKED; issues=1
+FIX4_CAPABILITY=POPCAT; status=BLOCKED; issues=1
+FIX4_CAPABILITY=RAY; status=BLOCKED; issues=1
+FIX4_CAPABILITY=JUP; status=BLOCKED; issues=1
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PUMP; status=BLOCKED; issues=1
+FIX4_CAPABILITY=USELESS; status=BLOCKED; issues=1
+FIX4_CAPABILITY=GRASS; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PYTH; status=BLOCKED; issues=1
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw; RPC_PENDING=true
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; BLOCKED=MINT_OWNER_UNSUPPORTED:DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263:owner=None
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; BLOCKED=MINT_OWNER_UNSUPPORTED:DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263:owner='Token2022Unsupported'
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=OK; issues=0
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; BLOCKED=MINT_LAYOUT_OR_INITIALIZATION:DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=BLOCKED; issues=1
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=OK; issues=0
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+FIX2_PROTOCOL_QUALIFICATION_OK=true; MODERN_POOLS=1; SCAN_STARTED=false
+FIX2_PROTOCOL_QUALIFICATION_OK=true; MODERN_POOLS=1; SCAN_STARTED=false
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_HTTP_OK=solana-mainnet-public; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_REJECTED=solana-mainnet-public; reason=WS_12_SUBSCRIPTIONS_NOT_APPROVED:endpoint=wss://api.mainnet.solana.com:method=logsSubscribe
+RPC_FIX3_TRY=publicnode-solana; rpc=https://solana-rpc.publicnode.com; ws=wss://solana-rpc.publicnode.com
+RPC_FIX3_HTTP_OK=publicnode-solana; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_REJECTED=publicnode-solana; reason=WS_12_SUBSCRIPTIONS_NOT_APPROVED:endpoint=wss://solana-rpc.publicnode.com:method=logsSubscribe
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_REJECTED=solana-mainnet-public; reason=RPC_HTTP_FORBIDDEN:endpoint=https://api.mainnet.solana.com:method=getGenesisHash:http=403
+RPC_FIX3_TRY=publicnode-solana; rpc=https://solana-rpc.publicnode.com; ws=wss://solana-rpc.publicnode.com
+RPC_FIX3_REJECTED=publicnode-solana; reason=RPC_HTTP_FORBIDDEN:endpoint=https://solana-rpc.publicnode.com:method=getGenesisHash:http=403
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_HTTP_OK=solana-mainnet-public; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_SELECTED=solana-mainnet-public; MAINNET=true; WS_SUBSCRIPTIONS_OK=12
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_HTTP_OK=solana-mainnet-public; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_SELECTED=solana-mainnet-public; MAINNET=true; WS_SUBSCRIPTIONS_OK=12
+RPC_FIX3_TRY=explicit-user-rpc; rpc=https://explicit.invalid; ws=wss://explicit.invalid
+RPC_FIX3_REJECTED=explicit-user-rpc; reason=RPC_HTTP_UNAUTHORIZED:endpoint=https://explicit.invalid:method=getGenesisHash:http=401
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_REJECTED=solana-mainnet-public; reason=RPC_HTTP_FORBIDDEN:endpoint=https://api.mainnet.solana.com:method=getGenesisHash:http=403
+RPC_FIX3_TRY=publicnode-solana; rpc=https://solana-rpc.publicnode.com; ws=wss://solana-rpc.publicnode.com
+RPC_FIX3_HTTP_OK=publicnode-solana; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_SELECTED=publicnode-solana; MAINNET=true; WS_SUBSCRIPTIONS_OK=12
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_TRY=explicit-user-rpc; rpc=https://user.invalid/[REDACTED]; ws=wss://user.invalid/[REDACTED]
+RPC_FIX3_HTTP_OK=explicit-user-rpc; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_SELECTED=explicit-user-rpc; MAINNET=true; WS_SUBSCRIPTIONS_OK=12
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_HTTP_OK=solana-mainnet-public; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_SELECTED=solana-mainnet-public; MAINNET=true; WS_SUBSCRIPTIONS_OK=12
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_REJECTED=solana-mainnet-public; reason=RPC_NOT_SOLANA_MAINNET:endpoint=https://api.mainnet.solana.com:method=getGenesisHash
+RPC_FIX3_TRY=publicnode-solana; rpc=https://solana-rpc.publicnode.com; ws=wss://solana-rpc.publicnode.com
+RPC_FIX3_REJECTED=publicnode-solana; reason=RPC_NOT_SOLANA_MAINNET:endpoint=https://solana-rpc.publicnode.com:method=getGenesisHash
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_HTTP_OK=solana-mainnet-public; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_REJECTED=solana-mainnet-public; reason=WS_HTTP_REJECTED:endpoint=wss://fixture.invalid:method=logsSubscribe:http=403
+RPC_FIX3_TRY=publicnode-solana; rpc=https://solana-rpc.publicnode.com; ws=wss://solana-rpc.publicnode.com
+RPC_FIX3_HTTP_OK=publicnode-solana; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_REJECTED=publicnode-solana; reason=WS_HTTP_REJECTED:endpoint=wss://fixture.invalid:method=logsSubscribe:http=403
+MP12_FIX3_IDENTITY=BONK; mint=DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=BONK; pool=DsUqngooHjcRhd2kPg2kNiGavwAh4C1rXgbdJVYfp1vt; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PENGU; mint=2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PENGU; pool=5f4R4ce1zSzvG9BcSMSGfatAaC9RAn6PkJWsXRtPBTFY; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PUMP; mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PUMP; pool=5TrUcbxa9VwezvXms6TusUvqgeG6HNDvLvruNAYNavEh; RPC_PENDING=true
+MP12_FIX3_IDENTITY=USELESS; mint=Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=USELESS; pool=7YPFngBKQvLBx7XrGZFyZJQzRvZQDW9qk5yDTaAMNho1; RPC_PENDING=true
+MP12_FIX3_IDENTITY=GRASS; mint=Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=GRASS; pool=4drCcGvyMB6aFAojKUwRBD7fenjzhizJtgNxGQoYkaA7; RPC_PENDING=true
+MP12_FIX3_IDENTITY=PYTH; mint=HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3; source=PINNED_MAINNET
+MP12_FIX3_POOL_CANDIDATE=PYTH; pool=Hay3TjL8xz9wFovwYs8tpu9MBtW5cJsmeaw2ygVCWpNt; RPC_PENDING=true
+RPC_FIX3_TRY=solana-mainnet-public; rpc=https://api.mainnet.solana.com; ws=wss://api.mainnet.solana.com
+RPC_FIX3_REJECTED=solana-mainnet-public; reason=RPC_HTTP_FORBIDDEN:endpoint=https://api.mainnet.solana.com:method=getMultipleAccounts:http=403
+RPC_FIX3_TRY=publicnode-solana; rpc=https://solana-rpc.publicnode.com; ws=wss://solana-rpc.publicnode.com
+FIX4_MINT=FARTCOIN; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BOME; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WIF; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=POPCAT; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=RAY; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=JUP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=BONK; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PENGU; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PUMP; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=USELESS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=GRASS; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=PYTH; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_MINT=WSOL; program=SPL_TOKEN; bytes=82; extensions=; STRUCTURE_OK=true
+FIX4_CAPABILITY=FARTCOIN; status=OK; issues=0
+FIX4_CAPABILITY=BOME; status=OK; issues=0
+FIX4_CAPABILITY=WIF; status=OK; issues=0
+FIX4_CAPABILITY=POPCAT; status=OK; issues=0
+FIX4_CAPABILITY=RAY; status=OK; issues=0
+FIX4_CAPABILITY=JUP; status=OK; issues=0
+FIX4_CAPABILITY=BONK; status=OK; issues=0
+FIX4_CAPABILITY=PENGU; status=OK; issues=0
+FIX4_CAPABILITY=PUMP; status=OK; issues=0
+FIX4_CAPABILITY=USELESS; status=OK; issues=0
+FIX4_CAPABILITY=GRASS; status=OK; issues=0
+FIX4_CAPABILITY=PYTH; status=OK; issues=0
+RPC_FIX3_HTTP_OK=publicnode-solana; VALIDATED_POOLS=12; HISTORY_READ_OK=true
+RPC_FIX3_SELECTED=publicnode-solana; MAINNET=true; WS_SUBSCRIPTIONS_OK=12
+test_12_symbols_unique (test_preflight.PreflightTests.test_12_symbols_unique) ... ok
+test_b58_preserves_zero_bytes (test_preflight.PreflightTests.test_b58_preserves_zero_bytes) ... ok
+test_bad_layout_rejected (test_preflight.PreflightTests.test_bad_layout_rejected) ... ok
+test_bad_owner_rejected (test_preflight.PreflightTests.test_bad_owner_rejected) ... ok
+test_bad_pair_rejected (test_preflight.PreflightTests.test_bad_pair_rejected) ... ok
+test_cpmm_does_not_become_legacy (test_preflight.PreflightTests.test_cpmm_does_not_become_legacy) ... ok
+test_exact_bonk_address (test_preflight.PreflightTests.test_exact_bonk_address) ... ok
+test_pinned_identity_independent_of_registry (test_preflight.PreflightTests.test_pinned_identity_independent_of_registry) ... ok
+test_select_highest_compatible_liquidity (test_preflight.PreflightTests.test_select_highest_compatible_liquidity) ... ok
+test_sol_token_orientation_valid (test_preflight.PreflightTests.test_sol_token_orientation_valid) ... ok
+test_token_sol_valid (test_preflight.PreflightTests.test_token_sol_valid) ... ok
+test_all_twelve_token_keys_are_distinct_canonical_pubkeys (test_preflight_fix1.CanonicalIdentityFIX1.test_all_twelve_token_keys_are_distinct_canonical_pubkeys) ... ok
+test_base58_invalid_alphabet_is_rejected (test_preflight_fix1.CanonicalIdentityFIX1.test_base58_invalid_alphabet_is_rejected) ... ok
+test_base58_oversized_value_is_rejected (test_preflight_fix1.CanonicalIdentityFIX1.test_base58_oversized_value_is_rejected) ... ok
+test_manifest_tamper_is_rejected (test_preflight_fix1.CanonicalIdentityFIX1.test_manifest_tamper_is_rejected) ... ok
+test_mint_result_does_not_alias_frozen_dictionary (test_preflight_fix1.CanonicalIdentityFIX1.test_mint_result_does_not_alias_frozen_dictionary) ... ok
+test_no_live_registry_request_in_full_success_path (test_preflight_fix1.CanonicalIdentityFIX1.test_no_live_registry_request_in_full_success_path) ... ok
+test_old_missing_bonk_failure_is_reproduced_but_new_identity_survives (test_preflight_fix1.CanonicalIdentityFIX1.test_old_missing_bonk_failure_is_reproduced_but_new_identity_survives) ... ok
+test_source_urls_present_for_every_pinned_mint (test_preflight_fix1.CanonicalIdentityFIX1.test_source_urls_present_for_every_pinned_mint) ... ok
+test_spoof_symbol_does_not_override_exact_mint (test_preflight_fix1.CanonicalIdentityFIX1.test_spoof_symbol_does_not_override_exact_mint) ... ok
+test_bad_liquidity_rejected (test_preflight_fix1.PoolDiscoveryFIX1.test_bad_liquidity_rejected) ... ok
+test_bad_pair_never_passes (test_preflight_fix1.PoolDiscoveryFIX1.test_bad_pair_never_passes) ... ok
+test_cursor_pagination_discovers_valid_legacy_pool (test_preflight_fix1.PoolDiscoveryFIX1.test_cursor_pagination_discovers_valid_legacy_pool) ... ok
+test_cursor_repetition_does_not_loop (test_preflight_fix1.PoolDiscoveryFIX1.test_cursor_repetition_does_not_loop) ... ok
+test_failure_artifacts_retain_both_endpoint_attempts (test_preflight_fix1.PoolDiscoveryFIX1.test_failure_artifacts_retain_both_endpoint_attempts) ... ok
+test_legacy_metadata_fallback_after_endpoint_error (test_preflight_fix1.PoolDiscoveryFIX1.test_legacy_metadata_fallback_after_endpoint_error) ... ok
+test_malformed_schema_is_not_reported_as_absence (test_preflight_fix1.PoolDiscoveryFIX1.test_malformed_schema_is_not_reported_as_absence) ... ok
+test_missing_cursor_has_next_page_uses_old_pagination (test_preflight_fix1.PoolDiscoveryFIX1.test_missing_cursor_has_next_page_uses_old_pagination) ... ok
+test_network_error_is_not_reported_as_absence (test_preflight_fix1.PoolDiscoveryFIX1.test_network_error_is_not_reported_as_absence) ... ok
+test_sdk_v2_uses_sorted_mints_without_excluding_clmm (test_preflight_fix1.PoolDiscoveryFIX1.test_sdk_v2_uses_sorted_mints_without_excluding_clmm) ... ok
+test_tie_break_is_deterministic (test_preflight_fix1.PoolDiscoveryFIX1.test_tie_break_is_deterministic) ... ok
+test_unknown_program_id_never_passes_supported_decoders (test_preflight_fix1.PoolDiscoveryFIX1.test_unknown_program_id_never_passes_supported_decoders) ... ok
+test_all_six_discovery_failures_are_reported (test_preflight_fix1.RPCAndSessionFIX1.test_all_six_discovery_failures_are_reported) ... ok
+test_bad_wsol_decimals_blocks_scan (test_preflight_fix1.RPCAndSessionFIX1.test_bad_wsol_decimals_blocks_scan) ... ok
+test_duplicate_pool_addresses_are_rejected (test_preflight_fix1.RPCAndSessionFIX1.test_duplicate_pool_addresses_are_rejected) ... ok
+test_missing_mint_blocks_scan (test_preflight_fix1.RPCAndSessionFIX1.test_missing_mint_blocks_scan) ... ok
+test_onchain_mint_decimals_must_match_pool (test_preflight_fix1.RPCAndSessionFIX1.test_onchain_mint_decimals_must_match_pool) ... ok
+test_onchain_wrong_mint_owner_blocks_scan (test_preflight_fix1.RPCAndSessionFIX1.test_onchain_wrong_mint_owner_blocks_scan) ... ok
+test_onchain_wrong_pool_owner_blocks_scan (test_preflight_fix1.RPCAndSessionFIX1.test_onchain_wrong_pool_owner_blocks_scan) ... ok
+test_rpc_error_is_not_empty_success (test_preflight_fix1.RPCAndSessionFIX1.test_rpc_error_is_not_empty_success) ... ok
+test_rpc_length_mismatch_is_not_silently_zipped (test_preflight_fix1.RPCAndSessionFIX1.test_rpc_length_mismatch_is_not_silently_zipped) ... ok
+test_runner_release_is_isolated_and_ninety_minutes_selected (test_preflight_fix1.RPCAndSessionFIX1.test_runner_release_is_isolated_and_ninety_minutes_selected) ... ok
+test_success_report_still_never_starts_capture (test_preflight_fix1.RPCAndSessionFIX1.test_success_report_still_never_starts_capture) ... ok
+test_uninitialized_mint_blocks_scan (test_preflight_fix1.RPCAndSessionFIX1.test_uninitialized_mint_blocks_scan) ... ok
+test_actual_grass_old_reject_new_cpmm (test_protocol_fix2.ActualFailureRegression.test_actual_grass_old_reject_new_cpmm) ... ok
+test_actual_penguin_old_reject_new_cpmm (test_protocol_fix2.ActualFailureRegression.test_actual_penguin_old_reject_new_cpmm) ... ok
+test_actual_pump_standard_empty_not_all_families (test_protocol_fix2.ActualFailureRegression.test_actual_pump_standard_empty_not_all_families) ... ok
+test_actual_pyth_rank_all_supported (test_protocol_fix2.ActualFailureRegression.test_actual_pyth_rank_all_supported) ... ok
+test_actual_useless_avoids_52_dollar_pool (test_protocol_fix2.ActualFailureRegression.test_actual_useless_avoids_52_dollar_pool) ... ok
+test_captured_metadata_hashes_match_input_zip (test_protocol_fix2.ActualFailureRegression.test_captured_metadata_hashes_match_input_zip) ... ok
+test_clmm_candidate_selected_with_concentrated_type_fixture (test_protocol_fix2.ActualFailureRegression.test_clmm_candidate_selected_with_concentrated_type_fixture) ... ok
+test_zero_liquidity_never_selected (test_protocol_fix2.ActualFailureRegression.test_zero_liquidity_never_selected) ... ok
+test_bad_decimals (test_protocol_fix2.EventDecode.test_bad_decimals) ... ok
+test_clmm_bad_boolean (test_protocol_fix2.EventDecode.test_clmm_bad_boolean) ... ok
+test_clmm_prices_not_vault_ratio (test_protocol_fix2.EventDecode.test_clmm_prices_not_vault_ratio) ... ok
+test_clmm_tick_mismatch (test_protocol_fix2.EventDecode.test_clmm_tick_mismatch) ... ok
+test_clmm_transferfee_rejected (test_protocol_fix2.EventDecode.test_clmm_transferfee_rejected) ... ok
+test_clmm_zero_sqrt (test_protocol_fix2.EventDecode.test_clmm_zero_sqrt) ... ok
+test_cpmm_all_sides_orientation_creator_and_exact_output (test_protocol_fix2.EventDecode.test_cpmm_all_sides_orientation_creator_and_exact_output) ... ok
+test_cpmm_bad_boolean (test_protocol_fix2.EventDecode.test_cpmm_bad_boolean) ... ok
+test_cpmm_depleted_reserve (test_protocol_fix2.EventDecode.test_cpmm_depleted_reserve) ... ok
+test_cpmm_does_not_subtract_lp_fee_twice (test_protocol_fix2.EventDecode.test_cpmm_does_not_subtract_lp_fee_twice) ... ok
+test_cpmm_overflow (test_protocol_fix2.EventDecode.test_cpmm_overflow) ... ok
+test_cpmm_transferfee_rejected (test_protocol_fix2.EventDecode.test_cpmm_transferfee_rejected) ... ok
+test_event_unknown_length (test_protocol_fix2.EventDecode.test_event_unknown_length) ... ok
+test_event_wrong_pool (test_protocol_fix2.EventDecode.test_event_wrong_pool) ... ok
+test_old_and_new_clmm_event_layout (test_protocol_fix2.EventDecode.test_old_and_new_clmm_event_layout) ... ok
+test_fee_config_wrong_owner_blocks (test_protocol_fix2.IntegratedMultiProtocolPreflight.test_fee_config_wrong_owner_blocks) ... ok
+test_metadata_rpc_program_mismatch_blocks (test_protocol_fix2.IntegratedMultiProtocolPreflight.test_metadata_rpc_program_mismatch_blocks) ... ok
+test_new_pool_wrong_vault_identity_blocks (test_protocol_fix2.IntegratedMultiProtocolPreflight.test_new_pool_wrong_vault_identity_blocks) ... ok
+test_twelve_pool_state_mints_vaults_and_fee_config (test_protocol_fix2.IntegratedMultiProtocolPreflight.test_twelve_pool_state_mints_vaults_and_fee_config) ... ok
+test_direct_committed_event (test_protocol_fix2.LogScopes.test_direct_committed_event) ... ok
+test_inner_failed_event_discarded (test_protocol_fix2.LogScopes.test_inner_failed_event_discarded) ... ok
+test_multiple_events_preserved_for_quarantine (test_protocol_fix2.LogScopes.test_multiple_events_preserved_for_quarantine) ... ok
+test_other_pool_ignored (test_protocol_fix2.LogScopes.test_other_pool_ignored) ... ok
+test_parent_failed_discards_child_success (test_protocol_fix2.LogScopes.test_parent_failed_discards_child_success) ... ok
+test_program_log_spoof_ignored (test_protocol_fix2.LogScopes.test_program_log_spoof_ignored) ... ok
+test_router_nested_committed_event (test_protocol_fix2.LogScopes.test_router_nested_committed_event) ... ok
+test_stack_mismatch_fail_closed (test_protocol_fix2.LogScopes.test_stack_mismatch_fail_closed) ... ok
+test_truncated_logs_fail_closed (test_protocol_fix2.LogScopes.test_truncated_logs_fail_closed) ... ok
+test_clmm_discriminator_rejected (test_protocol_fix2.PoolLayouts.test_clmm_discriminator_rejected) ... ok
+test_clmm_sqrt_offset_and_both_orientations (test_protocol_fix2.PoolLayouts.test_clmm_sqrt_offset_and_both_orientations) ... ok
+test_clmm_swaps_disabled (test_protocol_fix2.PoolLayouts.test_clmm_swaps_disabled) ... ok
+test_clmm_zero_sqrt_rejected (test_protocol_fix2.PoolLayouts.test_clmm_zero_sqrt_rejected) ... ok
+test_config_bad_fee_sum (test_protocol_fix2.PoolLayouts.test_config_bad_fee_sum) ... ok
+test_config_bad_owner (test_protocol_fix2.PoolLayouts.test_config_bad_owner) ... ok
+test_config_fees_and_hash (test_protocol_fix2.PoolLayouts.test_config_fees_and_hash) ... ok
+test_cpmm_637_and_both_orientations (test_protocol_fix2.PoolLayouts.test_cpmm_637_and_both_orientations) ... ok
+test_cpmm_discriminator_rejected (test_protocol_fix2.PoolLayouts.test_cpmm_discriminator_rejected) ... ok
+test_cpmm_swaps_disabled (test_protocol_fix2.PoolLayouts.test_cpmm_swaps_disabled) ... ok
+test_cpmm_unknown_token_program_rejected (test_protocol_fix2.PoolLayouts.test_cpmm_unknown_token_program_rejected) ... ok
+test_unknown_sizes_rejected (test_protocol_fix2.PoolLayouts.test_unknown_sizes_rejected) ... ok
+test_vault_correct_amount (test_protocol_fix2.PoolLayouts.test_vault_correct_amount) ... ok
+test_vault_wrong_mint (test_protocol_fix2.PoolLayouts.test_vault_wrong_mint) ... ok
+test_clmm_delta_evidence_tamper_rejected (test_protocol_fix2.TxAndDownstream.test_clmm_delta_evidence_tamper_rejected) ... ok
+test_clmm_preprice_is_unknown_not_reserve_ratio (test_protocol_fix2.TxAndDownstream.test_clmm_preprice_is_unknown_not_reserve_ratio) ... ok
+test_duplicate_balance_ambiguous (test_protocol_fix2.TxAndDownstream.test_duplicate_balance_ambiguous) ... ok
+test_exact_vault_deltas (test_protocol_fix2.TxAndDownstream.test_exact_vault_deltas) ... ok
+test_loaded_address_lookup_vaults (test_protocol_fix2.TxAndDownstream.test_loaded_address_lookup_vaults) ... ok
+test_marks_and_runner_use_protocol_reference (test_protocol_fix2.TxAndDownstream.test_marks_and_runner_use_protocol_reference) ... ok
+test_modern_backfill_cannot_be_mark (test_protocol_fix2.TxAndDownstream.test_modern_backfill_cannot_be_mark) ... ok
+test_tampered_raw_amount_rejected (test_protocol_fix2.TxAndDownstream.test_tampered_raw_amount_rejected) ... ok
+test_tampered_side_rejected (test_protocol_fix2.TxAndDownstream.test_tampered_side_rejected) ... ok
+test_tx_err_field_missing (test_protocol_fix2.TxAndDownstream.test_tx_err_field_missing) ... ok
+test_tx_failed (test_protocol_fix2.TxAndDownstream.test_tx_failed) ... ok
+test_vault_delta_mismatch (test_protocol_fix2.TxAndDownstream.test_vault_delta_mismatch) ... ok
+test_vault_mint_mismatch (test_protocol_fix2.TxAndDownstream.test_vault_mint_mismatch) ... ok
+test_wrong_signature (test_protocol_fix2.TxAndDownstream.test_wrong_signature) ... ok
+test_wrong_slot (test_protocol_fix2.TxAndDownstream.test_wrong_slot) ... ok
+test_causal_timestamp_after_rpc_and_cached_actor (test_qualification_fix2.QualificationFIX2.test_causal_timestamp_after_rpc_and_cached_actor) ... ok
+test_decoder_failure_never_approved (test_qualification_fix2.QualificationFIX2.test_decoder_failure_never_approved) ... ok
+test_empty_signature_history_is_not_success (test_qualification_fix2.QualificationFIX2.test_empty_signature_history_is_not_success) ... ok
+test_history_limit_and_no_rpc_send (test_qualification_fix2.QualificationFIX2.test_history_limit_and_no_rpc_send) ... ok
+test_no_new_rust_dependencies_and_original_perp_transport (test_qualification_fix2.QualificationFIX2.test_no_new_rust_dependencies_and_original_perp_transport) ... ok
+test_qualification_precedes_session (test_qualification_fix2.QualificationFIX2.test_qualification_precedes_session) ... ok
+test_rust_config_guard_refuses_changed_or_stale_parameters (test_qualification_fix2.QualificationFIX2.test_rust_config_guard_refuses_changed_or_stale_parameters) ... ok
+test_supported_case_is_independently_audited (test_qualification_fix2.QualificationFIX2.test_supported_case_is_independently_audited) ... ok
+test_unapproved_manifest_cannot_qualify (test_qualification_fix2.QualificationFIX2.test_unapproved_manifest_cannot_qualify) ... ok
+test_wrong_rust_price_never_approved (test_qualification_fix2.QualificationFIX2.test_wrong_rust_price_never_approved) ... ok
+test_wrong_tx_delta_blocks_before_rust (test_qualification_fix2.QualificationFIX2.test_wrong_tx_delta_blocks_before_rust) ... ok
+test_11_pools_cannot_pass (test_rpc_fix3.SelectionTests.test_11_pools_cannot_pass) ... ok
+test_11_ws_acks_cannot_approve_12_pools (test_rpc_fix3.SelectionTests.test_11_ws_acks_cannot_approve_12_pools) ... ok
+test_both_forbidden_abort_not_success (test_rpc_fix3.SelectionTests.test_both_forbidden_abort_not_success) ... ok
+test_changed_rpc_is_rejected_by_runner (test_rpc_fix3.SelectionTests.test_changed_rpc_is_rejected_by_runner) ... ok
+test_changed_ws_is_rejected_by_runner (test_rpc_fix3.SelectionTests.test_changed_ws_is_rejected_by_runner) ... ok
+test_explicit_failed_endpoint_does_not_contact_defaults (test_rpc_fix3.SelectionTests.test_explicit_failed_endpoint_does_not_contact_defaults) ... ok
+test_first_provider_403_second_can_pass (test_rpc_fix3.SelectionTests.test_first_provider_403_second_can_pass) ... ok
+test_history_probe_uses_supported_transaction_version (test_rpc_fix3.SelectionTests.test_history_probe_uses_supported_transaction_version) ... ok
+test_missing_manifest_connection_has_no_implicit_default (test_rpc_fix3.SelectionTests.test_missing_manifest_connection_has_no_implicit_default) ... ok
+test_null_history_is_not_treated_as_good_connection (test_rpc_fix3.SelectionTests.test_null_history_is_not_treated_as_good_connection) ... ok
+test_preflight_discovers_metadata_only_once (test_rpc_fix3.SelectionTests.test_preflight_discovers_metadata_only_once) ... ok
+test_qualification_rpc_403_stops_instead_of_trying_12_signatures (test_rpc_fix3.SelectionTests.test_qualification_rpc_403_stops_instead_of_trying_12_signatures) ... ok
+test_real_account_validation_error_does_not_switch_provider (test_rpc_fix3.SelectionTests.test_real_account_validation_error_does_not_switch_provider) ... ok
+test_runner_passes_exact_selected_endpoints_and_duration (test_rpc_fix3.SelectionTests.test_runner_passes_exact_selected_endpoints_and_duration) ... ok
+test_success_selected_pair_frozen_into_manifest (test_rpc_fix3.SelectionTests.test_success_selected_pair_frozen_into_manifest) ... ok
+test_wrong_genesis_not_approved (test_rpc_fix3.SelectionTests.test_wrong_genesis_not_approved) ... ok
+test_ws_rejection_prevents_selection (test_rpc_fix3.SelectionTests.test_ws_rejection_prevents_selection) ... ok
+test_401_does_not_retry_or_guess_credentials (test_rpc_fix3.TransportTests.test_401_does_not_retry_or_guess_credentials) ... ok
+test_403_circuits_off_followup_requests_to_same_provider (test_rpc_fix3.TransportTests.test_403_circuits_off_followup_requests_to_same_provider) ... ok
+test_403_is_not_retried (test_rpc_fix3.TransportTests.test_403_is_not_retried) ... ok
+test_429_honors_retry_after (test_rpc_fix3.TransportTests.test_429_honors_retry_after) ... ok
+test_429_long_retry_after_aborts_without_hot_retry (test_rpc_fix3.TransportTests.test_429_long_retry_after_aborts_without_hot_retry) ... ok
+test_5xx_retries_then_success (test_rpc_fix3.TransportTests.test_5xx_retries_then_success) ... ok
+test_auth_and_insecure_urls_rejected (test_rpc_fix3.TransportTests.test_auth_and_insecure_urls_rejected) ... ok
+test_boolean_id_does_not_impersonate_integer_id (test_rpc_fix3.TransportTests.test_boolean_id_does_not_impersonate_integer_id) ... ok
+test_custom_ws_required_if_not_known (test_rpc_fix3.TransportTests.test_custom_ws_required_if_not_known) ... ok
+test_custom_ws_without_rpc_refused (test_rpc_fix3.TransportTests.test_custom_ws_without_rpc_refused) ... ok
+test_deadline_prevents_request (test_rpc_fix3.TransportTests.test_deadline_prevents_request) ... ok
+test_default_profile_order_official_public_before_old_endpoint (test_rpc_fix3.TransportTests.test_default_profile_order_official_public_before_old_endpoint) ... ok
+test_diagnostics_include_method_and_status_without_error_body (test_rpc_fix3.TransportTests.test_diagnostics_include_method_and_status_without_error_body) ... ok
+test_empty_array_envelope_rejected (test_rpc_fix3.TransportTests.test_empty_array_envelope_rejected) ... ok
+test_explicit_rpc_never_silently_falls_back (test_rpc_fix3.TransportTests.test_explicit_rpc_never_silently_falls_back) ... ok
+test_http_date_retry_after (test_rpc_fix3.TransportTests.test_http_date_retry_after) ... ok
+test_invalid_retry_after_is_bounded (test_rpc_fix3.TransportTests.test_invalid_retry_after_is_bounded) ... ok
+test_json_rpc_error_is_not_success (test_rpc_fix3.TransportTests.test_json_rpc_error_is_not_success) ... ok
+test_known_explicit_rpc_derives_only_documented_ws (test_rpc_fix3.TransportTests.test_known_explicit_rpc_derives_only_documented_ws) ... ok
+test_missing_result_rejected (test_rpc_fix3.TransportTests.test_missing_result_rejected) ... ok
+test_network_retries_are_bounded (test_rpc_fix3.TransportTests.test_network_retries_are_bounded) ... ok
+test_no_transaction_submission_method (test_rpc_fix3.TransportTests.test_no_transaction_submission_method) ... ok
+test_non_json_html_rejected (test_rpc_fix3.TransportTests.test_non_json_html_rejected) ... ok
+test_nonfinite_json_rejected (test_rpc_fix3.TransportTests.test_nonfinite_json_rejected) ... ok
+test_private_connection_json_mode_600 (test_rpc_fix3.TransportTests.test_private_connection_json_mode_600) ... ok
+test_public_evidence_urls_stay_byte_identical (test_rpc_fix3.TransportTests.test_public_evidence_urls_stay_byte_identical) ... ok
+test_rate_spacing_applied_between_methods (test_rpc_fix3.TransportTests.test_rate_spacing_applied_between_methods) ... ok
+test_redacted_archive_preserves_local_evidence (test_rpc_fix3.TransportTests.test_redacted_archive_preserves_local_evidence) ... ok
+test_redirect_is_not_followed (test_rpc_fix3.TransportTests.test_redirect_is_not_followed) ... ok
+test_response_id_mismatch_rejected (test_rpc_fix3.TransportTests.test_response_id_mismatch_rejected) ... ok
+test_success_valid_envelope (test_rpc_fix3.TransportTests.test_success_valid_envelope) ... ok
+test_url_credentials_redacted (test_rpc_fix3.TransportTests.test_url_credentials_redacted) ... ok
+test_bad_control_frame_rejected (test_rpc_fix3.WSTests.test_bad_control_frame_rejected) ... ok
+test_binary_frame_rejected (test_rpc_fix3.WSTests.test_binary_frame_rejected) ... ok
+test_client_frames_are_masked_and_roundtrip_payload (test_rpc_fix3.WSTests.test_client_frames_are_masked_and_roundtrip_payload) ... ok
+test_close_frame_rejected (test_rpc_fix3.WSTests.test_close_frame_rejected) ... ok
+test_extended_payload_length (test_rpc_fix3.WSTests.test_extended_payload_length) ... ok
+test_fragmented_json_with_interleaved_ping (test_rpc_fix3.WSTests.test_fragmented_json_with_interleaved_ping) ... ok
+test_masked_server_frame_rejected (test_rpc_fix3.WSTests.test_masked_server_frame_rejected) ... ok
+test_nonfinite_json_rejected (test_rpc_fix3.WSTests.test_nonfinite_json_rejected) ... ok
+test_orphan_continuation_rejected (test_rpc_fix3.WSTests.test_orphan_continuation_rejected) ... ok
+test_oversized_frame_rejected_before_allocation (test_rpc_fix3.WSTests.test_oversized_frame_rejected_before_allocation) ... ok
+test_probe_bad_ack_is_failure (test_rpc_fix3.WSTests.test_probe_bad_ack_is_failure) ... ok
+test_probe_sends_one_address_per_subscription_and_unsubscribes_all (test_rpc_fix3.WSTests.test_probe_sends_one_address_per_subscription_and_unsubscribes_all) ... ok
+test_proxy_is_not_silently_bypassed (test_rpc_fix3.WSTests.test_proxy_is_not_silently_bypassed) ... ok
+test_403_on_actual_12_account_batch_uses_second_provider_without_rediscovery (test_rpc_integration_fix3.FullPreflightIntegration.test_403_on_actual_12_account_batch_uses_second_provider_without_rediscovery) ... ok
+test_log_stream_redacts_user_key_without_editing_original_log (test_rpc_integration_fix3.FullPreflightIntegration.test_log_stream_redacts_user_key_without_editing_original_log) ... ok
+test_streamed_child_failure_is_not_reported_as_success (test_rpc_integration_fix3.FullPreflightIntegration.test_streamed_child_failure_is_not_reported_as_success) ... ok
+test_streamed_child_log_and_exit_status (test_rpc_integration_fix3.FullPreflightIntegration.test_streamed_child_log_and_exit_status) ... ok
+test_invalid_websocket_accept_closes_socket (test_rpc_integration_fix3.UpgradeTests.test_invalid_websocket_accept_closes_socket) ... ok
+test_tls_server_hostname_and_upgrade_accept_validated (test_rpc_integration_fix3.UpgradeTests.test_tls_server_hostname_and_upgrade_accept_validated) ... ok
+test_ws_http403_is_not_an_empty_book_or_success (test_rpc_integration_fix3.UpgradeTests.test_ws_http403_is_not_an_empty_book_or_success) ... ok
+test_dashboard_event_driven_contract (test_runner_contract.T3RunnerContract.test_dashboard_event_driven_contract) ... ok
+test_exact_90m_and_no_transactions (test_runner_contract.T3RunnerContract.test_exact_90m_and_no_transactions) ... ok
+test_installer_offline_rust_preflight_and_rollback (test_runner_contract.T3RunnerContract.test_installer_offline_rust_preflight_and_rollback) ... ok
+test_main_tail_old_pools_only_shadow_all_six (test_runner_contract.T3RunnerContract.test_main_tail_old_pools_only_shadow_all_six) ... ok
+test_hot_loops_use_pool_symbols (test_rust_contract.RustMP12Contract.test_hot_loops_use_pool_symbols) ... ok
+test_nanosecond_pipeline_contract (test_rust_contract.RustMP12Contract.test_nanosecond_pipeline_contract) ... ok
+test_twelve_pool_contract_and_frozen_original_addresses (test_rust_contract.RustMP12Contract.test_twelve_pool_contract_and_frozen_original_addresses) ... ok
+test_all_preserved_sources_are_byte_identical (test_session_90m.NinetyMinuteSessionTests.test_all_preserved_sources_are_byte_identical) ... ok
+test_cli_defaults_to_90_and_delegates_without_running_collector (test_session_90m.NinetyMinuteSessionTests.test_cli_defaults_to_90_and_delegates_without_running_collector) ... ok
+test_cli_rejects_60_in_90m_variant (test_session_90m.NinetyMinuteSessionTests.test_cli_rejects_60_in_90m_variant) ... ok
+test_dashboard_uses_declared_duration_not_one_hour (test_session_90m.NinetyMinuteSessionTests.test_dashboard_uses_declared_duration_not_one_hour) ... ok
+test_deadline_full_ninety_minutes_after_capture_start (test_session_90m.NinetyMinuteSessionTests.test_deadline_full_ninety_minutes_after_capture_start) ... ok
+test_distinct_runner_panel_runtime_and_results (test_session_90m.NinetyMinuteSessionTests.test_distinct_runner_panel_runtime_and_results) ... ok
+test_duration_is_forwarded_to_collector_service_and_installer (test_session_90m.NinetyMinuteSessionTests.test_duration_is_forwarded_to_collector_service_and_installer) ... ok
+test_exact_ninety_minute_units (test_session_90m.NinetyMinuteSessionTests.test_exact_ninety_minute_units) ... ok
+test_explicit_90_minutes_is_accepted (test_session_90m.NinetyMinuteSessionTests.test_explicit_90_minutes_is_accepted) ... ok
+test_fix4_preserved_components_retain_fix3_bytes (test_session_90m.NinetyMinuteSessionTests.test_fix4_preserved_components_retain_fix3_bytes) ... ok
+test_hourly_funding_and_display_rate_preserved (test_session_90m.NinetyMinuteSessionTests.test_hourly_funding_and_display_rate_preserved) ... ok
+test_hours_minutes_seconds_countdown (test_session_90m.NinetyMinuteSessionTests.test_hours_minutes_seconds_countdown) ... ok
+test_ninety_minute_binary_release_is_isolated (test_session_90m.NinetyMinuteSessionTests.test_ninety_minute_binary_release_is_isolated) ... ok
+test_no_nine_hour_capture_labels_in_current_runtime_or_ui (test_session_90m.NinetyMinuteSessionTests.test_no_nine_hour_capture_labels_in_current_runtime_or_ui) ... ok
+test_old_nine_hours_and_invalid_durations_are_rejected (test_session_90m.NinetyMinuteSessionTests.test_old_nine_hours_and_invalid_durations_are_rejected) ... ok
+test_results_only_accept_requested_ninety_minute_duration (test_session_90m.NinetyMinuteSessionTests.test_results_only_accept_requested_ninety_minute_duration) ... ok
+test_short_collector_result_cannot_pass_as_ninety_minutes (test_session_90m.NinetyMinuteSessionTests.test_short_collector_result_cannot_pass_as_ninety_minutes) ... ok
+test_watchdog_does_not_expire_at_old_one_hour_limit (test_session_90m.NinetyMinuteSessionTests.test_watchdog_does_not_expire_at_old_one_hour_limit) ... ok
+test_popcat_mark (test_shadow_and_contract.T.test_popcat_mark) ... ok
+test_shadow_state_is_not_strategy (test_shadow_and_contract.T.test_shadow_state_is_not_strategy) ... ok
+test_six_pools (test_shadow_and_contract.T.test_six_pools) ... ok
+test_account_type_vault_not_mint (test_token_capabilities_fix4.BinaryTokenCapabilities.test_account_type_vault_not_mint) ... ok
+test_authorities_are_disclosed_not_safety_rated (test_token_capabilities_fix4.BinaryTokenCapabilities.test_authorities_are_disclosed_not_safety_rated) ... ok
+test_bad_mint_padding (test_token_capabilities_fix4.BinaryTokenCapabilities.test_bad_mint_padding) ... ok
+test_default_frozen_not_approved (test_token_capabilities_fix4.BinaryTokenCapabilities.test_default_frozen_not_approved) ... ok
+test_default_initialized (test_token_capabilities_fix4.BinaryTokenCapabilities.test_default_initialized) ... ok
+test_duplicate_extension (test_token_capabilities_fix4.BinaryTokenCapabilities.test_duplicate_extension) ... ok
+test_excessive_decimals (test_token_capabilities_fix4.BinaryTokenCapabilities.test_excessive_decimals) ... ok
+test_executable_rejected (test_token_capabilities_fix4.BinaryTokenCapabilities.test_executable_rejected) ... ok
+test_extended_too_short (test_token_capabilities_fix4.BinaryTokenCapabilities.test_extended_too_short) ... ok
+test_extension_truncation (test_token_capabilities_fix4.BinaryTokenCapabilities.test_extension_truncation) ... ok
+test_hash_is_exact_raw_account_bytes (test_token_capabilities_fix4.BinaryTokenCapabilities.test_hash_is_exact_raw_account_bytes) ... ok
+test_interest_scaled_confidential_and_pause_not_silently_ignored (test_token_capabilities_fix4.BinaryTokenCapabilities.test_interest_scaled_confidential_and_pause_not_silently_ignored) ... ok
+test_invalid_authority_option (test_token_capabilities_fix4.BinaryTokenCapabilities.test_invalid_authority_option) ... ok
+test_invalid_base64 (test_token_capabilities_fix4.BinaryTokenCapabilities.test_invalid_base64) ... ok
+test_legacy82 (test_token_capabilities_fix4.BinaryTokenCapabilities.test_legacy82) ... ok
+test_legacy_rejects_extended_account (test_token_capabilities_fix4.BinaryTokenCapabilities.test_legacy_rejects_extended_account) ... ok
+test_metadata_invalid_utf8 (test_token_capabilities_fix4.BinaryTokenCapabilities.test_metadata_invalid_utf8) ... ok
+test_metadata_unbounded_string_length_rejected (test_token_capabilities_fix4.BinaryTokenCapabilities.test_metadata_unbounded_string_length_rejected) ... ok
+test_metadata_wrong_mint (test_token_capabilities_fix4.BinaryTokenCapabilities.test_metadata_wrong_mint) ... ok
+test_mint_extension_on_vault_rejected (test_token_capabilities_fix4.BinaryTokenCapabilities.test_mint_extension_on_vault_rejected) ... ok
+test_mint_missing (test_token_capabilities_fix4.BinaryTokenCapabilities.test_mint_missing) ... ok
+test_missing_executable_flag_rejected (test_token_capabilities_fix4.BinaryTokenCapabilities.test_missing_executable_flag_rejected) ... ok
+test_multisig_never_mint (test_token_capabilities_fix4.BinaryTokenCapabilities.test_multisig_never_mint) ... ok
+test_non_base64_encoding (test_token_capabilities_fix4.BinaryTokenCapabilities.test_non_base64_encoding) ... ok
+test_program_not_inferred_from_ticker (test_token_capabilities_fix4.BinaryTokenCapabilities.test_program_not_inferred_from_ticker) ... ok
+test_short_mint (test_token_capabilities_fix4.BinaryTokenCapabilities.test_short_mint) ... ok
+test_supply_integer_exact (test_token_capabilities_fix4.BinaryTokenCapabilities.test_supply_integer_exact) ... ok
+test_t22_base82 (test_token_capabilities_fix4.BinaryTokenCapabilities.test_t22_base82) ... ok
+test_t22_metadata (test_token_capabilities_fix4.BinaryTokenCapabilities.test_t22_metadata) ... ok
+test_terminator_cannot_hide_more_data (test_token_capabilities_fix4.BinaryTokenCapabilities.test_terminator_cannot_hide_more_data) ... ok
+test_transfer_fee_even_zero_rejected (test_token_capabilities_fix4.BinaryTokenCapabilities.test_transfer_fee_even_zero_rejected) ... ok
+test_transfer_hook_rejected (test_token_capabilities_fix4.BinaryTokenCapabilities.test_transfer_hook_rejected) ... ok
+test_uninitialized_mint (test_token_capabilities_fix4.BinaryTokenCapabilities.test_uninitialized_mint) ... ok
+test_unknown_extension (test_token_capabilities_fix4.BinaryTokenCapabilities.test_unknown_extension) ... ok
+test_vault_extension_on_mint_rejected (test_token_capabilities_fix4.BinaryTokenCapabilities.test_vault_extension_on_mint_rejected) ... ok
+test_vault_false_bool_rejected (test_token_capabilities_fix4.BinaryTokenCapabilities.test_vault_false_bool_rejected) ... ok
+test_vault_frozen (test_token_capabilities_fix4.BinaryTokenCapabilities.test_vault_frozen) ... ok
+test_vault_immutable_owner (test_token_capabilities_fix4.BinaryTokenCapabilities.test_vault_immutable_owner) ... ok
+test_vault_integer_amount_not_ui_string (test_token_capabilities_fix4.BinaryTokenCapabilities.test_vault_integer_amount_not_ui_string) ... ok
+test_vault_same_program_required (test_token_capabilities_fix4.BinaryTokenCapabilities.test_vault_same_program_required) ... ok
+test_vault_wrong_mint (test_token_capabilities_fix4.BinaryTokenCapabilities.test_vault_wrong_mint) ... ok
+test_wrong_fixed_extension_size (test_token_capabilities_fix4.BinaryTokenCapabilities.test_wrong_fixed_extension_size) ... ok
+test_zero_padding_allowed (test_token_capabilities_fix4.BinaryTokenCapabilities.test_zero_padding_allowed) ... ok
+test_both_python_and_rust_have_same_program_and_revision (test_token_capabilities_fix4.FullPathSourceContracts.test_both_python_and_rust_have_same_program_and_revision) ... ok
+test_cpmm_rust_does_not_hardcode_single_token_program (test_token_capabilities_fix4.FullPathSourceContracts.test_cpmm_rust_does_not_hardcode_single_token_program) ... ok
+test_live_requires_revision_before_starting_processes (test_token_capabilities_fix4.FullPathSourceContracts.test_live_requires_revision_before_starting_processes) ... ok
+test_native_token_manifest_check_is_before_history_qualification (test_token_capabilities_fix4.FullPathSourceContracts.test_native_token_manifest_check_is_before_history_qualification) ... ok
+test_nonzero_transfer_fee_event_guard_stays (test_token_capabilities_fix4.FullPathSourceContracts.test_nonzero_transfer_fee_event_guard_stays) ... ok
+test_does_not_modify_source (test_token_capabilities_fix4.SavedDiagnostics.test_does_not_modify_source) ... ok
+test_history_observation_not_marked_capture_ok (test_token_capabilities_fix4.SavedDiagnostics.test_history_observation_not_marked_capture_ok) ... ok
+test_invalid_schema_no_approval (test_token_capabilities_fix4.SavedDiagnostics.test_invalid_schema_no_approval) ... ok
+test_missing_snapshot_does_not_claim_approved (test_token_capabilities_fix4.SavedDiagnostics.test_missing_snapshot_does_not_claim_approved) ... ok
+test_reads_old_snapshot_without_network (test_token_capabilities_fix4.SavedDiagnostics.test_reads_old_snapshot_without_network) ... ok
+test_symlink_source_refused (test_token_capabilities_fix4.SavedDiagnostics.test_symlink_source_refused) ... ok
+test_unknown_actual_owner_preserved (test_token_capabilities_fix4.SavedDiagnostics.test_unknown_actual_owner_preserved) ... ok
+test_all_bad_mints_reported_together (test_token_capabilities_fix4.TwelvePoolContracts.test_all_bad_mints_reported_together) ... ok
+test_cpmm_and_clmm_can_each_mix_legacy_and_t22 (test_token_capabilities_fix4.TwelvePoolContracts.test_cpmm_and_clmm_can_each_mix_legacy_and_t22) ... ok
+test_cpmm_claimed_program_must_match_real_mint_owner (test_token_capabilities_fix4.TwelvePoolContracts.test_cpmm_claimed_program_must_match_real_mint_owner) ... ok
+test_exact_token_keys_preserved (test_token_capabilities_fix4.TwelvePoolContracts.test_exact_token_keys_preserved) ... ok
+test_legacy_amm_does_not_gain_unsupported_token2022 (test_token_capabilities_fix4.TwelvePoolContracts.test_legacy_amm_does_not_gain_unsupported_token2022) ... ok
+test_manifest_bytes_tamper_rejected (test_token_capabilities_fix4.TwelvePoolContracts.test_manifest_bytes_tamper_rejected) ... ok
+test_manifest_rejects_old_preflight (test_token_capabilities_fix4.TwelvePoolContracts.test_manifest_rejects_old_preflight) ... ok
+test_manifest_vault_tamper_rejected (test_token_capabilities_fix4.TwelvePoolContracts.test_manifest_vault_tamper_rejected) ... ok
+test_mint_errors_do_not_hide_vault_errors (test_token_capabilities_fix4.TwelvePoolContracts.test_mint_errors_do_not_hide_vault_errors) ... ok
+test_missing_token2022_vault_support_no_longer_second_surprise (test_token_capabilities_fix4.TwelvePoolContracts.test_missing_token2022_vault_support_no_longer_second_surprise) ... ok
+test_reproduces_legacy_owner_gate_with_synthetic_pump_t22 (test_token_capabilities_fix4.TwelvePoolContracts.test_reproduces_legacy_owner_gate_with_synthetic_pump_t22) ... ok
+test_rpc_call_count_not_increased_for_token_parsing (test_token_capabilities_fix4.TwelvePoolContracts.test_rpc_call_count_not_increased_for_token_parsing) ... ok
+test_twelve_including_pump_clmm_token2022_all_stages (test_token_capabilities_fix4.TwelvePoolContracts.test_twelve_including_pump_clmm_token2022_all_stages) ... ok
+test_tx_balance_program_if_present_checked (test_token_capabilities_fix4.TwelvePoolContracts.test_tx_balance_program_if_present_checked) ... ok
+test_unknown_extensions_prevent_session (test_token_capabilities_fix4.TwelvePoolContracts.test_unknown_extensions_prevent_session) ... ok
+
+----------------------------------------------------------------------
+Ran 287 tests in 1.938s
+
+OK

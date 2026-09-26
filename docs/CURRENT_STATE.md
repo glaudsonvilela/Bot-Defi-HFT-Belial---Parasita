@@ -1,37 +1,25 @@
-# Bot Belial - Estado atual
+# Bot Belial — Estado atual
 
-## Linha atual
+## Linha
 
-**BELIAL_A5_16Q bootstrap concluido localmente.**
+**BELIAL A5.1 16Q / 9H**
 
-Base congelada:
+Base:
 
-```text
-bd554ed fix(a4): track canonical FIX4 validation members
-```
+`eb1beadeedd0f81f8ab1b882ac86c5fc39332386 feat(a5): bootstrap isolated 16Q research line`
 
-A4 FIX4 permanece preservado e separado.
+## Segurança
 
-## A5 16Q
-
-```text
-FARTCOIN BOME WIF POPCAT
-RAY JUP BONK PENGU
-PUMP USELESS GRASS PYTH
-RENDER KMNO MEW MPLX
-```
-
-- 16 ativos;
-- CORE12 + FOCUS4;
-- 90 minutos preservados;
 - PAPER / SHADOW;
-- ordens=false;
-- thresholds/sizing/exit policies nao alterados;
-- namespace `a5/` separado;
-- engine `engine_a5/` separado;
-- testes `tests_a5/` separados;
-- captura A5 de 90 minutos ainda nao iniciada.
+- orders=false;
+- Binance/Bybit/Kraken somente satélites externos;
+- satélites não participam do gate de trading.
 
-## Proximo gate
+## Performance
 
-Checkpoint Git do bootstrap A5, depois sessao `BELIAL_A5_16Q_90M`.
+Baseline Smoke25: `docs/PERFORMANCE_BASELINE_A5_SMOKE25.json`.
+A5.1 reduz polling/serialização de display sem alterar o ledger/decisão.
+
+## Execução
+
+Próxima sessão: 9 horas, 16 ativos, satélites SHADOW.

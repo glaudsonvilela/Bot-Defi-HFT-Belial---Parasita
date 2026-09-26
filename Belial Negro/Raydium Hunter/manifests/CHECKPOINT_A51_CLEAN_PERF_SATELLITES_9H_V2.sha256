@@ -1,0 +1,12 @@
+8306faec3bc65cdd0b91aabe5883803fd937c3d46a7d712489d495c0a0baced4  Belial Negro/Raydium Hunter/source-snapshots/belial-a51-16q-9h-v1/MANIFEST_SHA256.json
+b621da4223a6e0d0f504b0e56461bbc6ae3c3b4f1d5da9fd6cd62e582c37b7d6  Belial Negro/Raydium Hunter/source-snapshots/belial-a51-16q-9h-v1/a51/common.py
+165f7751ccbae2e8a12a839993a9fb2ec54bbf398fbdf3d36f0a0ca8b6c982dd  Belial Negro/Raydium Hunter/source-snapshots/belial-a51-16q-9h-v1/a51/cache.py
+4beee4db3570b664a778655294898f310f86af73d776c67ada55cc4345278022  Belial Negro/Raydium Hunter/source-snapshots/belial-a51-16q-9h-v1/a51/satellite_worker.py
+678c2635903d5865742eda828d55e7a91c315a7bb3ad1fdaed73b87aedf32737  Belial Negro/Raydium Hunter/source-snapshots/belial-a51-16q-9h-v1/a51/ui_worker.py
+49e10d2317f7b4113aa9baf936c98c22591de60afb72b14ad3f24e2d54be254f  Belial Negro/Raydium Hunter/source-snapshots/belial-a51-16q-9h-v1/a51/paper_worker.py
+d7cf2072cc46c6471e8cb5cecc1fb1bbc43cfac023b83272125308e87df4840e  Belial Negro/Raydium Hunter/source-snapshots/belial-a51-16q-9h-v1/a51/supervisor.py
+964213845931cb5559eecadd07afc2a08543b2949e2fb89b2b3dd1d5d410d7e8  Belial Negro/Raydium Hunter/source-snapshots/belial-a51-16q-9h-v1/engine_a51/src/main.rs
+b92e42f7223ed0fc6cecd2bb1a28a3184e5513e1801e225eb11b9b9ad91919a5  Belial Negro/Raydium Hunter/installers/BELIAL_A51_CLEAN_PERF_SATELLITES_9H_V2.sh
+f18a6bdead49430c19b5ec00118e46737fb18febb7783aaff56e4094b70ad73a  docs/HANDOFF_A51_CLEAN_PERF_SATELLITES_9H_V2.md
+09d65241a2f09cb9e4a7e39db47014faa8bfa9b2a7d3ea30853d86eac1492711  docs/PERFORMANCE_BASELINE_A5_SMOKE25.json
+d9ea910db846fee7138eec810e159c8a046a108bcf0462d6d614a9457b891fea  docs/CURRENT_STATE.md

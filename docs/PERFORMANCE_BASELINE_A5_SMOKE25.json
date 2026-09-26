@@ -1,0 +1,21 @@
+{
+  "schema": "belial_a5_smoke25_baseline_v1",
+  "commit": "eb1beadeedd0f81f8ab1b882ac86c5fc39332386",
+  "seconds": 1500,
+  "software_gate_pass": true,
+  "samples": 291,
+  "rss_peak_mb": 871.7890625,
+  "rss_median_mb": 844.69140625,
+  "cpu_seconds_delta": 793.5400000000001,
+  "cpu_seconds_per_wall_second": 0.5290266666666667,
+  "messages_per_second_median": 101.0,
+  "messages_per_second_p95": 182.0,
+  "rust_to_paper_ms_p95_median": 8.972759,
+  "rust_to_paper_ms_p95_peak": 17.256996,
+  "ui_http_ms_p50": 30.15857600075833,
+  "ui_http_ms_p95": 34.359661000053165,
+  "ui_max_payload_bytes_peak": 128977.0,
+  "ingest_queue_peak": 8.0,
+  "ui_health_success_ratio": 1.0,
+  "note": "Software baseline before A5.1 cleanup and external satellites. Final Smoke25 coverage was post-stop and is not used as peak coverage."
+}
