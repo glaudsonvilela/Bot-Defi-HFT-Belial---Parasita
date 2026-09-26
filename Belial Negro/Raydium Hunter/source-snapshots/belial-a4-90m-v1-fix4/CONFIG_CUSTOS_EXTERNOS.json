@@ -1,0 +1,17 @@
+{
+  "schema": "belial_a2_external_costs_v1",
+  "basis": "UNKNOWN",
+  "description": "Custos externos não informados; não tratados como zero. Leitura spot não envia transações.",
+  "hyperliquid": {
+    "network_entry_usd": null,
+    "network_exit_usd": null,
+    "movements_allocated_usd_per_closed_trade": null,
+    "other_usd_per_closed_trade": null
+  },
+  "lighter": {
+    "network_entry_usd": null,
+    "network_exit_usd": null,
+    "movements_allocated_usd_per_closed_trade": null,
+    "other_usd_per_closed_trade": null
+  }
+}

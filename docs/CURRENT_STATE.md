@@ -2,7 +2,7 @@
 
 ## Continuidade
 
-Este repositório deve ser tratado como continuação direta do projeto **Belial 0.0.4**.
+Continuação direta do projeto **Belial 0.0.5**.
 
 Raiz operacional local:
 
@@ -14,57 +14,52 @@ Raiz operacional local:
 
 - PAPER / SHADOW somente.
 - Nenhuma ordem financeira real nesta fase.
-- Não relaxar contratos/testes congelados apenas para fazer uma instalação passar.
-- Preservar backups, hashes, instaladores e evidências locais.
+- Contratos/testes congelados não são relaxados para fazer instalação passar.
+- Backups, hashes, instaladores e evidências locais são preservados.
 
-## Linha atual
+## A4 FIX4
 
-A linha de trabalho atual é **BELIAL A4 90M**.
+O A4 permanece com **24 ativos**.
 
-O último FIX3 apresentado encerrou com:
-
-```text
-Ran 163 tests
-
-FAILED (failures=1)
-
-BELIAL_A4_INSTALL_FAILED=OFFLINE_SUITE_FAILED:a4
-```
-
-Falha congelada:
+O FIX4 fecha especificamente a regressão observada no FIX3:
 
 ```text
-test_a4_native_delta_is_only_main_rs
+esperado: ['src/main.rs']
+FIX3:     ['src/main.rs', 'src/raydium_protocols.rs']
+FIX4:     ['src/main.rs']
 ```
 
-Delta observado:
+`engine_a4/src/raydium_protocols.rs` é restaurado byte-a-byte de
+`engine_a2/src/raydium_protocols.rs`.
+
+Gates locais do pacote FIX4:
+
+- suítes offline: PASS;
+- grupo A4: PASS;
+- Rust native test/build: PASS;
+- release imutável: `belial-a4-90m-v1-fix4`;
+- ordens: false.
+
+A captura de mercado de 90 minutos não é declarada por este checkpoint.
+
+## Próxima linha
+
+A próxima linha é **BELIAL_A5_16Q**, isolada do A4.
+
+Universo:
 
 ```text
-['src/main.rs', 'src/raydium_protocols.rs']
+FARTCOIN BOME WIF POPCAT
+RAY JUP BONK PENGU
+PUMP USELESS GRASS PYTH
+RENDER KMNO MEW MPLX
 ```
 
-Contrato esperado:
+Direção:
 
-```text
-['src/main.rs']
-```
-
-Portanto o FIX3 não deve ser considerado uma instalação A4 aceita.
-
-## Próximo fechamento
-
-1. Fechar **A4 FIX4** sem enfraquecer o contrato congelado.
-2. Garantir suite A4 integralmente verde.
-3. Só depois abrir a próxima fase.
-
-## Direção já aprovada para a fase seguinte
-
-- reduzir o universo para **16 pools principais**;
-- priorizar qualidade dos feeds em vez de quantidade;
-- corrigir travamentos/flicker/freshness do dashboard;
-- preservar a organização F1 Mercado / F2 Posições / F3 Agente / F4 Fontes;
-- acelerar captura, estado de mercado e inferência;
-- impedir desaparecimento silencioso de preço;
-- estudar horizontes maiores para caudas observadas;
-- sensores externos entram primeiro como SHADOW, não como gatilho real.
-
+- reduzir fan-out para 16 pools;
+- melhorar freshness e estabilidade;
+- impedir desaparecimento visual de preço sem inventar cotação;
+- terminal Bloomberg F1/F2/F3/F4 com caminho visual em Rust;
+- N2 fast path;
+- sensores externos somente SHADOW inicialmente.

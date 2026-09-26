@@ -1,0 +1,23 @@
+{
+  "version": "BELIAL_A4_90M",
+  "date": "2026-09-25",
+  "source_release": "BELIAL_A3_90M",
+  "scope": "PAPER_EVENT_LOCAL_ACTOR_RECOVERY_AND_BOOK_STATE_SEMANTICS",
+  "strategy_thresholds_changed": false,
+  "sizing_changed": false,
+  "exit_policies_changed": false,
+  "n2_heads_changed": false,
+  "availability_semantics_changed": true,
+  "native_sources_changed": true,
+  "native_changed_files": ["engine_a4/src/main.rs"],
+  "native_compilation_performed_here": false,
+  "gpu_executed_here": false,
+  "public_market_executed_here": false,
+  "orders_enabled": false,
+  "requested_candidates": 24,
+  "capture_minutes": 90,
+  "book_max_age_ms": 2000,
+  "stale_is_fill_eligible": false,
+  "prediction_target": "TOKEN_WSOL_OBSERVED_PATH_NOT_PERP_PNL",
+  "new_signal_engine_feedback": false
+}
