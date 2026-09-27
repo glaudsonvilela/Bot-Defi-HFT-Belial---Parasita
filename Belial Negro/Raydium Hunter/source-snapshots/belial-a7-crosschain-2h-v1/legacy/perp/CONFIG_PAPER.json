@@ -1,0 +1,21 @@
+{
+  "schema": "belial_t3_perp_paper_v1",
+  "paper_only": true,
+  "orders": false,
+  "notional_usd": 100.0,
+  "capital_usd_per_scenario": 1000.0,
+  "network_delay_assumed_ms": 100,
+  "book_max_age_ms": 2000,
+  "clock_future_tolerance_ms": 500,
+  "order_expiry_ms": 5000,
+  "max_roundtrip_cost_bps": 25.0,
+  "latency_stress_bps": 2.0,
+  "dashboard_push_hz": 25,
+  "record_raw_ws": true,
+  "fees_verified_date": "2026-09-25",
+  "hyperliquid": {"profile": "TIER0_TAKER_NO_DISCOUNT", "taker_bps": 4.5, "venue_delay_ms": 0, "source": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/fees"},
+  "lighter": {"profile": "STANDARD_PAPER_SCENARIO", "taker_bps": 0.0, "venue_delay_ms": 300, "source": "https://apidocs.lighter.xyz/docs/account-types"},
+  "funding": {"status": "PUBLIC_RATE_AND_OBSERVED_INDEX_MODEL_NOT_ACCOUNT_SETTLEMENT", "boundary_period_ms": 3600000, "max_index_age_ms": 2000, "unknown_is_not_zero": true},
+  "gate": {"cost_filter_enabled": true, "n2_price_basis": "SPOT_TOKEN_SOL", "edge_gate": "NOT_VALIDATED", "n2_changes_entry_or_exit": false},
+  "note": "Three independent policies, two venue controls and one selected-route scenario. Never sum their results. Taker fills only. No leverage or real account access."
+}

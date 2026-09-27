@@ -1,0 +1,47 @@
+test_contract_multiplier (test_lab.CausalTests.test_contract_multiplier) ... ok
+test_control_without_chain_can_signal (test_lab.CausalTests.test_control_without_chain_can_signal) ... ok
+test_duplicate_tx_never_recurrence (test_lab.CausalTests.test_duplicate_tx_never_recurrence) ... ok
+test_entry_needs_both_chain_and_binance (test_lab.CausalTests.test_entry_needs_both_chain_and_binance) ... ok
+test_entry_revalidates_after_latency (test_lab.CausalTests.test_entry_revalidates_after_latency) ... ok
+test_failed_provider_not_revived_by_heartbeat (test_lab.CausalTests.test_failed_provider_not_revived_by_heartbeat) ... ok
+test_gap_requires_new_observations (test_lab.CausalTests.test_gap_requires_new_observations) ... ok
+test_missing_net_evidence_rejected (test_lab.CausalTests.test_missing_net_evidence_rejected) ... ok
+test_new_exit_persists_and_needs_later_fill (test_lab.CausalTests.test_new_exit_persists_and_needs_later_fill) ... ok
+test_old_chain_tx_rejected (test_lab.CausalTests.test_old_chain_tx_rejected) ... ok
+test_ordered_time_enforced (test_lab.CausalTests.test_ordered_time_enforced) ... ok
+test_recurrent_verified_sale_qualifies (test_lab.CausalTests.test_recurrent_verified_sale_qualifies) ... ok
+test_risk_budget_notional_with_costs (test_lab.CausalTests.test_risk_budget_notional_with_costs) ... ok
+test_single_sale_insufficient (test_lab.CausalTests.test_single_sale_insufficient) ... ok
+test_unavailable_future_rejected (test_lab.CausalTests.test_unavailable_future_rejected) ... ok
+test_unknown_mapping_rejected (test_lab.CausalTests.test_unknown_mapping_rejected) ... ok
+test_unknown_time_rejected (test_lab.CausalTests.test_unknown_time_rejected) ... ok
+test_closed_account_is_unknown (test_lab.ChainDecoders.test_closed_account_is_unknown) ... ok
+test_evm_net_zero_not_sell (test_lab.ChainDecoders.test_evm_net_zero_not_sell) ... ok
+test_five_word_uniswap_abi_not_pancake (test_lab.ChainDecoders.test_five_word_uniswap_abi_not_pancake) ... ok
+test_missing_pre_balance_is_unknown (test_lab.ChainDecoders.test_missing_pre_balance_is_unknown) ... ok
+test_net_zero_not_sell (test_lab.ChainDecoders.test_net_zero_not_sell) ... ok
+test_pancake_v2_sell (test_lab.ChainDecoders.test_pancake_v2_sell) ... ok
+test_pancake_v3_seven_fields_sell (test_lab.ChainDecoders.test_pancake_v3_seven_fields_sell) ... ok
+test_real_balance_reduction_and_quote_increase (test_lab.ChainDecoders.test_real_balance_reduction_and_quote_increase) ... ok
+test_removed_event_rejected (test_lab.ChainDecoders.test_removed_event_rejected) ... ok
+test_signature_mismatch_fails (test_lab.ChainDecoders.test_signature_mismatch_fails) ... ok
+test_wrong_receipt_rejected (test_lab.ChainDecoders.test_wrong_receipt_rejected) ... ok
+test_bad_book_and_real_walk (test_lab.ReplayAndNet.test_bad_book_and_real_walk) ... ok
+test_complete_replay_with_entry_and_censored_position (test_lab.ReplayAndNet.test_complete_replay_with_entry_and_censored_position) ... ok
+test_denial_disables_provider (test_lab.ReplayAndNet.test_denial_disables_provider) ... ok
+test_pool_symbol_does_not_substitute_address (test_lab.ReplayAndNet.test_pool_symbol_does_not_substitute_address) ... ok
+test_rpc_rejects_write_methods (test_lab.ReplayAndNet.test_rpc_rejects_write_methods) ... ok
+test_complete_supervisor_with_read_only_fixtures (test_lifecycle.Lifecycle.test_complete_supervisor_with_read_only_fixtures) ... A7_PAINEL=http://127.0.0.1:40609/_pG_3rPIBvdL-IAtF2y8L-yg0kPgz1vn/
+A7_CAPTURA_2H_INICIADA=1790470814829
+BELIAL_A7_RESULTADO=/tmp/tmpbvx74t6n/out/BELIAL_A7_2H_RESULTADO_20260927T010014810219Z.zip
+ok
+test_funding_sign_short_and_timestamp_boundary (test_ui_funding.OtherTests.test_funding_sign_short_and_timestamp_boundary) ... ok
+test_local_dashboard_http_and_static_snapshot (test_ui_funding.OtherTests.test_local_dashboard_http_and_static_snapshot) ... ok
+test_overflow_is_counted (test_ui_funding.OtherTests.test_overflow_is_counted) ... ok
+test_sampling_does_not_flood_input_queue (test_ui_funding.OtherTests.test_sampling_does_not_flood_input_queue) ... ok
+test_unavailable_funding_not_zero (test_ui_funding.OtherTests.test_unavailable_funding_not_zero) ... ok
+
+----------------------------------------------------------------------
+Ran 39 tests in 1.056s
+
+OK

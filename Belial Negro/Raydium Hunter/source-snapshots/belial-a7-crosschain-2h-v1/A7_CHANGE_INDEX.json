@@ -1,0 +1,34 @@
+{
+  "base_package": "belial-a6-wide-2h-v1",
+  "base_commit": "31040a0ae01ac93597095fa9af6c73772e5fa60c",
+  "modified": [
+    "a51/spot_prepare.py",
+    "a51/ws_relay.py",
+    "engine_a51/src/bin/belial-wide-feed.rs",
+    "engine_a51/src/raydium_protocols.rs"
+  ],
+  "added": [
+    "A7_LOCAL_VALIDATION.json",
+    "a7/__init__.py",
+    "a7/candidates.json",
+    "a7/chains.py",
+    "a7/funding.py",
+    "a7/lab.py",
+    "a7/net.py",
+    "a7/replay.py",
+    "a7/report.py",
+    "a7/run.py",
+    "a7/selection.py",
+    "a7/ui.py",
+    "a7/verify.py",
+    "docs/HANDOFF_A7_CROSSCHAIN_2H_V1.md",
+    "research/PRELIMINARY20.json",
+    "tests_a7/test_lab.py",
+    "tests_a7/test_lifecycle.py",
+    "tests_a7/test_ui_funding.py",
+    "validation_a7/UI_VALIDATION.txt",
+    "validation_a7/python_a6_regression.log",
+    "validation_a7/python_a7_tests.log",
+    "validation_a7/ui_syntax_check.js"
+  ]
+}

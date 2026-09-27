@@ -1,0 +1,3 @@
+JavaScript syntax: PASS (node --check).
+Loopback HTTP + static report: PASS (functional tests).
+Visual browser rendering: NOT EXECUTED (no browser binary).
