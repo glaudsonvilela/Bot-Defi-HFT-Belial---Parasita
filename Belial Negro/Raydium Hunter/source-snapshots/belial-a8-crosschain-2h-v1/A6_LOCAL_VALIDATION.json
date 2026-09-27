@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-26",
+  "python_a6_tests": {
+    "passed": 71,
+    "failed": 0
+  },
+  "n2_label_tests": {
+    "passed": 21,
+    "failed": 0
+  },
+  "python_ast": "PASS",
+  "ui_state_freshness": "PASS",
+  "ui_javascript_syntax": "PASS",
+  "ui_local_http_smoke": "PASS",
+  "browser_visual_rendering": "NOT_EXECUTED_BROWSER_UNAVAILABLE",
+  "native_rust_compilation": "NOT_EXECUTED_CARGO_UNAVAILABLE_IN_GENERATION_ENVIRONMENT",
+  "native_rust_gate": "REQUIRED_ON_USER_PC_BEFORE_CAPTURE",
+  "gpu_device_equivalence": "NOT_EXECUTED_GPU_UNAVAILABLE_IN_GENERATION_ENVIRONMENT",
+  "gpu_gate": "REQUIRED_ON_USER_PC_BEFORE_CAPTURE",
+  "live_two_hour_capture": "NOT_STARTED_REQUIRES_USER_PC_EXECUTION",
+  "profitability": "NOT_ESTABLISHED",
+  "orders": false
+}

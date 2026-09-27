@@ -1,0 +1,52 @@
+{
+  "external_network": false,
+  "prices_or_profit_generated": false,
+  "viewports": [
+    {
+      "width": 1540,
+      "height": 1180,
+      "js_errors": [],
+      "overflow": false,
+      "assets": 24,
+      "clock_checks": [
+        {
+          "timer": "01:30:00",
+          "progress": "0%"
+        },
+        {
+          "timer": "00:45:00",
+          "progress": "50%"
+        },
+        {
+          "timer": "00:00:00",
+          "progress": "100%"
+        }
+      ],
+      "cohort_switch": true,
+      "unknown_all_in_preserved": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "js_errors": [],
+      "overflow": false,
+      "assets": 24,
+      "clock_checks": [
+        {
+          "timer": "01:30:00",
+          "progress": "0%"
+        },
+        {
+          "timer": "00:45:00",
+          "progress": "50%"
+        },
+        {
+          "timer": "00:00:00",
+          "progress": "100%"
+        }
+      ],
+      "cohort_switch": true,
+      "unknown_all_in_preserved": true
+    }
+  ]
+}

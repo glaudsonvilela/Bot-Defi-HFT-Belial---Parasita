@@ -1,0 +1,173 @@
+{
+  "orders": false,
+  "inputs": 607714,
+  "elapsed_seconds": 230.2566774870029,
+  "control_financial_events_identical": true,
+  "control_events": 8,
+  "limitations": [
+    "IN_SAMPLE_EXPLORATION_NOT_OUT_OF_SAMPLE_VALIDATION",
+    "HISTORIC_FLOW_HAS_NO_PRICE_PRECO_ARM_NOT_EVALUABLE",
+    "BNB_FAILED_IN_ORIGINAL_RECORDING",
+    "NO_DATA_AFTER_ORIGINAL_TWO_HOUR_END"
+  ],
+  "arms": {
+    "CONTROLE": {
+      "price_source": "MINITICKER",
+      "counts": {
+        "metadata_refresh": 13,
+        "gaps": 3,
+        "books": 398047,
+        "wide_prices": 24780,
+        "flow_buckets": 26294,
+        "signals": 3,
+        "entries": 2
+      },
+      "rejections": {
+        "PRICE_REFERENCE_GAP": 40719,
+        "PRICE_NOT_OBSERVED": 93,
+        "PRICE_STALE": 44795,
+        "NO_PERSISTENT_DROP": 26305,
+        "PRICE_OBSERVATION_GAP": 4664,
+        "PRICE_SAMPLE_INSUFFICIENT": 22362,
+        "LONGER_TREND_OPPOSES": 3
+      },
+      "realized_net_ex_funding": 0.0,
+      "open_net_estimate_ex_funding": -0.7512984179999938,
+      "open": 2,
+      "closed": 0
+    },
+    "PRECO": {
+      "price_source": "AGGTRADE_LAST_EXECUTED",
+      "counts": {
+        "metadata_refresh": 13,
+        "gaps": 3,
+        "books": 398047,
+        "flow_buckets": 26294,
+        "missing_trade_price": 26294
+      },
+      "rejections": {
+        "PRICE_NOT_OBSERVED": 142140
+      },
+      "realized_net_ex_funding": 0.0,
+      "open_net_estimate_ex_funding": 0,
+      "open": 0,
+      "closed": 0
+    },
+    "LIVRO": {
+      "price_source": "BOOK_MID",
+      "counts": {
+        "metadata_refresh": 13,
+        "gaps": 3,
+        "books": 398047,
+        "book_mid_prices": 398047,
+        "flow_buckets": 26294,
+        "signals": 5,
+        "entries": 5,
+        "closed": 2
+      },
+      "rejections": {
+        "PRICE_REFERENCE_GAP": 5012,
+        "PRICE_STALE": 1418,
+        "NO_PERSISTENT_DROP": 117019,
+        "PRICE_OBSERVATION_GAP": 6741,
+        "PRICE_SAMPLE_INSUFFICIENT": 631,
+        "LONGER_TREND_OPPOSES": 38,
+        "FLOW_WARMUP": 16,
+        "SELL_FLOW_NOT_CONFIRMED": 1
+      },
+      "realized_net_ex_funding": -0.11536369600001237,
+      "open_net_estimate_ex_funding": -0.8313902870000127,
+      "open": 3,
+      "closed": 2
+    },
+    "ENTRADA": {
+      "price_source": "BOOK_MID",
+      "counts": {
+        "metadata_refresh": 13,
+        "gaps": 3,
+        "books": 398047,
+        "book_mid_prices": 398047,
+        "flow_buckets": 26294,
+        "signals": 1,
+        "entries": 1
+      },
+      "rejections": {
+        "CHAIN_UNAVAILABLE": 64098,
+        "POOL_UNAVAILABLE": 14214,
+        "PRICE_REFERENCE_GAP": 2532,
+        "PRICE_STALE": 803,
+        "NO_PERSISTENT_DROP": 54799,
+        "PRICE_OBSERVATION_GAP": 3642,
+        "PRICE_SAMPLE_INSUFFICIENT": 460,
+        "LONGER_TREND_OPPOSES": 9,
+        "NO_FRESH_RECURRENT_NET_SELL": 21,
+        "FLOW_WARMUP": 11,
+        "SELL_FLOW_NOT_CONFIRMED": 7,
+        "STALE_OR_MISSING_BOOK": 4,
+        "CONTINUATION_NOT_CONFIRMED": 8
+      },
+      "realized_net_ex_funding": 0.0,
+      "open_net_estimate_ex_funding": -0.16304635099998943,
+      "open": 1,
+      "closed": 0
+    },
+    "SAIDA": {
+      "price_source": "BOOK_MID",
+      "counts": {
+        "metadata_refresh": 13,
+        "gaps": 3,
+        "books": 398047,
+        "book_mid_prices": 398047,
+        "flow_buckets": 26294,
+        "signals": 5,
+        "entries": 5,
+        "closed": 3
+      },
+      "rejections": {
+        "PRICE_REFERENCE_GAP": 5012,
+        "PRICE_STALE": 1418,
+        "NO_PERSISTENT_DROP": 117019,
+        "PRICE_OBSERVATION_GAP": 6741,
+        "PRICE_SAMPLE_INSUFFICIENT": 631,
+        "LONGER_TREND_OPPOSES": 38,
+        "FLOW_WARMUP": 16,
+        "SELL_FLOW_NOT_CONFIRMED": 1
+      },
+      "realized_net_ex_funding": -0.530245396000005,
+      "open_net_estimate_ex_funding": -0.3877342070000147,
+      "open": 2,
+      "closed": 3
+    },
+    "COMBINADO": {
+      "price_source": "BOOK_MID",
+      "counts": {
+        "metadata_refresh": 13,
+        "gaps": 3,
+        "books": 398047,
+        "book_mid_prices": 398047,
+        "flow_buckets": 26294,
+        "signals": 1,
+        "entries": 1
+      },
+      "rejections": {
+        "CHAIN_UNAVAILABLE": 64098,
+        "POOL_UNAVAILABLE": 14214,
+        "PRICE_REFERENCE_GAP": 2532,
+        "PRICE_STALE": 803,
+        "NO_PERSISTENT_DROP": 54799,
+        "PRICE_OBSERVATION_GAP": 3642,
+        "PRICE_SAMPLE_INSUFFICIENT": 460,
+        "LONGER_TREND_OPPOSES": 9,
+        "NO_FRESH_RECURRENT_NET_SELL": 21,
+        "FLOW_WARMUP": 11,
+        "SELL_FLOW_NOT_CONFIRMED": 7,
+        "STALE_OR_MISSING_BOOK": 4,
+        "CONTINUATION_NOT_CONFIRMED": 8
+      },
+      "realized_net_ex_funding": 0.0,
+      "open_net_estimate_ex_funding": -0.16304635099998943,
+      "open": 1,
+      "closed": 0
+    }
+  }
+}

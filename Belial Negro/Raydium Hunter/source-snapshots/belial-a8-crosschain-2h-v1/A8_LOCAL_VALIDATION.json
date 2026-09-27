@@ -1,0 +1,21 @@
+{
+  "date_utc": "2026-09-27T04:39:21.797279+00:00",
+  "orders": false,
+  "python_tests": {
+    "a8": 30,
+    "a7": 57,
+    "a6": 71
+  },
+  "python_ast": "PASS",
+  "ui_javascript_syntax": "PASS",
+  "ui_dom_fixture": "PASS",
+  "browser_visual": "NOT_EXECUTED_BROWSER_UNAVAILABLE",
+  "lifecycle_fixture": "PASS_SYNTHETIC_REAL_CHILD_PROCESS_ZIP_AND_REPLAY_READINESS_SHORTCUT_ONLY_IN_FIXTURE",
+  "native_rust": "NOT_EXECUTED_CARGO_UNAVAILABLE_REQUIRED_GATE_ON_PC",
+  "historical_files_unchanged": true,
+  "original_control_financial_events_identical": true,
+  "projection": "IN_SAMPLE_NOT_A_PROFITABILITY_VALIDATION_AGGTRADE_PRICE_UNAVAILABLE_IN_OLD_RECORDING",
+  "live_two_hour_capture": "NOT_STARTED_REQUIRES_PC",
+  "gpu": "NOT_USED_NO_VALIDATED_MODEL",
+  "profitability": "NOT_ESTABLISHED"
+}

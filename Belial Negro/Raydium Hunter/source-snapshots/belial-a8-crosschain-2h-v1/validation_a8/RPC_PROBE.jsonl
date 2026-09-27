@@ -1,0 +1,3 @@
+{"at_ms":1790482868095,"chain":"bsc","http_status":200,"latency_ms":7089.283,"method":"eth_chainId","ok":true,"orders":false}
+{"at_ms":1790482875184,"chain":"bsc","http_status":200,"latency_ms":6230.243,"method":"eth_getBlockByNumber","ok":true,"orders":false}
+{"at_ms":1790482881415,"block_span":1,"chain":"bsc","filter_address_count":9,"http_status":200,"latency_ms":6737.992,"method":"eth_getLogs","ok":true,"orders":false}

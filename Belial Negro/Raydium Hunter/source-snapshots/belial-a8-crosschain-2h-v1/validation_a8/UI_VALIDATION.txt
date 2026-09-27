@@ -1,0 +1,2 @@
+PASS: node --check; Node DOM fixture for error display and individual PnL rendering.
+Browser visual inspection: NOT EXECUTED.

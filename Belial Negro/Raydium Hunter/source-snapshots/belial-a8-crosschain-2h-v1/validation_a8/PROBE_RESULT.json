@@ -1,0 +1,9 @@
+{
+  "orders": false,
+  "environment": "ASSISTANT_WORKSPACE_NOT_USER_PC",
+  "provider": "PUBLICNODE_BSC",
+  "filter_pools": 9,
+  "passed": true,
+  "logs_count": 0,
+  "block_number": "0x7682d73"
+}

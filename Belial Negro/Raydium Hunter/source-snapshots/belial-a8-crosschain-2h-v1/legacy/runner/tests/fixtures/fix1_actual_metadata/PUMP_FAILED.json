@@ -1,0 +1,26 @@
+{
+  "symbol": "PUMP",
+  "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+  "error": "NO_COMPATIBLE_LEGACY_AMM_V4_TOKEN_SOL_POOL",
+  "attempts": [
+    {
+      "endpoint": "https://api-v3.raydium.io/pools/info/list-v2?size=100&mint1=So11111111111111111111111111111111111111112&mint2=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn&poolType=Standard&sortField=liquidity&sortType=desc",
+      "style": "list-v2",
+      "page": 1,
+      "response_rows": 0,
+      "compatible_rows": 0,
+      "programs_seen": [],
+      "response_json_sha256": "e37b8cf006c0122d664a2dc8cdde2c9ff7c912e62764d856d07a12357fc4b9be"
+    },
+    {
+      "endpoint": "https://api-v3.raydium.io/pools/info/mint?mint1=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn&mint2=So11111111111111111111111111111111111111112&poolType=standard&poolSortField=liquidity&sortType=desc&pageSize=100&page=1",
+      "style": "legacy",
+      "page": 1,
+      "response_rows": 0,
+      "compatible_rows": 0,
+      "programs_seen": [],
+      "response_json_sha256": "2ae9b98b088803335bc2160848dbec42d085d4bee4902088295308ec86f7d1c8"
+    }
+  ],
+  "scan_started": false
+}

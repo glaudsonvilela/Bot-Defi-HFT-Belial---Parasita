@@ -1,0 +1,24 @@
+{
+  "a5_base_byte_identical": true,
+  "a5_manifest_members_preserved": 369,
+  "base_commit": "eb1beadeedd0f81f8ab1b882ac86c5fc39332386",
+  "base_manifest_sha256": "bee1cbd2e57bc159a372a3fdad8dd317cff717589818bda1006948f56473a2ae",
+  "base_release": "belial-a5-16q-v1",
+  "cleanup_scope": [
+    "json cache",
+    "paper hot-path read hoist",
+    "bounded/coalesced UI",
+    "rustfmt/clippy/test/build",
+    "read-only satellites"
+  ],
+  "duration_ms": 32400000,
+  "exit_policies_changed": false,
+  "minutes": 540,
+  "orders": false,
+  "paper": true,
+  "satellites_affect_trading": false,
+  "schema": "belial_a51_preservation_v1",
+  "shadow": true,
+  "sizing_changed": false,
+  "strategy_thresholds_changed": false
+}

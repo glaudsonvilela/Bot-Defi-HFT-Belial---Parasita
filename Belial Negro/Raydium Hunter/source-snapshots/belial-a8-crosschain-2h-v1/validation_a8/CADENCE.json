@@ -1,0 +1,65 @@
+{
+  "ticks": 7107,
+  "total_checks": 142140,
+  "cadence_ready": {
+    "mini": {
+      "1000PEPEUSDT": 6820,
+      "GIGGLEUSDT": 3806,
+      "SPXUSDT": 2310,
+      "SIRENUSDT": 6590,
+      "TRUMPUSDT": 5559,
+      "KOMAUSDT": 176,
+      "TSTUSDT": 376,
+      "CHILLGUYUSDT": 96,
+      "TURBOUSDT": 21,
+      "MOODENGUSDT": 28,
+      "PNUTUSDT": 8,
+      "BANANAS31USDT": 1552,
+      "ZEREBROUSDT": 22
+    },
+    "flow": {
+      "1000PEPEUSDT": 6836,
+      "GIGGLEUSDT": 3725,
+      "SPXUSDT": 2258,
+      "SIRENUSDT": 6716,
+      "TRUMPUSDT": 5426,
+      "KOMAUSDT": 97,
+      "TSTUSDT": 375,
+      "CHILLGUYUSDT": 96,
+      "TURBOUSDT": 21,
+      "MOODENGUSDT": 29,
+      "PNUTUSDT": 7,
+      "BANANAS31USDT": 1552,
+      "ZEREBROUSDT": 22
+    },
+    "book": {
+      "1000PEPEUSDT": 6992,
+      "TRUMPUSDT": 6992,
+      "1000FLOKIUSDT": 6992,
+      "PNUTUSDT": 6869,
+      "GIGGLEUSDT": 6989,
+      "SPXUSDT": 6992,
+      "MOODENGUSDT": 6844,
+      "KOMAUSDT": 5687,
+      "PIPPINUSDT": 6776,
+      "TURBOUSDT": 6796,
+      "CHILLGUYUSDT": 6302,
+      "SIRENUSDT": 6969,
+      "BRETTUSDT": 6267,
+      "ZEREBROUSDT": 6531,
+      "BIRBUSDT": 3004,
+      "AIXBTUSDT": 5868,
+      "MELANIAUSDT": 6555,
+      "TSTUSDT": 6430,
+      "TOSHIUSDT": 4484,
+      "BANANAS31USDT": 6539
+    }
+  },
+  "ready_percent": {
+    "mini": 19.251442240045026,
+    "flow": 19.107921767271705,
+    "book": 89.26269874771353
+  },
+  "note": "OBSERVATION_TIMESTAMPS_ONLY_NOT_RETURNS_OR_PROFIT; historic flow has no executed price",
+  "orders": false
+}

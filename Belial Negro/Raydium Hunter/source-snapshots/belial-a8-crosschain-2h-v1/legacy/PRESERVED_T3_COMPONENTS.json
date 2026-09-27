@@ -1,0 +1,48 @@
+{
+  "baseline": "T3_60M",
+  "files": {
+    "mp12/EXPECTED_N1.json": "83c4efbbae09c8f4643e8fb5602b3cfd0f106d7abb0ff5d0eb6f420b06e1233a",
+    "mp12/engine/Cargo.lock": "6dcacb639b1d1adda7699035da96e095e50f72d6b27bfbb72cf5260d278b1cee",
+    "mp12/engine/Cargo.toml": "4ebaddb64744391167d2c0e0590550c1414ea5c0c9762b2b55623d02ab672e76",
+    "mp12/engine/src/bin/belial-perp-feed.rs": "13c1fcbce23300868e36e8bc6ee2a647f40ece70fa48ade62c9c2fbc5c37546d",
+    "mp12/engine/src/m2_core.rs": "3219fb00d0d654cde050624bd23947d5f344ecd13996f07f409a57537ca6fb94",
+    "mp12/tests/test_common.py": "f9b66beae429ec569f5a7055d01cb99c7b6b74b16a9760877cb62757973fbca0",
+    "mp12/tests/test_tail.py": "8ca7866ae83a427e0f846f52d9353b0bc6c0fb8a1e66329e40c8f60bb08831d8",
+    "mp12/tools/common.py": "362b4479ee19debbf8450a04d328d8c65576e1fc4e46de9fe55e66f501cf352d",
+    "mp12/tools/m1_contract.py": "5e040f64f2c6915195fd409d5cf65cdcd6dd1c555cabb75b0afcf4d1293b787d",
+    "mp12/tools/n1_bridge.py": "c35647e10e099971b2306530e90ed72eedc24f99242d6280e98b3efdd60695a1",
+    "mp12/tools/tail.py": "49106431ea985587bd4a2fcc1903b9272d1567c3a4816f04fc4011e102c76ad5",
+    "n2_mp12/CONFIG_N2.json": "845b6f4356091f0b565a941fe9a3ff9bee01796ba0caa8821e3278c9d9eacb39",
+    "n2_mp12/tests/test_contract.py": "fbb13857132c25d0ee5293063e61ad4b51223a46750935998748e17db2f51068",
+    "n2_mp12/tests/test_features.py": "2a7df39c7bc6acd2685afed52769733c1e8f1c5dfb0fab50a348cdfcbbd542c8",
+    "n2_mp12/tests/test_long_horizons.py": "32c5e8932831436a42ba7b7077f5a5b4bfa6ac06c61e2b306b6009d9c8aaa156",
+    "n2_mp12/tests/test_observer.py": "d59db9fb6923bf9ae92eb317683317aaaecc028796f96108ea798a3178671f02",
+    "n2_mp12/tools/common.py": "1ebd5ddf9bb347e26a47ba323adbc85b0e8bbb2cb79545017151bc550202a135",
+    "n2_mp12/tools/control.py": "5f8b8056d226bc74614a078445accfc25cdefd504699b846b952d45cad5e0722",
+    "n2_mp12/tools/d1_patch.py": "d7442d01964d65c8b586f5427ae559f4cfcd07f2d08140fe86d91f4c2d7e0694",
+    "n2_mp12/tools/features.py": "d389b3ece4b0a1a6b5568c2f500b53c1deb166579d66501b1d0a58f8996e0e66",
+    "n2_mp12/tools/install.py": "3e061592aa655205451dde0b8f3f829f912d815a123dfa8b361fa34f022fcb77",
+    "n2_mp12/tools/live.py": "07010e5503bb78b23287be3cc8f578420abb90e52329e44d6519ad81cb6502fe",
+    "n2_mp12/tools/observer.py": "cd42014fbd82a5059fddac68826a3f259fea993864d5f7080430190dcb95a150",
+    "n2_mp12/tools/opencl_core.py": "b862d345ee80c08296866adfc00328631af30e585d68ec056b1a4129a0397c4b",
+    "n2_mp12/tools/validate_gpu.py": "61cd4a7659662bbfa2dce66df16a39bba8b5cd130afb22f8203e5791ce20b1c8",
+    "d2/tests/test_dashboard_ultra.py": "05e3ca0556b89c59ec35b6d13f5aa3802529f1bc0f58e2d4c718ac1d576fb091",
+    "d2/tools/dashboard_ultra.py": "0a0e63fd975827f98b87edabda11d7e8a495662e188d29c72d11f4860dfe3487",
+    "perp/CONFIG_PAPER.json": "6f814d58c26d6d7ffc6de85dd86c12b0a3bfb52890617f559a7dd18e6f6ba6a1",
+    "perp/tools/paper.py": "39358029366d4914dc55aac5785eabbf7c4b752744e7fe965dfc221efa6cb1b9",
+    "perp/tools/books.py": "4bb33ff97d600323e504e53b86172b04a83e766aab5132e484db0b0ac278efe5",
+    "perp/tools/markets.py": "5fab987ce27f37b623d09a23021327eb0d23df63c7094aee06301a5ecad5ef9c"
+  },
+  "intentional_fix1_changes": {
+    "runner/tools/preflight_pools.py": {
+      "baseline_sha256": "f2b931f7684b5577b48037189507cec881a46aa37d8cb9acde518a14fa29f346",
+      "reason": "FIX1 exact canonical mints and bounded metadata resolution"
+    }
+  },
+  "fix2_intentional_exceptions": {
+    "mp12/engine/src/main.rs": "a05cc5be233e749439664a1e0e5f97a273acfdabfb6aaf5383d3ba07cefedce8",
+    "runner/tools/mp12_contract.py": "6e941371b5009a126fe3563134c92eb4359be38c4066f893e92c0fa3c1f5cd4c",
+    "runner/tools/shadow_compare.py": "74b094fc82408bdb54e9541aef7bd58ae04b2eb23c88ab405529a5f6d4069e42"
+  },
+  "note_FIX2": "Collector main and new-pool normalization intentionally changed; old strategy/GPU/perp accounting remain unchanged."
+}

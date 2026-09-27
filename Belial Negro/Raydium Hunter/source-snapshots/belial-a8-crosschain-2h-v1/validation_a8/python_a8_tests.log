@@ -1,0 +1,43 @@
+test_book_variant_not_overwritten_by_executed_trade_price (test_experiment.BookPrice.test_book_variant_not_overwritten_by_executed_trade_price) ... ok
+test_midpoint_is_observation_not_fill_price (test_experiment.BookPrice.test_midpoint_is_observation_not_fill_price) ... ok
+test_stale_crossed_and_repeated_books_do_not_make_price (test_experiment.BookPrice.test_stale_crossed_and_repeated_books_do_not_make_price) ... ok
+test_cached_features_equal_uncached_across_updates_and_gap (test_experiment.FeatureCache.test_cached_features_equal_uncached_across_updates_and_gap) ... ok
+test_cached_features_invalidate_when_flow_changes_at_same_decision_time (test_experiment.FeatureCache.test_cached_features_invalidate_when_flow_changes_at_same_decision_time) ... ok
+test_followup_preserves_positions_and_allows_exit (test_experiment.Lifecycle.test_followup_preserves_positions_and_allows_exit) ... ok
+test_pending_cannot_fill_after_entry_deadline (test_experiment.Lifecycle.test_pending_cannot_fill_after_entry_deadline) ... ok
+test_readiness_requires_stability_and_price_observation (test_experiment.Lifecycle.test_readiness_requires_stability_and_price_observation) ... ok
+test_six_arms_complete_replay_and_final_state (test_experiment.Lifecycle.test_six_arms_complete_replay_and_final_state) ... ok
+test_baseline_and_price_variant_equal_given_same_price_observations (test_experiment.Prices.test_baseline_and_price_variant_equal_given_same_price_observations) ... ok
+test_chain_failure_not_mislabeled_as_no_sells (test_experiment.Prices.test_chain_failure_not_mislabeled_as_no_sells) ... ok
+test_missing_invalid_price_not_invented (test_experiment.Prices.test_missing_invalid_price_not_invented) ... ok
+test_missing_pool_explicit (test_experiment.Prices.test_missing_pool_explicit) ... ok
+test_new_price_is_last_executed_and_time_is_not_refreshed (test_experiment.Prices.test_new_price_is_last_executed_and_time_is_not_refreshed) ... ok
+test_new_source_ignores_miniticker (test_experiment.Prices.test_new_source_ignores_miniticker) ... ok
+test_old_control_ignores_trade_prices (test_experiment.Prices.test_old_control_ignores_trade_prices) ... ok
+test_price_warmup_diagnostics (test_experiment.Prices.test_price_warmup_diagnostics) ... ok
+test_recurrent_sell_can_be_evaluated_with_trade_history (test_experiment.Prices.test_recurrent_sell_can_be_evaluated_with_trade_history) ... ok
+test_stale_and_duplicate_flow_cannot_refresh_price (test_experiment.Prices.test_stale_and_duplicate_flow_cannot_refresh_price) ... ok
+test_source_disconnect_clears_price_history (test_experiment.SourceGaps.test_source_disconnect_clears_price_history) ... ok
+test_stability_reset_after_chain_gap (test_experiment.SourceGaps.test_stability_reset_after_chain_gap) ... ok
+test_keepalive_is_used_without_configured_proxy (test_network.ConnectionReuse.test_keepalive_is_used_without_configured_proxy) ... ok
+test_proxy_is_honored_without_direct_fallback (test_network.ConnectionReuse.test_proxy_is_honored_without_direct_fallback) ... ok
+test_denial_method_and_code_persist_without_endpoint_credentials (test_network.Network.test_denial_method_and_code_persist_without_endpoint_credentials) ... ok
+test_http_deny_classification (test_network.Network.test_http_deny_classification) ... ok
+test_no_transaction_submission_method (test_network.Network.test_no_transaction_submission_method) ... ok
+test_rate_limit_respects_retry_after_and_keeps_http_code (test_network.Network.test_rate_limit_respects_retry_after_and_keeps_http_code) ... ok
+test_rpc_error_is_redacted (test_network.Network.test_rpc_error_is_redacted) ... ok
+test_worker_preserves_denial_details_and_stops (test_network.Network.test_worker_preserves_denial_details_and_stops) ... ok
+test_complete_supervisor_with_read_only_fixtures (test_supervisor.Lifecycle.test_complete_supervisor_with_read_only_fixtures) ... A8_PAINEL=http://127.0.0.1:44869/6WMdTQ018AUHS7B3cnLngj5UlvQzJGw4/
+A8_BNB_PROVIDER=PUBLICNODE_BSC
+A8_BNB_LOGS_PREFLIGHT=PASS
+A8_FEEDS=0/20 livros; SOL=CONNECTED; BNB=WAITING; pendencias=BOOKS_MISSING:MEME0USDT,MEME1USDT,MEME2USDT,MEME3USDT,MEME4USDT,MEME5USDT,MEME6USDT,MEME7USDT,MEME8USDT,MEME9USDT,MEME10USDT,MEME11USDT,MEME12USDT,MEME13USDT,MEME14USDT,MEME15USDT,MEME16USDT,MEME17USDT,MEME18USDT,MEME19USDT,BINANCE_CHANNEL_wide:WAITING,BINANCE_CHANNEL_depth:WAITING,BINANCE_CHANNEL_flow:WAITING,BSC:WAITING
+A8_CAPTURA_2H_INICIADA=1790483956158
+A8_ENTRADAS_ENCERRADAS; acompanhamento de posicoes por ate 60 minutos
+BELIAL_A8_RESULTADO=/tmp/tmpcm12jeck/out/BELIAL_A8_2H_RESULTADO_20260927T043916137832Z.zip
+A8_RELATORIO_LOCAL=/tmp/tmpcm12jeck/base/evidence/m2-a8-20260927T043916137832Z/RELATORIO.html
+ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.552s
+
+OK
