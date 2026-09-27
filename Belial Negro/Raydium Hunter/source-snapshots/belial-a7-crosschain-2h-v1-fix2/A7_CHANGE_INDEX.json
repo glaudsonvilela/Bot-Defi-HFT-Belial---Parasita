@@ -1,0 +1,17 @@
+{
+  "base_package": "belial-a7-crosschain-2h-v1",
+  "base_commit": "31040a0ae01ac93597095fa9af6c73772e5fa60c",
+  "modified": [
+    "a7/run.py",
+    "a7/ui.py",
+    "docs/HANDOFF_A7_CROSSCHAIN_2H_V1.md",
+    "tests_a7/test_lifecycle.py",
+    "validation_a7/python_a6_regression.log",
+    "validation_a7/python_a7_tests.log",
+    "validation_a7/ui_syntax_check.js"
+  ],
+  "added": [
+    "a7/network_identity.py",
+    "tests_a7/test_network_identity.py"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date_utc": "2026-09-27",
+  "orders": false,
+  "python_a7_tests": {
+    "passed": 45,
+    "failed": 0
+  },
+  "a6_regression": {
+    "passed": 71,
+    "failed": 0
+  },
+  "python_ast": "PASS",
+  "ui_javascript_syntax": "PASS",
+  "ui_http_and_static_report": "PASS",
+  "lifecycle_fixture": "PASS_REAL_CHILD_PROCESS_AND_ZIP_NO_LIVE_MARKET",
+  "replay_fixture": "PASS_EACH_EVENT_AND_FINAL_STATE",
+  "native_rust": "NOT_EXECUTED_CARGO_UNAVAILABLE_REQUIRED_GATE_ON_PC",
+  "gpu": "NOT_USED_NO_VALIDATED_MODEL_FOR_NEW_TARGET",
+  "browser_visual": "NOT_EXECUTED_BROWSER_UNAVAILABLE",
+  "live_two_hour_capture": "NOT_STARTED_REQUIRES_PC",
+  "onchain_pool_qualification": "PENDING_ON_PC",
+  "profitability": "NOT_ESTABLISHED"
+}

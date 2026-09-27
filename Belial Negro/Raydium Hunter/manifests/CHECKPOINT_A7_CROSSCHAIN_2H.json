@@ -1,0 +1,10 @@
+{
+  "base_commit": "31040a0ae01ac93597095fa9af6c73772e5fa60c",
+  "release": "belial-a7-crosschain-2h-v1-fix2",
+  "package_sha256": "0f7ac753593d58649f1a04b6f7896cd2e9b62bec36e411ba6f1e59747cad118e",
+  "installer_sha256": "8dcf93691e6b6465e95c275ed3b4adc7e48e8bd0c4ce89560d47bf5cd18b7f46",
+  "orders": false,
+  "native_validation": "REQUIRED_ON_PC_BEFORE_CAPTURE",
+  "gpu": "NOT_USED_NO_VALIDATED_MODEL_FOR_NEW_TARGET",
+  "capture_completed": false
+}

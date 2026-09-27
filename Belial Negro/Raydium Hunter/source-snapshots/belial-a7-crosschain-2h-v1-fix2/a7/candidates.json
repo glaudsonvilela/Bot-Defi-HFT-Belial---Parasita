@@ -1,0 +1,314 @@
+[
+  {
+    "coin_id": "act-i-the-ai-prophecy",
+    "name": "Act I The AI Prophecy",
+    "symbol": "ACTUSDT",
+    "base": "ACT",
+    "token_symbol": "act",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "aixbt",
+    "name": "aixbt",
+    "symbol": "AIXBTUSDT",
+    "base": "AIXBT",
+    "token_symbol": "aixbt",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "banana-for-scale-2",
+    "name": "Banana For Scale",
+    "symbol": "BANANAS31USDT",
+    "base": "BANANAS31",
+    "token_symbol": "bananas31",
+    "multiplier": 1,
+    "platforms": {
+      "binance-smart-chain": "0x3d4f0513e8a29669b960f9dbca61861548a9a760"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "based-brett",
+    "name": "Brett",
+    "symbol": "BRETTUSDT",
+    "base": "BRETT",
+    "token_symbol": "brett",
+    "multiplier": 1,
+    "platforms": {
+      "binance-smart-chain": "0xa7440029eca41deabd8775ef1d6086b37d4df8d6"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "build-on-bnb",
+    "name": "Build On BNB",
+    "symbol": "1000000BOBUSDT",
+    "base": "1000000BOB",
+    "token_symbol": "bob",
+    "multiplier": 1000000,
+    "platforms": {
+      "binance-smart-chain": "0x51363f073b1e4920fda7aa9e9d84ba97ede1560e"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "bulla-3",
+    "name": "BULLA",
+    "symbol": "BULLAUSDT",
+    "base": "BULLA",
+    "token_symbol": "bulla",
+    "multiplier": 1,
+    "platforms": {
+      "binance-smart-chain": "0x595e21b20e78674f8a64c1566a20b2b316bc3511"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "cheems-token",
+    "name": "Cheems Token",
+    "symbol": "1000CHEEMSUSDT",
+    "base": "1000CHEEMS",
+    "token_symbol": "cheems",
+    "multiplier": 1000,
+    "platforms": {
+      "binance-smart-chain": "0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "chill-guy",
+    "name": "Just a chill guy",
+    "symbol": "CHILLGUYUSDT",
+    "base": "CHILLGUY",
+    "token_symbol": "chillguy",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "floki",
+    "name": "FLOKI",
+    "symbol": "1000FLOKIUSDT",
+    "base": "1000FLOKI",
+    "token_symbol": "floki",
+    "multiplier": 1000,
+    "platforms": {
+      "binance-smart-chain": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "giggle-fund",
+    "name": "Giggle Fund",
+    "symbol": "GIGGLEUSDT",
+    "base": "GIGGLE",
+    "token_symbol": "giggle",
+    "multiplier": 1,
+    "platforms": {
+      "binance-smart-chain": "0x20d6015660b3fe52e6690a889b5c51f69902ce0e"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "goatseus-maximus",
+    "name": "Goatseus Maximus",
+    "symbol": "GOATUSDT",
+    "base": "GOAT",
+    "token_symbol": "goat",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "griffain",
+    "name": "GRIFFAIN",
+    "symbol": "GRIFFAINUSDT",
+    "base": "GRIFFAIN",
+    "token_symbol": "griffain",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "koma-inu",
+    "name": "Koma Inu",
+    "symbol": "KOMAUSDT",
+    "base": "KOMA",
+    "token_symbol": "koma",
+    "multiplier": 1,
+    "platforms": {
+      "binance-smart-chain": "0xd5eaaac47bd1993d661bc087e15dfb079a7f3c19"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "melania-meme",
+    "name": "Melania Meme",
+    "symbol": "MELANIAUSDT",
+    "base": "MELANIA",
+    "token_symbol": "melania",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "moo-deng",
+    "name": "Moo Deng",
+    "symbol": "MOODENGUSDT",
+    "base": "MOODENG",
+    "token_symbol": "moodeng",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "moonbirds",
+    "name": "Moonbirds",
+    "symbol": "BIRBUSDT",
+    "base": "BIRB",
+    "token_symbol": "birb",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "official-trump",
+    "name": "Official Trump",
+    "symbol": "TRUMPUSDT",
+    "base": "TRUMP",
+    "token_symbol": "trump",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "peanut-the-squirrel",
+    "name": "Peanut the Squirrel",
+    "symbol": "PNUTUSDT",
+    "base": "PNUT",
+    "token_symbol": "pnut",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "pepe",
+    "name": "Pepe",
+    "symbol": "1000PEPEUSDT",
+    "base": "1000PEPE",
+    "token_symbol": "pepe",
+    "multiplier": 1000,
+    "platforms": {
+      "binance-smart-chain": "0x25d887ce7a35172c62febfd67a1856f20faebb00"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "pippin",
+    "name": "pippin",
+    "symbol": "PIPPINUSDT",
+    "base": "PIPPIN",
+    "token_symbol": "pippin",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "siren-2",
+    "name": "Siren",
+    "symbol": "SIRENUSDT",
+    "base": "SIREN",
+    "token_symbol": "siren",
+    "multiplier": 1,
+    "platforms": {
+      "binance-smart-chain": "0x997a58129890bbda032231a52ed1ddc845fc18e1"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "spx6900",
+    "name": "SPX6900",
+    "symbol": "SPXUSDT",
+    "base": "SPX",
+    "token_symbol": "spx",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "test-3",
+    "name": "Test",
+    "symbol": "TSTUSDT",
+    "base": "TST",
+    "token_symbol": "tst",
+    "multiplier": 1,
+    "platforms": {
+      "binance-smart-chain": "0x86bb94ddd16efc8bc58e6b056e8df71d9e666429"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "toshi",
+    "name": "Toshi",
+    "symbol": "TOSHIUSDT",
+    "base": "TOSHI",
+    "token_symbol": "toshi",
+    "multiplier": 1,
+    "platforms": {
+      "binance-smart-chain": "0x6a2608dabe09bc1128eec7275b92dfb939d5db3f"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "turbo",
+    "name": "Turbo",
+    "symbol": "TURBOUSDT",
+    "base": "TURBO",
+    "token_symbol": "turbo",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "2Dyzu65QA9zdX1UeE7Gx71k7fiwyUK6sZdrvJ7auq5wm"
+    },
+    "meme_category_verified": true
+  },
+  {
+    "coin_id": "zerebro",
+    "name": "Zerebro",
+    "symbol": "ZEREBROUSDT",
+    "base": "ZEREBRO",
+    "token_symbol": "zerebro",
+    "multiplier": 1,
+    "platforms": {
+      "solana": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn"
+    },
+    "meme_category_verified": true
+  }
+]

@@ -1,0 +1,26 @@
+test_1800s_delayed_tail_is_positive (test_labels.Labels.test_1800s_delayed_tail_is_positive) ... ok
+test_300s_samples_valid (test_labels.Labels.test_300s_samples_valid) ... ok
+test_600s_samples_valid (test_labels.Labels.test_600s_samples_valid) ... ok
+test_900s_samples_valid (test_labels.Labels.test_900s_samples_valid) ... ok
+test_declares_sampled_not_continuous_target (test_labels.Labels.test_declares_sampled_not_continuous_target) ... ok
+test_dimensions_8192_32_24 (test_labels.Labels.test_dimensions_8192_32_24) ... ok
+test_empty_sample_stream_never_carry_forward (test_labels.Labels.test_empty_sample_stream_never_carry_forward) ... ok
+test_feature_values_unchanged_by_samples (test_labels.Labels.test_feature_values_unchanged_by_samples) ... ok
+test_future_timestamp_refused (test_labels.Labels.test_future_timestamp_refused) ... ok
+test_incomplete_long_window_not_negative (test_labels.Labels.test_incomplete_long_window_not_negative) ... ok
+test_invalid_sample_refused (test_labels.Labels.test_invalid_sample_refused) ... ok
+test_last_expansion_asset_has_own_model (test_labels.Labels.test_last_expansion_asset_has_own_model) ... ok
+test_missing_not_a_swap_refused (test_labels.Labels.test_missing_not_a_swap_refused) ... ok
+test_no_training_before_maturity (test_labels.Labels.test_no_training_before_maturity) ... ok
+test_old_32_heads_unchanged (test_labels.Labels.test_old_32_heads_unchanged) ... ok
+test_repeated_advance_not_duplicate_updates (test_labels.Labels.test_repeated_advance_not_duplicate_updates) ... ok
+test_repeated_slot_not_new_observation (test_labels.Labels.test_repeated_slot_not_new_observation) ... ok
+test_samples_do_not_become_features (test_labels.Labels.test_samples_do_not_become_features) ... ok
+test_true_gap_stays_censored (test_labels.Labels.test_true_gap_stays_censored) ... ok
+test_weights_schema_new (test_labels.Labels.test_weights_schema_new) ... ok
+test_wrong_quote_refused (test_labels.Labels.test_wrong_quote_refused) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.014s
+
+OK

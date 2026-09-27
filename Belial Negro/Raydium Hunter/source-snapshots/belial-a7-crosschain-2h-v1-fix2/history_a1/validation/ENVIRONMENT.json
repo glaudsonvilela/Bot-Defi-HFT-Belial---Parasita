@@ -1,0 +1,10 @@
+{
+  "python": "3.13.5",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "cargo_available": false,
+  "rustc_available": false,
+  "chromium_available": true,
+  "gpu_tested": false,
+  "external_rpc_or_websocket_tested": false,
+  "real_90_min_capture_executed": false
+}
