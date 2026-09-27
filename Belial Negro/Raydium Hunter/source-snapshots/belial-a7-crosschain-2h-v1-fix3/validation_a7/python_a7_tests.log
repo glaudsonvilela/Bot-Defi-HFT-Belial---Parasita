@@ -1,0 +1,69 @@
+test_contract_multiplier (test_lab.CausalTests.test_contract_multiplier) ... ok
+test_control_without_chain_can_signal (test_lab.CausalTests.test_control_without_chain_can_signal) ... ok
+test_duplicate_tx_never_recurrence (test_lab.CausalTests.test_duplicate_tx_never_recurrence) ... ok
+test_entry_needs_both_chain_and_binance (test_lab.CausalTests.test_entry_needs_both_chain_and_binance) ... ok
+test_entry_revalidates_after_latency (test_lab.CausalTests.test_entry_revalidates_after_latency) ... ok
+test_failed_provider_not_revived_by_heartbeat (test_lab.CausalTests.test_failed_provider_not_revived_by_heartbeat) ... ok
+test_gap_requires_new_observations (test_lab.CausalTests.test_gap_requires_new_observations) ... ok
+test_missing_net_evidence_rejected (test_lab.CausalTests.test_missing_net_evidence_rejected) ... ok
+test_new_exit_persists_and_needs_later_fill (test_lab.CausalTests.test_new_exit_persists_and_needs_later_fill) ... ok
+test_old_chain_tx_rejected (test_lab.CausalTests.test_old_chain_tx_rejected) ... ok
+test_ordered_time_enforced (test_lab.CausalTests.test_ordered_time_enforced) ... ok
+test_recurrent_verified_sale_qualifies (test_lab.CausalTests.test_recurrent_verified_sale_qualifies) ... ok
+test_risk_budget_notional_with_costs (test_lab.CausalTests.test_risk_budget_notional_with_costs) ... ok
+test_single_sale_insufficient (test_lab.CausalTests.test_single_sale_insufficient) ... ok
+test_unavailable_future_rejected (test_lab.CausalTests.test_unavailable_future_rejected) ... ok
+test_unknown_mapping_rejected (test_lab.CausalTests.test_unknown_mapping_rejected) ... ok
+test_unknown_time_rejected (test_lab.CausalTests.test_unknown_time_rejected) ... ok
+test_closed_account_is_unknown (test_lab.ChainDecoders.test_closed_account_is_unknown) ... ok
+test_evm_net_zero_not_sell (test_lab.ChainDecoders.test_evm_net_zero_not_sell) ... ok
+test_five_word_uniswap_abi_not_pancake (test_lab.ChainDecoders.test_five_word_uniswap_abi_not_pancake) ... ok
+test_missing_pre_balance_is_unknown (test_lab.ChainDecoders.test_missing_pre_balance_is_unknown) ... ok
+test_net_zero_not_sell (test_lab.ChainDecoders.test_net_zero_not_sell) ... ok
+test_pancake_v2_sell (test_lab.ChainDecoders.test_pancake_v2_sell) ... ok
+test_pancake_v3_seven_fields_sell (test_lab.ChainDecoders.test_pancake_v3_seven_fields_sell) ... ok
+test_real_balance_reduction_and_quote_increase (test_lab.ChainDecoders.test_real_balance_reduction_and_quote_increase) ... ok
+test_removed_event_rejected (test_lab.ChainDecoders.test_removed_event_rejected) ... ok
+test_signature_mismatch_fails (test_lab.ChainDecoders.test_signature_mismatch_fails) ... ok
+test_wrong_receipt_rejected (test_lab.ChainDecoders.test_wrong_receipt_rejected) ... ok
+test_bad_book_and_real_walk (test_lab.ReplayAndNet.test_bad_book_and_real_walk) ... ok
+test_complete_replay_with_entry_and_censored_position (test_lab.ReplayAndNet.test_complete_replay_with_entry_and_censored_position) ... ok
+test_denial_disables_provider (test_lab.ReplayAndNet.test_denial_disables_provider) ... ok
+test_pool_symbol_does_not_substitute_address (test_lab.ReplayAndNet.test_pool_symbol_does_not_substitute_address) ... ok
+test_rpc_rejects_write_methods (test_lab.ReplayAndNet.test_rpc_rejects_write_methods) ... ok
+test_complete_supervisor_with_read_only_fixtures (test_lifecycle.Lifecycle.test_complete_supervisor_with_read_only_fixtures) ... A7_PAINEL=http://127.0.0.1:38573/K_Yu23HVw3tF6CL4-FR9fNH6g-L-MZRn/
+A7_BNB_PROVIDER=PUBLICNODE_BSC
+A7_BNB_LOGS_PREFLIGHT=PASS
+A7_FEEDS=0/20 livros; SOL=CONNECTED; BNB=WAITING; pendencias=BOOKS_MISSING:MEME0USDT,MEME1USDT,MEME2USDT,MEME3USDT,MEME4USDT,MEME5USDT,MEME6USDT,MEME7USDT,MEME8USDT,MEME9USDT,MEME10USDT,MEME11USDT,MEME12USDT,MEME13USDT,MEME14USDT,MEME15USDT,MEME16USDT,MEME17USDT,MEME18USDT,MEME19USDT,BINANCE_CHANNEL_wide:WAITING,BINANCE_CHANNEL_depth:WAITING,BINANCE_CHANNEL_flow:WAITING,BSC:WAITING
+A7_CAPTURA_2H_INICIADA=1790472569770
+BELIAL_A7_RESULTADO=/tmp/tmpmk5_bvlq/out/BELIAL_A7_2H_RESULTADO_20260927T012929750939Z.zip
+A7_RELATORIO_LOCAL=/tmp/tmpmk5_bvlq/base/evidence/m2-a7-20260927T012929750939Z/RELATORIO.html
+ok
+test_devnet_and_testnet_refused (test_network_identity.NetworkIdentityTests.test_devnet_and_testnet_refused) ... ok
+test_failure_report_includes_diagnostic_without_live_listener (test_network_identity.NetworkIdentityTests.test_failure_report_includes_diagnostic_without_live_listener) ... ok
+test_hash_is_32_bytes_and_matches_previous_validated_collector (test_network_identity.NetworkIdentityTests.test_hash_is_32_bytes_and_matches_previous_validated_collector) ... ok
+test_invalid_response_refused_and_recorded (test_network_identity.NetworkIdentityTests.test_invalid_response_refused_and_recorded) ... ok
+test_official_mainnet_response_accepted (test_network_identity.NetworkIdentityTests.test_official_mainnet_response_accepted) ... ok
+test_original_typo_refused (test_network_identity.NetworkIdentityTests.test_original_typo_refused) ... ok
+test_connected_only_after_successful_log_poll (test_readiness.BnbTests.test_connected_only_after_successful_log_poll) ... ok
+test_disabled_logs_never_reports_connected (test_readiness.BnbTests.test_disabled_logs_never_reports_connected) ... ok
+test_disabled_method_preserves_failure_proof (test_readiness.BnbTests.test_disabled_method_preserves_failure_proof) ... ok
+test_getlogs_required_in_preflight_even_if_empty (test_readiness.BnbTests.test_getlogs_required_in_preflight_even_if_empty) ... ok
+test_rpc_error_keeps_method_but_not_provider_secret (test_readiness.BnbTests.test_rpc_error_keeps_method_but_not_provider_secret) ... ok
+test_all_requirements_are_observed (test_readiness.ReadyTests.test_all_requirements_are_observed) ... ok
+test_bnb_failure_names_exact_blocker (test_readiness.ReadyTests.test_bnb_failure_names_exact_blocker) ... ok
+test_missing_and_stale_books_separate (test_readiness.ReadyTests.test_missing_and_stale_books_separate) ... ok
+test_open_pnl_disappears_when_book_is_stale (test_readiness.ReadyTests.test_open_pnl_disappears_when_book_is_stale) ... ok
+test_pnl_view_does_not_mutate_simulation (test_readiness.ReadyTests.test_pnl_view_does_not_mutate_simulation) ... ok
+test_stale_connected_chain_is_not_ready (test_readiness.ReadyTests.test_stale_connected_chain_is_not_ready) ... ok
+test_transport_connecting_is_not_ready (test_readiness.ReadyTests.test_transport_connecting_is_not_ready) ... ok
+test_funding_sign_short_and_timestamp_boundary (test_ui_funding.OtherTests.test_funding_sign_short_and_timestamp_boundary) ... ok
+test_local_dashboard_http_and_static_snapshot (test_ui_funding.OtherTests.test_local_dashboard_http_and_static_snapshot) ... ok
+test_overflow_is_counted (test_ui_funding.OtherTests.test_overflow_is_counted) ... ok
+test_sampling_does_not_flood_input_queue (test_ui_funding.OtherTests.test_sampling_does_not_flood_input_queue) ... ok
+test_unavailable_funding_not_zero (test_ui_funding.OtherTests.test_unavailable_funding_not_zero) ... ok
+
+----------------------------------------------------------------------
+Ran 57 tests in 1.059s
+
+OK

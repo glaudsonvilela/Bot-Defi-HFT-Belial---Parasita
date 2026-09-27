@@ -1,0 +1,8 @@
+{
+  "provider": "PUBLICNODE_BSC",
+  "orders": false,
+  "chainId": "0x38",
+  "block": "0x767d1a7",
+  "logs_count": 0,
+  "passed": true
+}

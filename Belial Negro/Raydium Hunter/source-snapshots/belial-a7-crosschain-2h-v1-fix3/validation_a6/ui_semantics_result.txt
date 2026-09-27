@@ -1,0 +1,2 @@
+UI_STATE_FRESHNESS_IGNORES_UI_HEARTBEAT=PASS
+Browser visual rendering: NOT EXECUTED (browser binary unavailable).

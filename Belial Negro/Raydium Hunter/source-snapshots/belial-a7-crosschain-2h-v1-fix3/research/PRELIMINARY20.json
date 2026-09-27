@@ -1,0 +1,426 @@
+{
+  "selected": [
+    {
+      "coin_id": "pepe",
+      "name": "Pepe",
+      "symbol": "1000PEPEUSDT",
+      "base": "1000PEPE",
+      "token_symbol": "pepe",
+      "multiplier": 1000,
+      "platforms": {
+        "binance-smart-chain": "0x25d887ce7a35172c62febfd67a1856f20faebb00"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 204646152.6538583,
+      "mid": 0.00434375,
+      "spread_bps": 0.23021582733875906,
+      "depth_10bps_usdt": 153652.0273199,
+      "roundtrip_100usdt_bps": 13.230218477335065,
+      "queried_file_mtime_ms": 1790469503667,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "official-trump",
+      "name": "Official Trump",
+      "symbol": "TRUMPUSDT",
+      "base": "TRUMP",
+      "token_symbol": "trump",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 109543957.98034,
+      "mid": 2.1005000000000003,
+      "spread_bps": 4.7607712449411554,
+      "depth_10bps_usdt": 78948.81997000001,
+      "roundtrip_100usdt_bps": 17.76190476190519,
+      "queried_file_mtime_ms": 1790469496470,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "giggle-fund",
+      "name": "Giggle Fund",
+      "symbol": "GIGGLEUSDT",
+      "base": "GIGGLE",
+      "token_symbol": "giggle",
+      "multiplier": 1,
+      "platforms": {
+        "binance-smart-chain": "0x20d6015660b3fe52e6690a889b5c51f69902ce0e"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 8857399.616,
+      "mid": 39.545,
+      "spread_bps": 2.528764698444306,
+      "depth_10bps_usdt": 7968.6603000000005,
+      "roundtrip_100usdt_bps": 15.529084471420973,
+      "queried_file_mtime_ms": 1790469469401,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "peanut-the-squirrel",
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUTUSDT",
+      "base": "PNUT",
+      "token_symbol": "pnut",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 3895214.59858,
+      "mid": 0.055325,
+      "spread_bps": 1.8075011296875054,
+      "depth_10bps_usdt": 6760.20735,
+      "roundtrip_100usdt_bps": 16.391308749094435,
+      "queried_file_mtime_ms": 1790469496435,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "floki",
+      "name": "FLOKI",
+      "symbol": "1000FLOKIUSDT",
+      "base": "1000FLOKI",
+      "token_symbol": "floki",
+      "multiplier": 1000,
+      "platforms": {
+        "binance-smart-chain": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 6187207.85278,
+      "mid": 0.028765,
+      "spread_bps": 3.4764470710932014,
+      "depth_10bps_usdt": 5434.34231,
+      "roundtrip_100usdt_bps": 16.477051460361036,
+      "queried_file_mtime_ms": 1790469468800,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "spx6900",
+      "name": "SPX6900",
+      "symbol": "SPXUSDT",
+      "base": "SPX",
+      "token_symbol": "spx",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 7194312.1435,
+      "mid": 0.45325,
+      "spread_bps": 2.206287920573392,
+      "depth_10bps_usdt": 3409.6137,
+      "roundtrip_100usdt_bps": 15.206531332744621,
+      "queried_file_mtime_ms": 1790469510226,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "moo-deng",
+      "name": "Moo Deng",
+      "symbol": "MOODENGUSDT",
+      "base": "MOODENG",
+      "token_symbol": "moodeng",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 5610013.65236,
+      "mid": 0.048635,
+      "spread_bps": 2.0561324149281512,
+      "depth_10bps_usdt": 2446.07087,
+      "roundtrip_100usdt_bps": 17.038559622456805,
+      "queried_file_mtime_ms": 1790469489253,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "turbo",
+      "name": "Turbo",
+      "symbol": "TURBOUSDT",
+      "base": "TURBO",
+      "token_symbol": "turbo",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "2Dyzu65QA9zdX1UeE7Gx71k7fiwyUK6sZdrvJ7auq5wm"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 2440365.4255469,
+      "mid": 0.0010530000000000001,
+      "spread_bps": 3.798670465337224,
+      "depth_10bps_usdt": 1972.557083,
+      "roundtrip_100usdt_bps": 16.799392097263432,
+      "queried_file_mtime_ms": 1790469524285,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "pippin",
+      "name": "pippin",
+      "symbol": "PIPPINUSDT",
+      "base": "PIPPIN",
+      "token_symbol": "pippin",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 2679894.17328,
+      "mid": 0.019045,
+      "spread_bps": 5.250721974271249,
+      "depth_10bps_usdt": 1435.3035,
+      "roundtrip_100usdt_bps": 18.252100840336116,
+      "queried_file_mtime_ms": 1790469503347,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "goatseus-maximus",
+      "name": "Goatseus Maximus",
+      "symbol": "GOATUSDT",
+      "base": "GOAT",
+      "token_symbol": "goat",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 1313434.3018,
+      "mid": 0.019745,
+      "spread_bps": 5.064573309698451,
+      "depth_10bps_usdt": 1195.55122,
+      "roundtrip_100usdt_bps": 18.065856129686797,
+      "queried_file_mtime_ms": 1790469475673,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "melania-meme",
+      "name": "Melania Meme",
+      "symbol": "MELANIAUSDT",
+      "base": "MELANIA",
+      "token_symbol": "melania",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 2358432.993857,
+      "mid": 0.10772999999999999,
+      "spread_bps": 1.8564930845638286,
+      "depth_10bps_usdt": 1169.926248,
+      "roundtrip_100usdt_bps": 15.96048619004008,
+      "queried_file_mtime_ms": 1790469483307,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "test-3",
+      "name": "Test",
+      "symbol": "TSTUSDT",
+      "base": "TST",
+      "token_symbol": "tst",
+      "multiplier": 1,
+      "platforms": {
+        "binance-smart-chain": "0x86bb94ddd16efc8bc58e6b056e8df71d9e666429"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 4923641.357276,
+      "mid": 0.019194999999999997,
+      "spread_bps": 5.209690023443394,
+      "depth_10bps_usdt": 1049.01992,
+      "roundtrip_100usdt_bps": 19.75013835330862,
+      "queried_file_mtime_ms": 1790469516738,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "aixbt",
+      "name": "aixbt",
+      "symbol": "AIXBTUSDT",
+      "base": "AIXBT",
+      "token_symbol": "aixbt",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 3041677.61769,
+      "mid": 0.023895,
+      "spread_bps": 4.184975936388195,
+      "depth_10bps_usdt": 919.1720599999999,
+      "roundtrip_100usdt_bps": 17.185851820843745,
+      "queried_file_mtime_ms": 1790469440060,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "siren-2",
+      "name": "Siren",
+      "symbol": "SIRENUSDT",
+      "base": "SIREN",
+      "token_symbol": "siren",
+      "multiplier": 1,
+      "platforms": {
+        "binance-smart-chain": "0x997a58129890bbda032231a52ed1ddc845fc18e1"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 1448330.47297,
+      "mid": 0.023445,
+      "spread_bps": 4.265301770100061,
+      "depth_10bps_usdt": 655.96003,
+      "roundtrip_100usdt_bps": 18.682815486347526,
+      "queried_file_mtime_ms": 1790469509889,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "based-brett",
+      "name": "Brett",
+      "symbol": "BRETTUSDT",
+      "base": "BRETT",
+      "token_symbol": "brett",
+      "multiplier": 1,
+      "platforms": {
+        "binance-smart-chain": "0xa7440029eca41deabd8775ef1d6086b37d4df8d6"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 3674224.557724,
+      "mid": 0.0059229999999999994,
+      "spread_bps": 6.753334458888509,
+      "depth_10bps_usdt": 434.693067,
+      "roundtrip_100usdt_bps": 20.689202752125812,
+      "queried_file_mtime_ms": 1790469447877,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "bulla-3",
+      "name": "BULLA",
+      "symbol": "BULLAUSDT",
+      "base": "BULLA",
+      "token_symbol": "bulla",
+      "multiplier": 1,
+      "platforms": {
+        "binance-smart-chain": "0x595e21b20e78674f8a64c1566a20b2b316bc3511"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 16548921.226388,
+      "mid": 0.08897,
+      "spread_bps": 8.991794987075489,
+      "depth_10bps_usdt": 422.34643,
+      "roundtrip_100usdt_bps": 22.68478983141452,
+      "queried_file_mtime_ms": 1790469455185,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "chill-guy",
+      "name": "Just a chill guy",
+      "symbol": "CHILLGUYUSDT",
+      "base": "CHILLGUY",
+      "token_symbol": "chillguy",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 1334421.190984,
+      "mid": 0.013774499999999999,
+      "spread_bps": 3.6298958219897615,
+      "depth_10bps_usdt": 383.101615,
+      "roundtrip_100usdt_bps": 16.630554748765835,
+      "queried_file_mtime_ms": 1790469462600,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "zerebro",
+      "name": "Zerebro",
+      "symbol": "ZEREBROUSDT",
+      "base": "ZEREBRO",
+      "token_symbol": "zerebro",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 1227330.288378,
+      "mid": 0.0327365,
+      "spread_bps": 2.749224871321632,
+      "depth_10bps_usdt": 327.767914,
+      "roundtrip_100usdt_bps": 15.779584716896544,
+      "queried_file_mtime_ms": 1790469524470,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "banana-for-scale-2",
+      "name": "Banana For Scale",
+      "symbol": "BANANAS31USDT",
+      "base": "BANANAS31",
+      "token_symbol": "bananas31",
+      "multiplier": 1,
+      "platforms": {
+        "binance-smart-chain": "0x3d4f0513e8a29669b960f9dbca61861548a9a760"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 1629561.28106,
+      "mid": 0.007945500000000001,
+      "spread_bps": 6.292870178087968,
+      "depth_10bps_usdt": 219.327944,
+      "roundtrip_100usdt_bps": 20.276907881152983,
+      "queried_file_mtime_ms": 1790469448207,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "act-i-the-ai-prophecy",
+      "name": "Act I The AI Prophecy",
+      "symbol": "ACTUSDT",
+      "base": "ACT",
+      "token_symbol": "act",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 1325298.489374,
+      "mid": 0.0110545,
+      "spread_bps": 4.52304491383738,
+      "depth_10bps_usdt": 187.27371499999998,
+      "roundtrip_100usdt_bps": 22.127141085891743,
+      "queried_file_mtime_ms": 1790469440330,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    }
+  ],
+  "reserves": [
+    {
+      "coin_id": "moonbirds",
+      "name": "Moonbirds",
+      "symbol": "BIRBUSDT",
+      "base": "BIRB",
+      "token_symbol": "birb",
+      "multiplier": 1,
+      "platforms": {
+        "solana": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 924857.78816,
+      "mid": 0.06884000000000001,
+      "spread_bps": 5.8105752469492105,
+      "depth_10bps_usdt": 178.76628000000002,
+      "roundtrip_100usdt_bps": 22.80297260570362,
+      "queried_file_mtime_ms": 1790469489783,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    },
+    {
+      "coin_id": "toshi",
+      "name": "Toshi",
+      "symbol": "TOSHIUSDT",
+      "base": "TOSHI",
+      "token_symbol": "toshi",
+      "multiplier": 1,
+      "platforms": {
+        "binance-smart-chain": "0x6a2608dabe09bc1128eec7275b92dfb939d5db3f"
+      },
+      "meme_category_verified": true,
+      "volume_24h_usdt": 980241.6501368,
+      "mid": 0.00012985,
+      "spread_bps": 7.701193685021365,
+      "depth_10bps_usdt": 134.6120754,
+      "roundtrip_100usdt_bps": 20.70416024653331,
+      "queried_file_mtime_ms": 1790469517269,
+      "onchain_pool_validation": "PENDING_ON_USER_PC"
+    }
+  ],
+  "orders": false,
+  "not_frozen_for_live_test": true
+}

@@ -1,0 +1,19 @@
+{
+  "provider": "PUBLICNODE_BSC",
+  "duration_requested_seconds": 20,
+  "probe_only": true,
+  "orders": false,
+  "states": [
+    {
+      "kind": "chain_status",
+      "chain": "bsc",
+      "state": "CONNECTED",
+      "reason": null,
+      "available_ms": 1790472627571
+    }
+  ],
+  "counts": {
+    "chain_status": 1
+  },
+  "worker_stopped": true
+}
